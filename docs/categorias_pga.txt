@@ -1,0 +1,316 @@
+"agr";"";"Agricultura e pecuária";"Agricultura e pecuária";1
+"agr.ass";"agr";"Assessoria e pesquisa";"Assessoria e pesquisa";1
+"agr.equ";"agr";"Equipamentos";"Equipamentos";1
+"agr.est";"agr";"Estabelecimentos e produtos";"Estabelecimentos e produtos";1
+"ani";"";"Animais";"Animais";1
+"ani.ade";"ani";"Adestramento";"Adestramento";1
+"ani.aqu";"ani";"Aquário";"Aquário";1
+"ani.can";"ani";"Canil";"Canil";1
+"ani.har";"ani";"Haras";"Haras";1
+"ani.hot";"ani";"Hotel e Spa Animal";"Hotel e Spa Animal";1
+"ani.pet";"ani";"Pet Shop";"Pet Shop";1
+"ani.vet";"ani";"Veterinário";"Veterinário";1
+"art";"";"Arte e diversão";"Arte e diversão";1
+"art.ate";"art";"Atelie";"Atelie";1
+"art.cas";"art";"Casa de Shows";"Casa de Shows";1
+"art.cin";"art";"Cinema";"Cinema";1
+"art.clu";"art";"Clubes";"Clubes";1
+"art.fli";"art";"Fliperama";"Fliperama";1
+"art.gal";"art";"Galeria de Arte";"Galeria de Arte";1
+"art.pa1";"art";"Parque Temático";"Parque Temático";1
+"art.par";"art";"Parque Aquático";"Parque Aquático";1
+"art.tea";"art";"Teatro";"Teatro";1
+"art.zoo";"art";"Zoológico";"Zoológico";1
+"bar";"";"Bares e restaurantes";"Bares e restaurantes";1
+"bar.bar";"bar";"Bares";"Bares";1
+"bar.bar.bot";"bar.bar";"Botecos";"Botecos";1
+"bar.bar.esp";"bar.bar";"Esportivo";"Esportivo";1
+"bar.bar.kar";"bar.bar";"Karaokê";"Karaokê";1
+"bar.bar.pub";"bar.bar";"Pub";"Pub";1
+"bar.bar.sin";"bar.bar";"Sinuca";"Sinuca";1
+"bar.res";"bar";"Restaurantes";"Restaurantes";1
+"bar.res.ale";"bar.res";"Alemão";"Alemão";1
+"bar.res.ame";"bar.res";"Americano";"Americano";1
+"bar.res.ara";"bar.res";"Árabe";"Árabe";1
+"bar.res.arg";"bar.res";"Argentino";"Argentino";1
+"bar.res.asi";"bar.res";"Asiático";"Asiático";1
+"bar.res.aus";"bar.res";"Australiano";"Australiano";1
+"bar.res.bra";"bar.res";"Brasileiro";"Brasileiro";1
+"bar.res.ch1";"bar.res";"Chinês";"Chinês";1
+"bar.res.chi";"bar.res";"Chileno";"Chileno";1
+"bar.res.chu";"bar.res";"Churrascaria";"Churrascaria";1
+"bar.res.con";"bar.res";"Contemporâneo";"Contemporâneo";1
+"bar.res.cor";"bar.res";"Coreano";"Coreano";1
+"bar.res.esp";"bar.res";"Espanhol";"Espanhol";1
+"bar.res.fra";"bar.res";"Francês";"Francês";1
+"bar.res.ind";"bar.res";"Indiano";"Indiano";1
+"bar.res.ita";"bar.res";"Italiano";"Italiano";1
+"bar.res.jap";"bar.res";"Japonês";"Japonês";1
+"bar.res.med";"bar.res";"Mediterrâneo";"Mediterrâneo";1
+"bar.res.mex";"bar.res";"Mexicano";"Mexicano";1
+"bar.res.pei";"bar.res";"Peixe e Frutos do Mar";"Peixe e Frutos do Mar";1
+"bar.res.piz";"bar.res";"Pizzaria";"Pizzaria";1
+"bar.res.por";"bar.res";"Português";"Português";1
+"bar.res.sui";"bar.res";"Suíço";"Suíço";1
+"bar.res.tai";"bar.res";"Tailandês";"Tailandês";1
+"bar.res.veg";"bar.res";"Vegetariano e Vegano";"Vegetariano e Vegano";1
+"cas";"";"Casa e construção";"Casa e construção";1
+"cas.ban";"cas";"Banheiro e Lavatório";"Banheiro e Lavatório";1
+"cas.cac";"cas";"Caçamba";"Caçamba";1
+"cas.cem";"cas";"Cemitério de Azulejos";"Cemitério de Azulejos";1
+"cas.cli";"cas";"Climatização";"Climatização";1
+"cas.des";"cas";"Design de Interiores";"Design de Interiores";1
+"cas.ele";"cas";"Elétrica e Iluminação";"Elétrica e Iluminação";1
+"cas.emp";"cas";"Empreiteira";"Empreiteira";1
+"cas.esq";"cas";"Esquadrias";"Esquadrias";1
+"cas.fer";"cas";"Ferramentas e Ferragem";"Ferramentas e Ferragem";1
+"cas.ges";"cas";"Gesso";"Gesso";1
+"cas.hid";"cas";"Hidráulica";"Hidráulica";1
+"cas.ja1";"cas";"Jardinagem e paisagismo";"Jardinagem e paisagismo";1
+"cas.jar";"cas";"Jardinagem";"Jardinagem";1
+"cas.lar";"cas";"Lareiras";"Lareiras";1
+"cas.ma1";"cas";"Marido de Aluguel";"Marido de Aluguel";1
+"cas.ma2";"cas";"Marmoraria";"Marmoraria";1
+"cas.mar";"cas";"Marcenaria";"Marcenaria";1
+"cas.mat";"cas";"Materiais de Construção";"Materiais de Construção";1
+"cas.ped";"cas";"Pedreiro";"Pedreiro";1
+"cas.pi1";"cas";"Piscinas";"Piscinas";1
+"cas.pin";"cas";"Pintor";"Pintor";1
+"cas.pis";"cas";"Piso e Revestimento";"Piso e Revestimento";1
+"cas.por";"cas";"Porta e Janela";"Porta e Janela";1
+"cas.seg";"cas";"Segurança";"Segurança";1
+"cas.ser";"cas";"Serralheiro";"Serralheiro";1
+"cas.tap";"cas";"Tapeçaria";"Tapeçaria";1
+"cas.tel";"cas";"Tela";"Tela";1
+"cas.tol";"cas";"Toldo e Telha";"Toldo e Telha";1
+"cas.vid";"cas";"Vidraçaria";"Vidraçaria";1
+"com";"";"Comida e bebida";"Comida e bebida";1
+"com.buf";"com";"Buffet a Quilo";"Buffet a Quilo";1
+"com.caf";"com";"Café e Coffee Shop";"Café e Coffee Shop";1
+"com.cha";"com";"Chá";"Chá";1
+"com.cup";"com";"Cupcakeria";"Cupcakeria";1
+"com.doc";"com";"Doceria";"Doceria";1
+"com.doc.fab";"com.doc";"Fabrica";"Fabrica";1
+"com.doc.loj";"com.doc";"Loja";"Loja";1
+"com.far";"com";"Farinhas e massas";"Farinhas e massas";1
+"com.lan";"com";"Lanchonete";"Lanchonete";1
+"com.pad";"com";"Padaria";"Padaria";1
+"com.sal";"com";"Salgados";"Salgados";1
+"com.sor";"com";"Sorveteria";"Sorveteria";1
+"com.suc";"com";"Suco Natural";"Suco Natural";1
+"edu";"";"Educação";"Educação";1
+"edu.ber";"edu";"Berçário";"Berçário";1
+"edu.cre";"edu";"Creche";"Creche";1
+"edu.cu1";"edu";"Curso Profissionalizante";"Curso Profissionalizante";1
+"edu.cu2";"edu";"Curso de Informática";"Curso de Informática";1
+"edu.cur";"edu";"Cursinhos";"Cursinhos";1
+"edu.esc";"edu";"Escola";"Escola";1
+"edu.esc.es1";"edu.esc";"Escola de Idiomas";"Escola de Idiomas";1
+"edu.esc.esc";"edu.esc";"Escola de Música";"Escola de Música";1
+"edu.fac";"edu";"Faculdades e Universidades";"Faculdades e Universidades";1
+"esc";"";"Escritórios";"Escritórios";1
+"esc.cen";"esc";"Centro Empresarial";"Centro Empresarial";1
+"esc.coo";"esc";"Cooperativa";"Cooperativa";1
+"esc.ong";"esc";"ONGs";"ONGs";1
+"esc.org";"esc";"Organizações e Associações";"Organizações e Associações";1
+"esc.pre";"esc";"Prédio";"Prédio";1
+"esp";"";"Esportes";"Esportes";1
+"esp.aca";"esp";"Academia";"Academia";1
+"esp.art";"esp";"Artes Marciais";"Artes Marciais";1
+"esp.bol";"esp";"Boliche";"Boliche";1
+"esp.cic";"esp";"Ciclismo";"Ciclismo";1
+"esp.dan";"esp";"Dança";"Dança";1
+"esp.equ";"esp";"Equitação";"Equitação";1
+"esp.esc";"esp";"Escoteiro";"Escoteiro";1
+"esp.esp";"esp";"Esportes Radicais";"Esportes Radicais";1
+"esp.fut";"esp";"Futebol";"Futebol";1
+"esp.fut.agr";"esp.fut";"Agremiações (Times e associações)";"Agremiações (Times e associações)";1
+"esp.fut.esc";"esp.fut";"Escolinhas";"Escolinhas";1
+"esp.fut.est";"esp.fut";"Estádios";"Estádios";1
+"esp.fut.qua";"esp.fut";"Quadras";"Quadras";1
+"esp.fut.tor";"esp.fut";"Torcidas";"Torcidas";1
+"esp.gin";"esp";"Ginásio Poliesportivo";"Ginásio Poliesportivo";1
+"esp.gol";"esp";"Golfe";"Golfe";1
+"esp.kar";"esp";"Kart";"Kart";1
+"esp.mer";"esp";"Mergulho";"Mergulho";1
+"esp.nat";"esp";"Natação";"Natação";1
+"esp.pai";"esp";"Paintball";"Paintball";1
+"esp.pat";"esp";"Patinação";"Patinação";1
+"esp.per";"esp";"Personal Trainer";"Personal Trainer";1
+"esp.pes";"esp";"Pesca";"Pesca";1
+"esp.pil";"esp";"Pilates";"Pilates";1
+"esp.squ";"esp";"Squash";"Squash";1
+"esp.sur";"esp";"Surf";"Surf";1
+"esp.ten";"esp";"Tênis";"Tênis";1
+"esp.yog";"esp";"Yoga";"Yoga";1
+"loj";"";"Lojas";"Lojas";1
+"loj.ant";"loj";"Antiquário";"Antiquário";1
+"loj.ar1";"loj";"Artigos Esportivos";"Artigos Esportivos";1
+"loj.art";"loj";"Artesanato";"Artesanato";1
+"loj.ban";"loj";"Banca de Jornal";"Banca de Jornal";1
+"loj.cds";"loj";"CDs & DVDs";"CDs & DVDs";1
+"loj.cel";"loj";"Celular";"Celular";1
+"loj.cos";"loj";"Cosmético e perfumaria";"Cosmético e perfumaria";1
+"loj.e-1";"loj";"E-Commerce";"E-Commerce";1
+"loj.e-c";"loj";"E-Commerce";"E-Commerce";1
+"loj.ele";"loj";"Eletrodoméstico e Eletrônicos";"Eletrodoméstico e Eletrônicos";1
+"loj.fog";"loj";"Fogos de Artifício";"Fogos de Artifício";1
+"loj.inf";"loj";"Informática";"Informática";1
+"loj.joa";"loj";"Joalheria";"Joalheria";1
+"loj.loj";"loj";"Loja de Departamentos";"Loja de Departamentos";1
+"loj.mov";"loj";"Móveis e decoração";"Móveis e decoração";1
+"loj.mov.dec";"loj.mov";"Decoração";"Decoração";1
+"loj.mov.mov";"loj.mov";"Móveis";"Móveis";1
+"loj.pap";"loj";"Papelaria";"Papelaria";1
+"loj.pis";"loj";"Pisos e revestimentos";"Pisos e revestimentos";1
+"loj.rel";"loj";"Relojoaria";"Relojoaria";1
+"loj.seb";"loj";"Sebo";"Sebo";1
+"loj.sho";"loj";"Shopping Center";"Shopping Center";1
+"loj.tab";"loj";"Tabacaria";"Tabacaria";1
+"loj.tap";"loj";"Tapeçaria";"Tapeçaria";1
+"loj.ves";"loj";"Vestuário";"Vestuário";1
+"loj.ves.mo1";"loj.ves";"Moda feminina";"Moda feminina";1
+"loj.ves.mo2";"loj.ves";"Moda infantil";"Moda infantil";1
+"loj.ves.mod";"loj.ves";"Moda masculina";"Moda masculina";1
+"mer";"";"Mercados";"Mercados";1
+"mer.aco";"mer";"Açougue";"Açougue";1
+"mer.ade";"mer";"Adega";"Adega";1
+"mer.ces";"mer";"Cesta de Café da Manhã";"Cesta de Café da Manhã";1
+"mer.con";"mer";"Congelados";"Congelados";1
+"mer.dis";"mer";"Distribuidora de Água";"Distribuidora de Água";1
+"mer.fei";"mer";"Feira Hortifruti";"Feira Hortifruti";1
+"mer.fri";"mer";"Frigorífico";"Frigorífico";1
+"mer.gel";"mer";"Gelo";"Gelo";1
+"mer.mer";"mer";"Mercearia";"Mercearia";1
+"mer.pei";"mer";"Peixaria";"Peixaria";1
+"mer.rot";"mer";"Rotisserie";"Rotisserie";1
+"mer.su1";"mer";"Suplemento Alimentar";"Suplemento Alimentar";1
+"mer.sup";"mer";"Supermercado";"Supermercado";1
+"rel";"";"Religião";"Religião";1
+"rel.igr";"rel";"Igreja";"Igreja";1
+"rel.mes";"rel";"Mesquita";"Mesquita";1
+"rel.san";"rel";"Santuário";"Santuário";1
+"rel.sin";"rel";"Sinagoga";"Sinagoga";1
+"rel.tem";"rel";"Templo";"Templo";1
+"sau";"";"Saúde e beleza";"Saúde e beleza";1
+"sau.bel";"sau";"Beleza";"Beleza";1
+"sau.bel.cli";"sau.bel";"Clínica de Estética";"Clínica de Estética";1
+"sau.bel.maq";"sau.bel";"Maquiagem";"Maquiagem";1
+"sau.bel.mas";"sau.bel";"Massagem";"Massagem";1
+"sau.bel.med";"sau.bel";"Medicina Estética";"Medicina Estética";1
+"sau.bel.pod";"sau.bel";"Podologia";"Podologia";1
+"sau.bel.sal";"sau.bel";"Salão de Beleza e Barbearia";"Salão de Beleza e Barbearia";1
+"sau.bel.spa";"sau.bel";"Spa";"Spa";1
+"sau.bel.tat";"sau.bel";"Tatuagem e Piercing";"Tatuagem e Piercing";1
+"sau.sau";"sau";"Saúde";"Saúde";1
+"sau.sau.cas";"sau.sau";"Casas de Repouso";"Casas de Repouso";1
+"sau.sau.cli";"sau.sau";"Clínica de Saúde";"Clínica de Saúde";1
+"sau.sau.far";"sau.sau";"Farmácia";"Farmácia";1
+"sau.sau.hos";"sau.sau";"Hospitais e Maternidades";"Hospitais e Maternidades";1
+"sau.sau.lab";"sau.sau";"Laboratórios";"Laboratórios";1
+"sau.sau.me1";"sau.sau";"Médico do Trabalho";"Médico do Trabalho";1
+"sau.sau.med";"sau.sau";"Médicos";"Médicos";1
+"sau.sau.pos";"sau.sau";"Posto de Saúde";"Posto de Saúde";1
+"se1";"";"Serviços publicos";"Serviços publicos";1
+"se1.bas";"se1";"Base Militar";"Base Militar";1
+"se1.bib";"se1";"Bibliotecas";"Bibliotecas";1
+"se1.bom";"se1";"Bombeiros";"Bombeiros";1
+"se1.cam";"se1";"Câmara";"Câmara";1
+"se1.car";"se1";"Cartórios";"Cartórios";1
+"se1.con";"se1";"Consulado e Embaixada";"Consulado e Embaixada";1
+"se1.del";"se1";"Delegacias de Polícia";"Delegacias de Polícia";1
+"se1.for";"se1";"Fórum e Tribunal";"Fórum e Tribunal";1
+"se1.pre";"se1";"Prefeituras";"Prefeituras";1
+"se1.sin";"se1";"Sindicatos";"Sindicatos";1
+"ser";"";"Serviços";"Serviços";1
+"ser.adv";"ser";"Advogados";"Advogados";1
+"ser.age";"ser";"Agência de Modelos";"Agência de Modelos";1
+"ser.alf";"ser";"Alfaiate";"Alfaiate";1
+"ser.ass";"ser";"Assistências Técnicas";"Assistências Técnicas";1
+"ser.aut";"ser";"Auto-escolas";"Auto-escolas";1
+"ser.ban";"ser";"Bancos";"Bancos";1
+"ser.cas";"ser";"Casa de Câmbio";"Casa de Câmbio";1
+"ser.cha";"ser";"Chaveiros";"Chaveiros";1
+"ser.co1";"ser";"Corretores de Seguros";"Corretores de Seguros";1
+"ser.con";"ser";"Contadores";"Contadores";1
+"ser.cor";"ser";"Correios";"Correios";1
+"ser.cos";"ser";"Costureiras";"Costureiras";1
+"ser.de1";"ser";"Despachantes";"Despachantes";1
+"ser.ded";"ser";"Dedetização";"Dedetização";1
+"ser.des";"ser";"Desentupidora";"Desentupidora";1
+"ser.det";"ser";"Detetive";"Detetive";1
+"ser.dis";"ser";"Distribuidoras de Gás";"Distribuidoras de Gás";1
+"ser.emp";"ser";"Empregos";"Empregos";1
+"ser.est";"ser";"Estúdio de Música";"Estúdio de Música";1
+"ser.fei";"ser";"Feira de artesanato e produtos";"Feira de artesanato e produtos";1
+"ser.fin";"ser";"Financeiras";"Financeiras";1
+"ser.fot";"ser";"Fotógrafo";"Fotógrafo";1
+"ser.fun";"ser";"Funerárias e Cemitérios";"Funerárias e Cemitérios";1
+"ser.gra";"ser";"Gráficas";"Gráficas";1
+"ser.gra.con";"ser.gra";"Convite";"Convite";1
+"ser.imo";"ser";"Imobiliária";"Imobiliária";1
+"ser.lan";"ser";"Lan Houses";"Lan Houses";1
+"ser.lav";"ser";"Lavanderias";"Lavanderias";1
+"ser.lei";"ser";"Leilão";"Leilão";1
+"ser.lot";"ser";"Lotéricas";"Lotéricas";1
+"ser.org";"ser";"Organização de festas e eventos";"Organização de festas e eventos";1
+"ser.org.ani";"ser.org";"Animações e entretenimento";"Animações e entretenimento";1
+"ser.org.cen";"ser.org";"Centro de Eventos";"Centro de Eventos";1
+"ser.org.dec";"ser.org";"Decoração de eventos";"Decoração de eventos";1
+"ser.org.fan";"ser.org";"Fantasia";"Fantasia";1
+"ser.org.let";"ser.org";"Letreiro";"Letreiro";1
+"ser.ser";"ser";"Serviços de Limpeza";"Serviços de Limpeza";1
+"ser.sex";"ser";"Sex shops";"Sex shops";1
+"ser.tel";"ser";"Telemensagens";"Telemensagens";1
+"ser.tra";"ser";"Tradutores";"Tradutores";1
+"ser.vid";"ser";"Videolocadoras";"Videolocadoras";1
+"tra";"";"Transporte";"Transporte";1
+"tra.aer";"tra";"Aeroportos";"Aeroportos";1
+"tra.es1";"tra";"Estações de metrô";"Estações de metrô";1
+"tra.es2";"tra";"Estações de trem";"Estações de trem";1
+"tra.est";"tra";"Estacionamentos";"Estacionamentos";1
+"tra.mot";"tra";"Motoboys";"Motoboys";1
+"tra.pon";"tra";"Pontos de Táxis";"Pontos de Táxis";1
+"tra.ter";"tra";"Terminais Rodoviários";"Terminais Rodoviários";1
+"tra.tra";"tra";"Transportadoras";"Transportadoras";1
+"vei";"";"Veículos";"Veículos";1
+"vei.aut";"vei";"Auto Elétricas";"Auto Elétricas";1
+"vei.bli";"vei";"Blindagem";"Blindagem";1
+"vei.con";"vei";"Concessionárias";"Concessionárias";1
+"vei.fer";"vei";"Ferro Velho";"Ferro Velho";1
+"vei.fun";"vei";"Funilaria";"Funilaria";1
+"vei.gas";"vei";"Gás Veicular";"Gás Veicular";1
+"vei.gui";"vei";"Guincho";"Guincho";1
+"vei.ins";"vei";"Inspeção Veicular";"Inspeção Veicular";1
+"vei.lav";"vei";"Lava Rápido";"Lava Rápido";1
+"vei.mec";"vei";"Mecânica";"Mecânica";1
+"vei.pec";"vei";"Peças";"Peças";1
+"vei.pne";"vei";"Pneus, Alinhamento e Balanceamento";"Pneus, Alinhamento e Balanceamento";1
+"vei.pos";"vei";"Posto de Gasolina";"Posto de Gasolina";1
+"vei.ret";"vei";"Retificadora";"Retificadora";1
+"vei.som";"vei";"Som";"Som";1
+"vei.vid";"vei";"Vidro Automotivo";"Vidro Automotivo";1
+"via";"";"Viagens e Turismo";"Viagens e Turismo";1
+"via.age";"via";"Agência de Turismo";"Agência de Turismo";1
+"via.alb";"via";"Albergue e hostel";"Albergue e hostel";1
+"via.cam";"via";"Camping";"Camping";1
+"via.cen";"via";"Centro de Informações";"Centro de Informações";1
+"via.hot";"via";"Hotel";"Hotel";1
+"via.loc";"via";"Locadora de Veículos";"Locadora de Veículos";1
+"via.lug";"via";"Lugares";"Lugares";1
+"via.lug.cac";"via.lug";"Cachoeira e rio";"Cachoeira e rio";1
+"via.lug.far";"via.lug";"Farol";"Farol";1
+"via.lug.faz";"via.lug";"Fazenda";"Fazenda";1
+"via.lug.jar";"via.lug";"Jardim";"Jardim";1
+"via.lug.mir";"via.lug";"Mirante";"Mirante";1
+"via.lug.mon";"via.lug";"Monumento";"Monumento";1
+"via.lug.mus";"via.lug";"Museu";"Museu";1
+"via.lug.par";"via.lug";"Parque";"Parque";1
+"via.lug.pr1";"via.lug";"Praça";"Praça";1
+"via.lug.pra";"via.lug";"Praia";"Praia";1
+"via.lug.ser";"via.lug";"Serra";"Serra";1
+"via.mot";"via";"Motel e Drive In";"Motel e Drive In";1
+"via.pen";"via";"Pensionato (Pensões)";"Pensionato (Pensões)";1
+"via.pou";"via";"Pousada";"Pousada";1
+"via.res";"via";"Resort";"Resort";1
+"";"";"";"";
