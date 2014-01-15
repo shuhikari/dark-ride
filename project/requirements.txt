@@ -8,4 +8,5 @@ ipdb==0.8
 ipython==1.1.0
 six==1.5.2
 sqlparse==0.1.10
+unicodecsv==0.9.4
 wsgiref==0.1.2
