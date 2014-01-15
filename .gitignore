@@ -47,6 +47,7 @@ nosetests.xml
 *~
 *.swp
 *.DS_Store
+**.~lock**
 
 # Projeto
 *.db
