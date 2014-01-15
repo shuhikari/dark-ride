@@ -39,6 +39,7 @@ INSTALLED_APPS = (
     'south',
     'category',
     'django_extensions',
+    'mptt',
 
 )
 
