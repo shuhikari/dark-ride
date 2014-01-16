@@ -22,7 +22,7 @@ class Category(MPTTModel):
 
 
 class OldCategory(models.Model):
-    category = models.ForeignKey('Category', null=True, blank=True)
+    category = models.ForeignKey('Category', null=True, blank=True, verbose_name="Categoria(fk)")
     cod = models.IntegerField(u'Código')
     title = models.CharField(u'Título', max_length=255)
 

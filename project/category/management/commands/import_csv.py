@@ -2,7 +2,7 @@
 # coding=utf-8
 
 import os
-from project import settings as base
+from project import settings
 from optparse import make_option
 from django.core.management.base import BaseCommand, CommandError
 from category.models import Category
@@ -18,12 +18,13 @@ class Command(BaseCommand):
     def handle(self, csv, **options):
         #import ipdb; ipdb.set_trace();
         if not csv:
-            return u'Digite --csv="nome_do_arquivo.csv" : Diretório Base: ' + base.BASE_DIR + '/docs/'
+            raise CommandError(u'Digite --csv="nome_do_arquivo.csv" : Diretório Base: {0} /docs/'.format(
+                settings.BASE_DIR))
         else:
             if not '.csv' in csv:
                 csv = csv + '.csv'
             try:
-                url = os.path.abspath(os.path.join(base.BASE_DIR, os.pardir))
+                url = os.path.abspath(os.path.join(settings.BASE_DIR, os.pardir))
                 doc_dir = url + '/docs/'
                 arquivo = open(doc_dir + csv)
                 texto = arquivo.readlines()
@@ -35,7 +36,7 @@ class Command(BaseCommand):
                                  title=str(l[2].replace('"', '')),
                                   description=str(l[3].replace('"', '')),
                                   qt=l[4].replace('"', ''))
-                    print 'Inserindo linha: ' + str(idx+1)
+                    self.stdout.write('Inserindo linha: {0}'.format(str(idx+1)))
             except Exception as e:
                  print e
 

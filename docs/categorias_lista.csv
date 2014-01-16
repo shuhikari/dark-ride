@@ -1,2197 +1,2197 @@
-2,Auto-Escolas,ser.aut,
-3,Despachantes,ser.de1,
-4,"Autódromos e Kartódromos",Esportes>Automobilismo,
-5,"Automação Predial e Residencial",cas.seg,
-6,Esquadrias,cas.esq,
-8,Alarmes,cas.seg,
-9,"Segurança - Equip e Sistemas",cas.seg,
-10,"Automóveis - Acessórios",Veículos>Acessórios,
-11,"Automóveis - Peças e Serviços",vei.pec,
-12,"Automóveis - Bancos; Capas e Estofados",vei.pec,
-13,"Automóveis - Amortecedores",vei.pec,
-14,"Automóveis - Escapamentos",vei.pec,
-15,"Capotas para Veículos",vei.pec,
-16,"Automóveis - Vidros",vei.vid,
-17,"Som - Projetos e Instalações",vei.som,
-18,Acupuntura,"Saúde e beleza>Saúde>Acupunturista",
-19,"Fisioterapia - Equip","Saúde e beleza>Saúde>Equipamentos para hospitais e laboratórios",
-20,"Hospitais - Art e Equip","Saúde e beleza>Saúde>Equipamentos para hospitais e laboratórios",
-21,Massagens,sau.bel.mas,
-22,"A Quilo (Restaurantes)",bar.res,
-23,"Acarajé e Abará",bar.res.bra,
-24,Adegas,mer.ade,
-25,"Administração de Bens e Imóveis",ser,
-26,Avaliadores,ser,
-27,"Corretores de Imóveis",ser.imo,
-28,Imobiliárias,ser.imo,
-29,"Automóveis - Adaptação para Deficientes Físicos",vei,
-30,"Automóveis - Alinhamento e Balanceamento",vei.pne,
-31,Pneus,vei.pne,
-32,"Automóveis - Injeção Eletrônica",vei.mec,
-33,Auto-Elétricos,vei.aut,
-34,"Adubos e Fertilizantes",cas.ja1,
-35,Grama,cas.ja1,
-36,"Irrigação - Sistemas",cas.ja1,
-37,"Automóveis - Aluguel 24h","Veículos>Locadora de veículos",
-38,"Automóveis - Aluguel","Veículos>Locadora de veículos",
-39,"Ônibus - Aluguel","Veículos>Locadora de veículos",
-40,"Vans - Aluguel","Veículos>Locadora de veículos",
-41,"Reboques e Engates",vei.gui,
-42,"Companhias Aéreas",tra,
-43,"Navegação Marítima",tra,
-44,"Turismo - Agências",via.age,
-45,"Balas e Bombons",com.doc,
-46,"Aeroportos - Serviços de Apoio",tra.aer,
-47,"Agências de Casamento","Serviços>Agências>Agência de casamento",
-48,"Água - Fornecedores",ser,
-49,"Carros - Pipa",ser,
-50,"Água - Fornecedores 24h",ser,
-51,"Água e Esgotos",ser,
-52,"Limpeza Industrial",ser,
-53,"Água Mineral",mer.dis,
-54,Balões,ser.org.dec,
-55,"Bancas de Jornais 24h",loj.ban,
-56,"Cabeleireiros e Institutos de Beleza - Art e Equip","Saúde e beleza>Beleza>Artigos e equipamentos de beleza",
-57,"Banheiros Químicos",ser,
-58,"Arquibancadas e Palcos - Montagens",ser.org,
-59,"Fossas Sépticas",ser,
-60,Desentupimento,ser.des,
-61,"Entulho - Coleta",ser,
-62,Álbuns,ser.fot,
-63,Barbeiros,sau.bel.sal,
-64,"Cabeleireiros e Institutos de Beleza",sau.bel.sal,
-65,"Tratamento do Cabelo",sau.bel.sal,sau.sau
-66,"Ambulâncias - Serviços de Remoção 24h",sau.sau,
-67,"Ambulâncias - Serviços de Remoção",sau.sau,
-68,"Bares e Choperias",bar,
-69,"Lanchonetes (Restaurantes)",com.lan,
-70,Pizzarias,bar.res.piz,
-71,Churrascarias,bar.res.chu,
-72,"Grelhados (Restaurantes)",bar.res,bar
-73,"Culinária Brasileira",bar.res.bra,
-74,"Fast Food","Comida e bebida> Fast Food",
-75,"Steak House","Bares e restaurantes>Restaurantes>Steak House",
-76,Esteticistas,sau.bel.med,
-77,"Produtos Naturais e Dietéticos","Mercados>Produtos Naturais e Dietéticos",
-78,"Roupas Femininas - Lojas",loj.ves.mo1,
-79,Ambulatórios,sau.sau.hos,
-80,"Clínicas Médicas",sau.sau.cli,
-81,"Animais - Institutos de Beleza",ani,
-82,"Anticorrosão - Materiais e Serviços",cas.mat,
-83,"Ar-Condicionado para Veículos",vei,
-84,"Automóveis - Blindagem",vei.bli,
-85,"Oficinas Mecânicas",vei.mec,
-86,"Automóveis - Direção Hidráulica",vei.mec,
-87,"Som - Aparelhos",vei.som,
-88,"Armarinhos - Artigos",cas,
-89,"Peças e Acessórios para Veículos - Repr",vei.pec,
-90,"Auto-Peças - Distr",vei.pec,
-91,"Automóveis - Chaparia e Pintura",vei.fun,
-92,"Automóveis - Funilaria e Pintura""vei.fun",,
-93,Armarinhos,cas,
-94,"Artesanato e Artigos Regionais",loj.art,
-95,"Roupas de Cama; Mesa e Banho - Lojas",loj,
-96,"Tecidos - Lojas",loj,
-97,"Automóveis - Chapeação e Pintura",vei.fun,
-98,"Automóveis - Clínicas de Trânsito""vei",,
-99,"Automóveis - Conversão para Gás Natural Veicular",vei.gas,
-100,"Bombas - Conserto",ser,
-101,"Cilindros de Aço; Hidráulicos e Pneumáticos",Outros,
-102,"Equipamentos a Óleo - Hidráulicos e Pneum.",Outros,
-103,"Automóveis - Dispositivos Anti-roubo",vei,
-104,"Automóveis - Freios",vei,
-105,"Arquivos - Sistemas de Organização",Outros,
-106,Arquivos,Outros,
-107,Cofres,loj,
-108,"Móveis - Lojas",loj.mov.mov,
-109,"Automóveis - Inspeção Veicular",vei.ins,
-110,"Asilos e Abrigos",sau.sau.cas,
-111,"Clínicas de Repouso",sau.sau.cas,
-112,"Clínicas Geriátricas",sau.sau.cas,
-113,"Automóveis - Lanternagem e Pintura",vei.fun,
-114,"Automóveis - Pára-Choques",vei.pec,
-115,"Automóveis - Lataria",vei.fun,
-116,"Baterias (Lojas e Serviços)",vei.pec,
-118,"Rolamentos e Retentores",vei.pec,
-119,"Tratores - Conserto e Peças",vei.pec,
-120,"Automóveis - Revendedores e Concessionárias",vei.con,
-121,"Bombas Injetoras",vei.pec,
-122,"Baterias - Atac e Fab",vei.pec,
-123,"Assessoria de Moda",sau.bel,
-124,Seguros,ser.co1,
-125,"Planos de Saúde",sau.sau,
-126,"Assistência Médica e Odontológica",sau.sau,
-127,"Planos de Saúde - Representantes",sau.sau,
-128,"Planos de Saúde - Atendimento 24h",sau.sau,
-129,"Seguros - Corretores",ser.co1,
-130,"Barracas de Praia (Restaurantes)",bar.res,
-131,Bartenders,ser,
-132,"Associações Beneficentes",esc.org,
-133,Berçários,sau.sau.hos,
-134,"Escolas de Educação Infantil",edu.esc,
-135,Bistrôs,bar.res,
-136,"Portas de Vidro",cas.por,
-137,"Vidro de Segurança",cas.vid,
-138,Blindagens,cas.vid,
-139,"Blocos Carnavalescos e Escolas de Samba",edu.esc,
-140,Boates,art.cas,
-141,"Casas Noturnas",art.cas,
-142,Bolas,Outros,
-143,"Bolsas - Art e Equip para Fabricar",loj.ves,
-144,"Bolsas - Atac e Fab",loj.ves,
-145,Bolsas,loj.ves,
-146,Brindes,loj,
-147,Turbinas,Outros,
-148,"Ferramentas Elétricas",cas.fer,
-149,"Bombeiros Hidráulicos","Serviços>Bombeiro hidráulico",
-150,Eletricistas,Serviços>Eletricista,
-151,"Imóveis - Reforma",cas,
-152,"Instalações Elétricas",cas.ele,
-153,Chaveiros,ser.cha,
-154,"Cadastro - Serviços",-,
-155,"Cafés / Cafeterias",com.caf,
-156,"Associações Comerciais",esc.org,
-157,"Calçados - Art para Fabricar",loj.ves,
-158,"Calçados - Atac e Fab",loj.ves,
-159,"Calçados - Lojas",loj.ves,
-160,"Datilografia - Serviços",ser,
-161,"Decoração - Art e Serviços",loj.mov.dec,
-162,"Móveis Infantis e Juvenis",loj.mov.mov,
-163,"Papel de Parede - Lojas",cas,
-164,"Cortinas e Acessórios","Casa e construção>Cortinas e Persianas",
-165,Persianas,"Casa e construção>Cortinas e Persianas",
-166,Azulejos,cas.pis,
-167,Pisos,cas.pis,
-168,Presentes,loj,
-169,Arquitetos,Serviços>Arquiteto,
-170,"Cestas de Café da Manhã e Natal",mer.ces,
-171,"Flores - Ornamentação",Lojas>Floricultura,
-172,"Placas de Identificação",ser.org.let,
-173,Buffets,com.buf,
-174,"Eventos - Organização e Promoção",ser.org,ser
-175,Floriculturas,Lojas>Floricultura,
-176,"Associações Culturais; Desportivas e Sociais",esc.org,
-177,"Editoração Eletrônica",Serviços>Informática>Design,
-178,"Eletricistas 24h",cas.ele,
-179,Encanadores,ser.des,
-180,"Construção Civil",cas.emp,
-181,"Eletricidade - Empresas",cas.ele,
-182,"Cercas Elétricas",cas.seg,
-183,Antiquários,loj.ant,
-184,"Dedetização e Desratização",ser.ded,
-185,Uniformes,loj.ves,
-186,"Engenharia - Empresas",cas,
-187,"Informática - Redes",ser.inf,
-188,Aquecedores,cas.cli,
-189,Delicatessen,bar.res,
-190,"Emergências e Atendimento Hospitalar 24h",sau.sau.hos,
-191,Empilhadeiras,"Casa e construção>Reforma",
-192,Guinchos,vei.gui,
-193,"Caminhões - Aluguel",via.loc,
-194,Guindastes,cas.emp,
-195,"Construção - Máq e Equip",cas.emp,
-196,Compressores,"Lojas>Máquinas e equipamentos",
-197,"Transporte Pesado",tra.tra,
-199,"Dentistas - Cirurgia e Traumatologia Bucomaxilofacial","Saúde e beleza>Saúde>Dentista",
-200,"Dentistas - Implantodontia","Saúde e beleza>Saúde>Dentista",
-201,"Automóveis - Peças Usadas e Recondicionadas",vei.pec,
-202,Ferro-Velho,vei.fer,
-203,"Dentistas - Dentística Restauradora","Saúde e beleza>Saúde>Dentista",
-204,"Empresários Artísticos",ser.org,
-205,"Automóveis - Reboques e Oficinas 24h",vei.gui,
-206,"Automóveis - Socorro",vei.gui,
-207,"Clínicas Odontológicas","Saúde e beleza>Saúde>Dentista",
-208,Dentistas,"Saúde e beleza>Saúde>Dentista",
-209,"Dentistas - Endodontia","Saúde e beleza>Saúde>Dentista",
-210,Encadernadores,ser.gra,
-211,"Dentistas - Estomatologia","Saúde e beleza>Saúde>Dentista",
-212,"Dentistas - Ortodontia","Saúde e beleza>Saúde>Dentista",
-213,"Dentistas - Periodontia","Saúde e beleza>Saúde>Dentista",
-214,"Dentistas 24h","Saúde e beleza>Saúde>Dentista",
-215,"Vazamento - Detecção","Casa e construção>Reforma",
-216,Impermeabilizações,cas,
-217,"Dentistas - Odontopediatria","Saúde e beleza>Saúde>Dentista",
-218,Enfeites,ser.org.dec,
-219,Enfermagem,"Saúde e beleza>Saúde>Enfermeiro",
-220,"Engenheiros Sanitaristas",ser,
-221,Cadeiras,loj.mov.mov,
-222,"Escolas - Art",loj.pap,
-223,"Móveis para Escolas",loj.mov.mov,
-224,"Escolas de Artes","Educação>Escolas>Escola de Artes",
-225,"Escolas de Aviação",edu.esc,
-226,"Escolas de Ballet","Educação>Escolas>Escola de Dança",
-227,"Escolas de Dança","Educação>Escolas>Escola de Dança",
-228,"Dentistas - Ortopedia Funcional dos Maxilares","Saúde e beleza>Saúde>Dentista",
-229,"Dentistas - Patologia Bucal","Saúde e beleza>Saúde>Dentista",
-230,"Dentistas - Prótese","Saúde e beleza>Saúde>Dentista",
-231,"Escolas de Desenho","Educação>Escolas>Escola de Artes",
-232,"Escolas de Dicção e Oratória",edu.esc,
-233,"Escolas Particulares",edu.esc,
-234,Creches,edu.cre,
-236,"Clínicas de Ultra-Sonografia e Ecografia",sau.sau.cli,
-237,"Dentistas - Radiologia","Saúde e beleza>Saúde>Dentista",
-238,"Dentistas - Urgências","Saúde e beleza>Saúde>Dentista",
-239,Próteses,"Saúde e beleza>Saúde>Dentista",
-240,"Associações de Classe",esc.org,
-241,"Escolas de Enfermagem","Educação>Escolas>Escola tecnica e profissionalizante",
-242,"Escolas Técnicas e Profissionalizantes","Educação>Escolas>Escola tecnica e profissionalizante",
-243,"Escolas de Línguas",edu.esc.es1,
-244,"Cursos de Inglês",edu.esc.es1,
-245,"Aulas Particulares",edu.esc,
-246,Tradutores,ser,
-247,Calígrafos,ser,
-248,"Câmaras de Comércio",esc.org,
-249,Cantinas,bar.res.ita,
-250,Carburadores,vei.pec,
-251,"Carnaval - Art",ser.org.dec,
-252,Assoalhos,cas.pis,
-253,Carpintarias,cas.mar,
-254,Coberturas,cas.tol,
-255,Carretas,tra.tra,
-256,"Carretas para Barcos; Motos e Camping",tra.tra,
-257,Engates,vei.gui,
-258,"Carros Elétricos",vei,
-259,"Cartórios e Tabeliães",Serviços>Cartório,
-260,Consulados,se1.con,
-261,"Automóveis - Rodas e Aros",vei.pec,
-262,"Audiovisuais - Sistemas e Produtos",Serviços>Agência,
-263,"Informática - DataShow",loj.inf,
-264,"Informática - Equip - Aluguel e Leasing",loj.inf,
-265,Fotógrafos,ser,
-266,"Vídeo - Produções e Reportagens",Serviços>Agência,
-267,Projetores,loj.inf,
-268,"Escolas de Mergulho",edu.esc,
-269,"Escolas de Música",edu.esc.esc,
-270,"Auditórios - Art e Equip","Loja>Som e audio",
-271,"Automóveis - Surdinas",vei.pec,
-272,"Auditórios e Salões",art.tea,
-273,"Centros de Convenções",ser.org.cen,
-274,Hotéis,via.hot,
-275,"Escolas de Natação",esp.nat,
-277,"Escolas Esportivas",,
-278,"Automóveis e Veículos - Fab",vei,
-279,"Escolas Jurídicas",edu.esc,
-280,"Escolas para Crianças Especiais",edu.esc,
-281,"Automóveis Importados - Revendedores e Peças",vei.pec,
-282,"Informática - Suprimentos e Móveis",loj.inf,
-283,"Materiais de Escritório",loj.pap,
-285,"Cursos Pré-Vestibulares",edu.esc,
-286,"Casas de Câmbio",ser.cas,
-287,"Casas de Chá / Brunch",com.cha,
-288,"Casas de Espetáculos",art.cas,
-289,"Casas de Saúde",sau.sau.cli,
-290,"Casas Lotéricas",ser.lot,
-291,Depilação,sau.bel.cli,
-292,"Clínicas de Estética",sau.bel.cli,
-293,"Descartáveis - Art","Saúde e beleza>Saúde>Equipamentos para hospitais e laboratórios",
-294,"Produtos para Limpeza",ser.ser,
-295,"Restaurantes; Bares e Lanchonetes - Art e Equip",Outros,
-296,Embalagens,loj,
-298,"Embalagens Plásticas",loj,
-299,"Sacolas e Bolsas Promocionais",loj,
-300,"Desentupimento 24h",ser.des,
-301,"Desinfecção - Empresas",ser.ded,
-302,"Casas Pré-Fabricadas",cas.emp,
-303,"Cenografia - Empresas",art,
-304,"Centros Culturais","Organização de festas e eventos>Centro de eventos e convenções",
-305,"Centros e Postos de Saúde 24h",sau.sau.pos,
-306,"Centros e Postos de Saúde",sau.sau.pos,
-307,Cerimonial;,,
-308,"Festas - Animação","Organização de festas e eventos>Animações e entretenimento",
-309,"Festas - Artigos","Organização de festas e eventos>Decoração de eventos",
-310,"Festas - Casas para Aluguel","Organização de festas e eventos>Centro de eventos e convenções",
-311,"Escolas Preparatórias",edu.esc,
-312,"Informática - Cursos e Treinamento",edu.cu2,
-313,"Consultores em Recursos Humanos",ser,
-314,"Consultores de Empresas",ser,
-315,Telemensagens,ser,
-316,Vinhos,mer.ade,
-317,"Escolas Públicas",edu.esc,
-318,Chapéus,loj,
-319,"Chaveiros 24h",ser.cha,
-320,"Interfones - Assistência Técnica e Vendas",cas,
-321,"Fechaduras - Lojas",cas.fer,
-322,Carimbos,ser,
-323,"Galeterias (Restaurantes)",bar.res,
-324,"Buffets (Restaurantes)",bar.res,
-325,"Comida Caseira (Restaurantes)",bar.res,
-326,"Médicos - Alergia e Imunologia",sau.sau.med,
-327,"Médicos - Pediatria","Saúde e beleza>Sáude>Médico>Pediatra",
-328,"Vacinas - Aplicações",sau.sau,
-329,"Clínicas de Alergia e Imunologia",sau.sau.cli,
-330,"Clínicas de Cardiologia",sau.sau.cli,
-331,"Médicos - Cardiologia","Saúde e beleza>Sáude>Médico>Cardiologista",
-332,"Clínicas de Check-Up",sau.sau.cli,
-333,"Clínicas de Dermatologia",sau.sau.cli,
-334,"Médicos - Dermatologia","Saúde e beleza>Sáude>Médico>Dermatologista",
-335,"Farmácias Homeopáticas",sau.sau.far,
-336,"Medicina Estética",sau.bel.med,
-337,"Médicos - Cirurgia Plástica",sau.bel.med,
-338,Pilates,esp.pil,
-339,"Médicos - Endocrinologia","Saúde e beleza>Sáude>Médico>Endocrinologista",
-340,"Cursos de Pós-Graduação",edu.fac,
-341,"Faculdades e Universidades",edu.fac,
-342,"Clínicas de Olhos",sau.sau.cli,
-343,"Médicos - Oftalmologia","Saúde e beleza>Sáude>Médico>Oftalmologista",
-344,"Pronto-Socorro Particular",sau.sau.hos,
-345,"Lentes de Contato",Lojas>Óticas,
-346,"Clínicas de Psicologia","Sáude e beleza>Saúde>Psicologo",
-347,Psicólogos,"Sáude e beleza>Saúde>Psicologo",
-348,Psicanalistas,,"Sáude e beleza>Saúde>Psicologo"
-349,"Clínicas Psiquiátricas","Saúde e beleza>Saúde>Médico>Psiquiatra",
-350,"Estamparia - Art e Equip",loj,
-351,"Esterilização - Serviços",ser,
-352,Estilistas,ser,
-353,"Toldos - Aluguel",cas.tol,
-354,"Shows - Produção",ser.org,
-355,"Som e Iluminação - Equip - Aluguel",ser.org,
-356,"Festas - Organização",ser.org,
-357,"Telão - Venda e Locação",ser.org,
-358,"Stands - Projetos e Montagens",loj.mov.mov,
-359,"Formaturas - Organização",ser.org,
-360,Peixarias,mer.pei,
-361,Filmagens,"Loja>Som e vídeo",
-362,"Marmitas - Fornecimento",bar.res,
-363,Design,"Arte e diversão>Design",
-364,Gráficas,ser.gra,
-365,"Clínicas de Radiologia",sau.sau,
-366,"Medicina do Trabalho",sau.sau.me1,
-367,"Tomografia e Ressonância Magnética",sau.sau,
-369,"Clínicas de Radioterapia",sau.sau,
-370,"Médicos - Geriatria","Saúde e beleza>Saúde>Médicos>Geriatra",
-371,"Laboratórios de Análises Clínicas",sau.sau,
-372,"Medicina Nuclear",sau.sau,
-373,"Clínicas Ginecológicas",sau.sau.cli,
-374,Maternidades,sau.sau.hos,
-375,"Médicos - Otorrinolaringologia","Saúde e beleza>Saúde>Médicos>Otorrinolaringologista",
-376,"Clínicas de Hemodiálise",sau.sau.cli,
-377,"Hospitais Particulares",sau.sau.hos,
-378,"Médicos - Cancerologia",sau.sau.med,
-379,"Clínicas Ortopédicas",sau.sau.cli,
-380,"Médicos - Ortopedia e Traumatologia",,
-381,"Clínicas Pediátricas",sau.sau.cli,
-382,"Médicos - Psiquiatria e Med Psicossomática","Saúde e beleza>Saúde>Médicos>Psiquiatra",
-383,"Alcoolismo - Tratamento",sau.sau.cli,
-384,"Drogas - Tratamento",sau.sau.cli,
-385,"Médicos - Sexologia",sau.sau.med,
-386,"Médicos - Urologia","Saúde e beleza>Saúde>Médicos>Urologista",
-387,"Clínicas Urológicas",sau.sau.cli,
-388,"Clubes e Estádios",esp.fut.est,
-389,Condomínios,Outros,
-390,"Cobrança - Agências","Serviços>Agências>Agência de cobranças",
-391,"Contabilidade - Escritórios",ser.con,
-392,"Limpeza de Caixas d'Água",ser.ser,
-393,"Sanitização de Ambientes",ser.ser,
-394,"Cargas e Encomendas",tra.tra,
-395,"Despacho de Mercadorias",tra.tra,
-396,"Transporte de Documentos",tra.tra,
-397,"Distribuição - Serviços",tra.tra,
-398,"Propaganda e Publicidade (Agências)","Serviços>Agência>Agência de propaganda e publicidade",
-399,Docerias,com.doc,
-401,Salgadinhos,com.sal,
-402,"Concursos Públicos - Organização",ser,
-403,Lixeiras,ser.ser,
-404,Contêineres,tra.tra,
-406,"Fogões - Conserto e Peças",loj,
-407,"Piscinas - Art; Equip e Manutenção",cas.pi1,
-408,Bonés,loj.ves,
-409,"Camisetas Promocionais",loj.ves,
-410,"Borracheiros 24h",Veículo>Borracharia,
-411,Borracheiros,Veículo>Borracharia,
-412,"Botões - Atac e Fab",loj,
-413,Boutiques,loj.ves,
-414,Bronzeamento,ser,
-415,Facções,loj.ves,
-416,"Confecções - Mão-de-Obra",loj.ves,
-417,"Igrejas;Templos e Instituições Religiosas",rel,
-418,"Natal - Art",loj,
-419,"Naturais (Restaurantes)",bar.res,
-420,"Noivas - Vestidos e Artigos",loj.ves.mo1,
-421,"Roupas - Aluguel",loj.ves,
-422,"Nutrição Enteral e Parenteral",bar.res,
-423,Nutricionistas,"Saúde e beleza>Saúde>Nutricionista",
-424,"Médicos - Nutrologia","Saúde e beleza>Saúde>Nutricionista",
-425,"Médicos - Gastroenterologia",sau.sau.med,
-427,"Retificação de Motores e Peças",vei.ret,
-428,Quiosques,loj,
-430,"Faixas Comemorativas e Promocionais",ser.gra,
-431,Crachás,ser.gra,
-432,Fantasias,ser.org.fan,
-433,"Farmácias de Manipulação",sau.sau.far,
-434,"Farmácias e Drogarias",sau.sau.far,
-435,Quiropraxia,sau.sau.cli,
-436,Radiadores,vei.pec,
-437,"Radiochamadas - Serviços",ser,
-438,"Restaurantes 24h",bar.res,
-441,"Cozinhas Industriais - Equip",loj,
-442,Restaurantes,bar.res,
-443,"Culinária Japonesa",bar.res.jap,
-444,"Culinária Chinesa",bar.res.ch1,
-446,"Culinária Italiana",bar.res.ita,
-447,"Self-service (Restaurantes)",bar.res,
-448,"Culinária Árabe",bar.res.ara,
-449,Creperias,bar.res,
-450,"Culinária Contemporânea",bar.res.con,
-451,"Culinária Alemã",bar.res.ale,
-452,"Culinária Portuguesa",bar.res.por,
-453,"Culinária Nordestina",bar.res.bra,
-454,"Culinária Regional",bar.res.bra,
-455,Vegetarianos,bar.res.veg,
-456,"Culinária Goiana",bar.res.bra,
-457,"Culinária Mexicana",bar.res.mex,
-458,"Culinária Nortista",bar.res.bra,
-459,"Culinária Suíça",bar.res,
-460,"Culinária Mineira",bar.res.bra,
-461,"Farmacias e Drogarias 24h",sau.sau.far,
-462,Medicamentos,sau.sau.far,
-463,"Confecções - Moldes",loj.ves,
-464,"Confecções - Representações",loj.ves,
-465,"Confecções Femininas",loj.ves.mo1,
-466,"Confecções Infantis",loj.ves.mo2,
-467,"ONG - Organizações Não-Governamentais",esc.org,
-468,"Transporte Interurbano e Interestadual",tra.ter,
-469,"Confecções Masculinas",loj.ves.mod,
-470,"Organização de Residências",cas,
-471,"Cadeiras de Rodas","Saúde e beleza>Saúde>Equipamentos para hospitais e laboratórios",
-473,Oxigênio,"Saúde e beleza>Saúde>Equipamentos para hospitais e laboratórios",
-474,"Gases em Geral",ser,
-475,Meias,loj.ves,
-476,"Solda - Art e Equip","Loja>Máquinas e equipamentos",
-477,Oxigenoterapia,ser,
-478,Paisagismo,cas.ja1,
-479,"Jardins - Art e Projetos",cas.ja1,
-480,"Confecções Unissex",loj.ves,
-481,Pallets,"Lojas>Máquinas e equipamentos",
-482,"Madeiras - Artefatos",cas.mat,
-483,"Móveis para Jardins; Piscinas e Terraços",cas.ja1,
-484,Parques,via.lug.par,
-485,Pastas,loj,
-486,Pavimentação,cas.emp,
-487,"Cimento - Artefatos",cas.mat,
-488,Asfalto,cas.emp,
-489,Terraplenagem,cas.emp,
-490,Demolições,cas.emp,
-491,Pedras,cas.mat,
-492,"Reciclagem de Materiais",ser,
-493,Pedicuros,sau.bel,
-494,Perfumarias,loj.cos,
-495,"Produtos de Beleza",loj.cos,
-496,"Personalização - Serviços",ser,
-497,"Plotagem - Serviços",ser,
-499,Perucas,"Saúde e beleza>Beleza",
-500,Piscinas,cas.pi1,
-501,Banheiras,cas.pi1,
-502,"Fiberglass (Vendas e Conserto)",loj,
-503,"Empreendimentos Imobiliários",ser.imo,
-506,Luminosos,cas.ele,
-508,Painéis,ser.gra,
-509,Banners,ser.gra,
-510,"Placas para Veículos",vei,
-511,"Planejamento Educacional",edu,
-512,"Feijoadas (Restaurantes)",bar.res,
-516,"Plantas e Projetos","Serviços>Engenharia e arquitetura",
-517,Construtoras,cas,
-518,Plantas,cas.ja1,
-519,Copiadoras,loj.pap,
-520,"Cópias Xerográficas e Heliográficas",loj.pap,
-521,"Informática - Impressão Eletrônica e Digital",loj.inf,
-522,"Plotters - Equip e Serviços",ser.gra,
-523,"Tecidos para Decoração",loj.mov.dec,
-525,"Sorveterias - Art",com.sor,
-526,"Pneus Usados e Recauchutados",vei.pne,
-529,"Salões para Banquetes e Festas","Serviços>Organização de festas e eventos>Organização de festas e eventos",
-530,"Sítios de Lazer","Serviços>Organização de festas e eventos>Organização de festas e eventos",
-532,"Ar-Condicionado - Locação; Projeto e Instalação",loj,
-533,"Móveis - Aluguel",loj,
-535,"Modelos e Manequins - Agências","Serviços>Agência>Agência de modelos",
-536,"Implantes de Cabelos",sau.bel.sal,
-537,"Informática - Associações e Clubes",esc.org,
-538,"Informática - Equip - Assistência Técnica",loj.inf,
-539,"Cursos à Distância",Educação>Cursos,
-540,Porta-Pallets,"Lojas>Máquinas e equipamentos",
-541,"Postos de Combustíveis e Serviços - Art e Equip",vei.pos,
-542,"Tradução Simultânea - Equip",ser,
-544,"Postos de Combustíveis e Serviços 24h",vei.pos,
-546,"Postos de Combustíveis e Serviços",vei.pos,
-547,"Filmes para Controle Solar",loj,
-548,"Vidro - Revestimentos",loj,
-549,"Redes de Proteção",cas.tel,
-550,Revestimentos,cas,
-551,Papel,loj.pap,
-552,"Informática - Processamento de Dados",loj.inf,
-553,"Flores Artificiais e Desidratadas",loj.mov.dec,
-554,"Floriculturas 24h","Serviços>Floricultura e arranjos",
-555,"Mensagens Fonadas",ser.tel,
-556,"Brinquedos (Vendas e Conserto)",Lojas>Brinquedos,
-557,"Artigos para Bebês",loj,
-558,"Enxovais para Bebês",loj,
-559,"Roupas Infantis - Lojas",loj.ves.mo2,
-560,"Informática - Software - Desenvolvimento",Serviços>Informática,
-561,"Informática - Software - Aplicativos e Sistemas",Serviços>Informática,
-563,"Automação Comercial",ser,
-564,"Roupas Masculinas - Lojas",loj.ves.mod,
-565,"Fogos de Artifício",loj.fog,
-566,"Conselhos de Classe Profissionais",esc.org,
-567,Elevadores,ser,
-568,"Incêndio - Prevenção - Projetos e Instalações",ser,
-569,Pára-Raios,loj,
-570,"Manutenção Industrial",ser,
-571,"Telefonia - Projetos e Instalações",ser,
-572,"Instalações Hidráulicas",cas.hid,
-573,"Forró - Casas",art.cas,
-574,"Foto Cabine",Serviços>Fotografia,
-575,"Foto Maluca",Serviços>Fotografia,
-576,"Roupas Unissex - Lojas",loj.ves,
-577,"Frutos do Mar e Peixes (Restaurantes)",bar.res.pei,
-578,"Institutos e Fundações",esc,
-579,Consórcios,ser.ban,
-580,"Funerárias 24h",ser.fun,
-581,Funerárias,ser.fun,
-582,Caldeirarias,Fabricas,
-583,Coifas,"Lojas>Utilidades Domésticas",
-584,Funileiros,vei.fun,
-585,"Calhas e Rufos",cas.tol,
-586,Divisórias,cas.ges,
-587,"Forros Acústicos e Decorativos",cas.ges,
-588,Madeiras,cas.mat,
-590,Gesso,cas.ges,
-591,Vidraçarias,cas.vid,
-592,Pedreiros,cas.ped,
-593,Cerâmica,cas,
-594,Empreiteiros,cas.emp,
-595,"Estruturas Metálicas e de Madeira",cas,
-596,"Galpões - Construtores",cas.emp,
-597,"Tintas - Lojas",cas.mat,
-598,"Manutenção Predial",ser,
-599,"Gelo 24h",loj,
-600,"Gelo Seco",loj,
-601,Gelo,loj,
-602,Guarda-Sóis,loj,
-603,Betoneiras,cas,
-604,"Intercâmbio Cultural",via,
-605,"Internação Domiciliar",sau.sau,
-606,"Jóias - Gravação",loj.joa,
-607,Jóias,,
-608,"Jóias - Conserto",,
-610,"Hospitais Públicos",sau.sau.hos,
-611,Hospitais,sau.sau.hos,
-613,Pousadas,via.pou,
-614,Prata,loj.joa,
-615,"Presentes - Atac e Fab",loj,
-616,"Saladas (Restaurantes)",bar.res.veg,
-618,"Laboratórios de Análise de DNA",sau.sau.lab,
-619,"Turismo - Passeios de Barco",via,
-620,"Sanitários Químicos",ser,
-621,"Segurança do Trabalho",ser,
-622,"Meio Ambiente",ser,
-623,Presídios,se1,
-625,"Produtos de Beleza - Art e Equip para Fab","Saúde e beleza>Beleza>Artigos e equipamentos de beleza",
-626,"Produtos de Beleza - Atac e Fab","Saúde e beleza>Beleza>Artigos e equipamentos de beleza",
-627,"Crédito Imobiliário",ser.fin,
-628,"Programação Visual","Serviço>Agência>Agência de propaganda e publicidade",
-629,"Promoção de Vendas",Outros,
-630,"Pronto-Socorro Público",sau.sau.pos,
-631,Outdoor,"Serviço>Agência>Agência de propaganda e publicidade",
-632,"Construção Modulada",cas,
-633,"Consultores de Organização e Métodos",ser,
-634,"Consultores Desportivos",ser,
-635,"Convênios - Administração",Empresas>Escritórios,
-636,Convites,ser.gra.con,
-637,"Cooperativas de Consumo",esc.coo,
-638,"Cooperativas de Crédito",esc.coo,
-639,"Cooperativas de Habitação",esc.coo,
-640,"Cooperativas de Produtores",esc.coo,
-641,"Hotelaria Marítima",via.hot,
-642,"Cooperativas de Serviços",esc.coo,
-643,"Informática - Impressoras",loj.inf,
-644,Sementes,cas.ja1,
-645,"Serviços Portuários - Agências",ser,
-646,"Serviços Sociais",se1,
-647,"Sindicatos e Federações",se1.sin,
-648,"Costuras - Art",ser.cos,
-649,Costureiras,ser.cos,
-650,Couro,loj,
-651,"Laser - Equipamentos","Loja>Máquinas e equipamentos",
-652,Lava-Rápido,vei.lav,
-653,"Lavanderias Industriais",ser.lav,
-654,Lavanderias,ser.lav,
-655,Leasing,ser.fin,
-656,"Limpeza e Conservação",ser.ser,
-657,Segurança,ser,
-658,"Mão-de-Obra Temporária",ser.emp,
-661,Pintores,cas.pin,
-662,"Esgotos - Limpeza",ser,
-663,"Limpeza de Telhado",ser.ser,
-664,"Culinária Armênia",bar.res.asi,
-665,"Culinária Australiana",bar.res.aus,
-666,"Culinária Austríaca",bar.res,
-667,"Culinária Baiana",bar.res.bra,
-668,"Culinária Belga",bar.res.bra,
-669,Lingerie,loj.ves.mo1,
-670,"Culinária Coreana",bar.res.cor,
-671,"Culinária Cubana",bar.res.ame,
-672,"Culinária Egípcia",bar.res.asi,
-673,"Culinária Escandinava",bar.res,
-674,"Culinária Espanhola",bar.res.esp,
-675,"Culinária Francesa",bar.res.fra,
-676,"Culinária Grega",bar.res.asi,
-677,"Culinária Húngara",bar.res,
-678,"Culinária Indiana",bar.res.ind,
-679,"Culinária Inglesa",bar.res,
-680,"Culinária Internacional",bar.res,
-681,"Culinária Irlandesa",bar.res,
-682,Luvas,loj.ves,
-683,"Macacos Hidráulicos e Mecânicos","Lojas>Máquinas e equipamentos",
-684,"Malhas - Atac e Fab",loj.ves,
-685,"Malhas (Malharias)",loj.ves,
-686,"Culinária Judaica",bar.res,
-687,"Culinária Libanesa",bar.res,
-688,"Culinária Marroquina",bar.res,
-689,"Culinária Mediterrânea",bar.res.med,
-690,"Culinária Mongól",bar.res,
-691,Mangueiras,cas.hid,
-693,"Correias - Atac e Fab","Lojas>Máquinas e equipamentos",
-694,Conexões,"Lojas>Máquinas e equipamentos",
-696,"Culinária Persa",bar.res,
-697,"Culinária Polonesa",bar.res,
-698,"Montagens Industriais",,
-699,"Culinária Russa",bar.res,
-700,"Culinária Tailandesa",bar.res,
-701,"Cursos de Jardinagem e Paisagismo",Educação>Cursos,
-702,"Cursos de Manequins e Modelos",Educação>Cursos,
-703,"Empregos - Agências",ser.emp,
-704,"Cursos Supletivos",edu.cur,
-705,"Máquinas - Conserto","Lojas>Máquinas e equipamentos",
-706,"Máquinas para Cortar Grama",loj.loj,
-707,Roçadeiras,agr.equ,
-708,"Massagens - Casas",sau.bel.mas,
-709,"Materiais de Construção",cas.mat,
-710,"Areia e Pedregulho",cas.mat,
-711,"Agricultura e Pecuária - Estabelecimentos e Produtos",agr.est,
-712,"Ferragens - Lojas",agr.est,
-713,Lajes,cas.mat,
-714,Pré-Moldados,cas.mat,
-715,"Materiais Elétricos - Lojas",cas.ele,
-717,"Ferragens - Atac e Fab",cas.fer,
-718,Marmoristas,cas.ma2,
-719,Cimento,cas.mat,
-722,"Blocos de Concreto",cas.mat,
-724,"Tintas - Atac e Fab",cas.mat,
-725,"Materiais Elétricos - Atac e Fab",cas.ele,
-726,Solda,cas.fer,
-727,"Som e Iluminação - Equip - Manutenção",cas.ele,
-728,"Sopas (Restaurantes)",bar.res,
-729,"Spa - Clínicas",sau.bel.cli,
-730,Displays,loj.ele,
-731,"Supermercados 24h",mer.sup,
-732,Táxi,tra.pon,
-733,"Táxi 24h",tra.pon,
-734,"Telecomunicações - Instalação e Manutenção","ser ",
-736,Telecomunicações,,
-737,"Radiocomunicações - Equip e Sistemas",,
-738,"Tintas Automotivas",,
-739,"Toalhas - Serviço de Fornecimento",,
-740,Toldos,,
-741,Tendas,,
-742,"Cortinas - Limpeza",,
-743,"Persianas - Conserto",,
-744,"Box para Banheiros",,
-746,Grades,,
-748,"Fachadas - Projetos e Revestimentos",,
-749,"Transporte de Valores",,
-750,"Transporte de Veículos",,
-751,Guarda-Móveis,,
-752,Mudanças,,
-753,"Transporte Rodoviário",,
-754,"Trios Elétricos",,
-756,"Medicina Antroposófica",,
-757,"Medicina do Sono",,
-759,"Medicina Esportiva",,
-760,"Medicina Geral Comunitária",,
-761,"Medicina Hiperbárica",,
-762,"Medicina Legal",,
-763,"Medicina Preventiva",,
-764,"Médicos - Eletroencefalografia",,
-765,"Médicos - Neurocirurgia e Neurologia",,
-766,"Médicos - Anestesiologia",,
-767,"Médicos - Angiologia",,
-768,"Médicos - Hematologia",,
-769,Ultra-Som,,
-770,"Veículos Especiais",,
-771,Carrocerias,,
-772,"Médicos - Cirurgia da Cabeça e Pescoço",,
-773,"Médicos - Cirurgia Pediátrica",,
-774,Cintas,,
-775,"Veículos Roubados - Cadastramento",,
-776,"Vendas - Organização e Sistemas",,
-777,"Médicos - Cirurgiões",,
-778,"Veterinários 24h",,
-779,"Videoclubes e Locadoras 24h",,
-780,"Videogames e Acessórios - Vendas; Serviços e Locação",,
-781,"Médicos - Clínica Geral",,
-782,"Videokê - Aluguel e Vendas",,
-783,"Vigilância Sanitária",,
-784,"Zonas Eleitorais",,
-785,"Médicos - Eletroneuromiografia",,
-786,"Médicos - Ortomolecular",,
-787,"Médicos - Endoscopia",,
-788,"Médicos - Fisiatria",,
-789,"Médicos - Genética",,
-790,"Médicos - Ginecologia e Obstetrícia",,
-791,"Médicos - Mastologia",,
-793,"Médicos - Homeopatia",,
-794,"Médicos - Infectologia",,
-795,"Médicos - Nefrologia",,
-796,"Médicos - Neurologia Pediátrica",,
-797,"Médicos - Patologia Clínica",,
-798,"Médicos - Pneumologia",,
-799,"Médicos - Proctologia",,
-800,"Médicos - Radiodiagnóstico e Radiologia",,
-801,Fisioterapeutas,,
-802,"Médicos - Reumatologia",,
-803,"Médicos (Associações)",,
-804,Mensageiros,,
-805,Mini-Carros,,
-806,"Moda Praia",,
-807,Molas,,
-808,"Vidro Temperado",,
-809,Espelhos,,
-810,"Móveis Usados",,
-811,"Móveis - Atac e Fab",,
-812,"Cozinhas Planejadas",,
-813,"Móveis sob Medida",,
-815,Ar-Condicionado,,
-816,Lareiras,,
-817,"Móveis de Vime e Cana-da-Índia",,
-818,Içamentos,,
-819,Fretes,,
-820,Mudas,,
-821,Músicos,,
-822,Abraçadeiras,,
-823,Aço,,
-824,"Aço - Fitas",,
-825,"Aço Inoxidável",,
-826,"Academias Desportivas",,
-827,"Academias Desportivas 24h",,
-828,Acrílico,,
-829,Arame,,
-830,Armários,,
-834,"Cabos de Aço e Acessórios",,
-836,"Chapas Metálicas",,
-837,"Chapas Perfuradas",,
-839,"Navios - Equip para Construção",,
-840,Eletrodutos,,
-841,Ferro,,
-843,Fundições,,
-844,Gabiões,,
-845,Galvanização,,
-846,"Gravação em Chapas Metálicas",,
-847,Laminados,,
-849,Metais,,
-850,Metalurgia,,
-851,"Móveis de Metal",,
-853,"Móveis para Escritórios",,
-856,Parafusos,,
-857,"Perfilados Metálicos",,
-859,"Placas de Metal",,
-860,Portas,,
-861,"Portas de Aço",,
-862,"Portas Automáticas",,
-863,"Portas de Garagens",,
-864,"Pregos e Tachas - Atac e Fab",,
-865,Serralheiros,,
-866,"Serralheiros - Art e Equip",,
-867,Siderurgia,,
-868,Sucata,,
-869,Telhas,,
-870,"Transporte Especial",,
-871,Tubos,,
-872,Oxicorte,,
-873,"Portões Eletrônicos",,
-874,"Cursos de Bijuteria",,
-923,Adesivos,,
-925,Colas,,
-926,"Comunicação Visual",,
-927,"Cortes à Laser",,
-928,"Embalagens - Art e Equip",,
-929,Etiquetas,,
-931,"Fitas Adesivas e Gomadas",,
-932,"Fitas Antiderrapantes",,
-933,Letreiros,,
-934,Papelarias,,
-937,Silk-Screen,,
-938,"Sinalização - Sistemas",,
-939,"Vedação - Produtos",,
-940,"Açúcar e Álcool - Usinas e Produtos",,
-942,"Amianto e Produtos de Amianto",,
-943,"Animais - Produtos para",,
-944,Apicultura,,
-947,"Armazéns; Empórios e Mercearias",,
-949,"Artigos Religiosos",,
-952,Bazares,,
-953,Biscoitos,,
-954,"Borracha - Artef",,
-955,"Borracha - Matérias-Primas",,
-958,"Caça e Pesca - Lojas",,
-959,"Cacau - Compra e Venda",,
-960,"Cacau - Exportadores",,
-961,"Cacau - Industrialização",,
-962,Café,,
-963,"Calçados Ortopédicos",,
-964,"Camping - Art e Equip (Lojas)",,
-965,Castanhas,,
-966,Catálogos,,
-967,"Centrais de Abastecimento",,
-968,Ceras,,
-969,Cereais,,
-970,"Cestas Básicas",,
-971,Chocolates,,
-972,"Chocolates - Atac e Fab",,
-973,"Coco e Subprodutos",,
-975,"Colchões - Fab",,
-976,"Colchões - Lojas",,
-977,"Condimentos e Molhos",,
-978,"Corretores de Mercadorias",,
-979,"Cortiça e Produtos de Cortiça",,
-980,Cristais,,
-981,"Dentistas - Art e Equip - Conserto e Vendas",,
-984,"Farinhas - Atac e Fab",,
-989,"Feltro e Produtos de Feltro",,
-990,"Fibra e Produtos de Fibra",,
-991,Gaiolas,,
-992,Guaraná,,
-994,"Hotéis e Motéis - Art e Equip",,
-995,"Importação e Exportação",,
-996,"Importação e Exportação - Assessoria",,
-997,"Importados - Prod",,
-998,Laticínios,,
-999,"Limpeza e Conservação - Máq e Prod",,
-1000,Lubrificantes,,
-1001,"Massas Alimentícias",,
-1002,"Medicina - Art",,
-1003,"Mercados Municipais",,
-1004,"Mineração - Equip e Prod",,
-1005,Moinhos,,
-1006,"Óticas - Art e Equip",,
-1007,"Padarias e Confeitarias",,
-1008,"Padarias e Confeitarias 24h (Internet)",,
-1009,Pamonharias,,
-1011,"Papelarias - Atac",,
-1013,"Pet Shops",,
-1014,"Petróleo - Equip e Prod para Extração e Pesquisa",,
-1016,"Polimento - Prod",,
-1017,Polpas,,
-1019,"Produtos Alimentícios",,
-1020,"Produtos Alimentícios - Equip e Prod para Fab",,
-1024,"Produtos Esotéricos e Místicos",,
-1025,"Produtos Farmacêuticos - Atac e Fab",,
-1026,"Produtos Farmacêuticos - Distr",,
-1027,"Produtos Farmacêuticos - Equip e Prod para Fab",,
-1028,"Produtos Industriais - Representações",,
-1029,"Produtos Magnéticos",,
-1031,"Produtos Orgânicos",,
-1032,"Produtos para Alérgicos",,
-1034,"Produtos Perecíveis - Análise e Registro",,
-1035,"Produtos Petroquímicos",,
-1036,"Produtos Químicos - Atac e Fab",,
-1037,"Produtos Químicos - Distr",,
-1038,"Produtos Regionais",,
-1039,"Produtos Veterinários",,
-1040,Químicos,,
-1041,Rações,,
-1042,"Representantes de Produtos Extrativos",,
-1043,Resinas,,
-1044,Sal,,
-1045,"Sex Shops",,
-1046,Solventes,,
-1047,Supermercados,,
-1049,"Transporte de Produtos e Resíduos Químicos",,
-1051,"Água - Análises",,
-1052,"Água - Equip para Purificação",,
-1055,"Água - Licença para Exploração",,
-1056,"Água - Tratamento",,
-1059,"Bebidas - Atac e Fab",,
-1060,"Bebidas - Depósitos e Distribuidores",,
-1061,"Bebidas - Importadores",,
-1067,Filtros,,
-1068,"Filtros de Água",,
-1069,Hidrojateamento,,
-1071,Impermeabilizantes,,
-1073,"Materiais Hidráulicos",,
-1074,"Pedras Preciosas e Semi-Preciosas",,
-1075,Perfurações,,
-1080,Bebedouros,,
-1084,"Carvão e Derivados",,
-1085,"Engenheiros de Minas",,
-1087,"Suplementos Minerais",,
-1091,"Controles e Sistemas de Controle",,
-1092,"Equipamentos de Segurança Industrial",,
-1095,"Intercomunicação - Sistemas",,
-1096,"Monitoramento de Alarmes",,
-1101,Sirenes,,
-1102,"Televisão - Circuito Fechado",,
-1103,Vigilância,,
-1108,Anodização,,
-1114,"Clínicas de Reabilitação",,
-1117,"Clínicas Veterinárias",,
-1118,Cromagem,,
-1119,Cromo-Duro,,
-1121,"Dentistas - Laserterapia",,
-1122,"Dentistas - Odontogeriatria",,
-1123,"Dentistas - Tratamento do Hálito",,
-1125,"Design Gráfico",,
-1127,"Engenharia Ambiental",,
-1129,Esmaltação,,
-1132,"Fornos Industriais",,
-1134,"Galvanoplastia - Art e Equip",,
-1136,Insonorização,,
-1138,"Lixo e Resíduos Hospitalares - Coleta e Tratamento",,
-1139,"Lixo e Resíduos Industriais - Coleta e Tratamento",,
-1146,Musicoterapeutas,,
-1150,Podólogos,,
-1151,"Poluição - Equip e Projetos Contra",,
-1156,Saneamento,,
-1159,"Tratamento Térmico",,
-1160,"Tratamentos de Superfície",,
-1161,Veterinários,,
-1163,Alumínio,,
-1166,"Poços Artesianos - Construtores",,
-1167,Mineração,,
-1168,Geólogos,,
-1169,"Aquários - Peixes Ornam. e Art para Criadores",,
-1170,"Animais - Criação e Vendas",,
-1171,Estacas,,
-1172,"Fundações para Construções",,
-1173,"Máquinas e Equipamentos - Aluguel e Arrendamento",,
-1174,Andaimes,,
-1175,"Hotéis para Animais",,
-1176,Canis,,
-1177,"Clínicas Veterinárias 24h",,
-1178,Bombas,,
-1179,"Tambores e Tonéis",,
-1180,"Pontes Rolantes",,
-1181,"Sacos de Algodão e Aniagem",,
-1182,"Papel Velho;  Aparas e Resíduos",,
-1183,"Compensados e Laminados",,
-1184,"Troféus e Taças",,
-1185,Policarbonato,,
-1186,"Clínicas de Fisioterapia",,
-1187,Mármore,,
-1188,"Painéis Elétricos e Eletrônicos",,
-1189,"Isolamento Térmico",,
-1190,"Móveis Estofados - Limpeza e Impermeabilização",,
-1191,"Extintores de Incêndio",,
-1192,"Máquinas Pneumáticas",,
-1193,"Esportes - Art e Equip - Lojas",,
-1194,"Armas e Munições",,
-1195,"Elevadores de Obras e Industriais",,
-1196,"Compactação de Solo - Equip e Máq",,
-1197,Jateamento,,
-1198,"Escoramento - Empresas",,
-1199,Tratores,,
-1200,"Porteiros Eletrônicos",,
-1201,Churrasqueiras,,
-1202,"Ar Comprimido - Equip",,
-1203,Escavadeiras,,
-1204,Ferramentas,,
-1205,Ferramentarias,,
-1206,Chumbadores,,
-1207,Incineradores,,
-1208,Caçambas,,
-1209,Telas,,
-1210,"Isolamento Acústico",,
-1211,"Entregas Rápidas",,
-1212,"Transporte Aéreo",,
-1213,"Entregas Urbanas",,
-1214,"Moto Boys",,
-1215,"Caixas d'Água",,
-1216,"Utensílios e Utilidades Domésticas - Lojas",,
-1217,Estofadores,,
-1218,"Refrigeração - Art; Equip e Conserto",,
-1219,"Pisos de Alta Resistência",,
-1220,Postes,,
-1221,"Máquinas e Equipamentos Industriais",,
-1222,Tornos,,
-1223,"Motores Elétricos - Conserto e Peças",,
-1224,"Listas Telefônicas - Editoras",,
-1225,Tijolos,,
-1226,Livrarias,,
-1227,"Materiais Didáticos e Pedagógicos",,
-1228,"Câmaras Frigoríficas",,
-1229,"Gelo - Máquinas para Fabricar",,
-1230,"Motores Elétricos",,
-1231,"Portões de Alumínio",,
-1232,Escadas,,
-1233,"Ortopedia - Ap",,
-1234,"Ar-Condicionado - Art e Equip",,
-1235,"Geladeiras - Conserto e Peças",,
-1236,"Máquinas de Lavar - Conserto e Peças",,
-1237,"Balcões Frigoríficos",,
-1238,Carpetes,,
-1239,Tapeçarias,,
-1240,"Tacos e Parquetes",,
-1241,Marcenarias,,
-1242,"Aquecimento - Sistemas",,
-1243,Caldeiras,,
-1244,"Cercas e Mourões",,
-1245,Alambrados,,
-1246,"Vitrines e Materiais para Exposição",,
-1247,"Aviamentos - Atac e Fab",,
-1248,"Molduras e Gravuras",,
-1249,"Vidro - Atac e Fab",,
-1250,"Jogos e Art para Jogos",,
-1251,"Carpetes - Limpeza",,
-1252,Estopas,,
-1253,"Telhados - Construtores",,
-1254,"Móveis - Conserto; Reforma e Restauração",,
-1255,Válvulas,,
-1256,Dutos,,
-1257,Exaustores,,
-1258,Eletrodomésticos,,
-1259,"Refrigeradores - Conserto e Peças",,
-1260,"Máquinas de Lavar",,
-1261,"Ar-Condicionado - Conserto; Limpeza e Conservação",,
-1262,Geladeiras,,
-1263,"Eletrodomésticos - Conserto e Peças",,
-1264,"Fornos de Microondas",,
-1265,"Tetos - Rebaixamento",,
-1266,"Relógios de Ponto",,
-1267,Catracas,,
-1268,"Plásticos - Artef",,
-1269,"Plásticos - Atac e Fab",,
-1270,"Telhados - Acessórios e Materiais",,
-1271,Argamassa,,
-1272,"Tapetes e Passadeiras - Conserto e Limpeza",,
-1273,"Iluminação - Art - Lojas",,
-1274,"Equipamentos Elétricos e Eletrônicos",,
-1275,"Lustres - Lojas",,
-1276,"Componentes Elétricos e Eletrônicos",,
-1277,"Cabos Telefônicos",,
-1278,"Informática - Equip - Fab e Venda",,
-1279,"Cabos Elétricos",,
-1280,"Acústica - Mat e Projetos",,
-1281,"Roupas Profissionais",,
-1282,Estamparia,,
-1283,"Gás - Fornecedores",,
-1284,"Ventiladores - Atac e Fab",,
-1285,"Ventilação - Art e Equip",,
-1286,"Cabinas de Pintura",,
-1287,"Ventiladores - Conserto e Vendas",,
-1288,"Fogões Industriais",,
-1289,"Pedras Britadas",,
-1290,"Livros Usados",,
-1291,Medalhas,,
-1292,"Grama Sintética",,
-1293,"Suplementos Alimentares",,
-1294,"Caixas de Papelão",,
-1295,Papelão,,
-1296,"Energia Solar - Equip",,
-1297,"Navegação - Equip; Peças e Acessórios",,
-1298,"Mergulho - Art e Equip",,
-1299,Antenas,,
-1300,"Fibra Óptica",,
-1301,"Informática - Consultoria",,
-1302,"Móveis Estofados - Lojas",,
-1303,Logística,,
-1304,Janelas,,
-1305,"Transformadores Elétricos - Conserto",,
-1306,"Geradores Elétricos e Dínamos",,
-1307,Sondagens,,
-1308,"Máquinas Agrícolas",,
-1309,"Agricultura e Pecuária - Equipamentos",,
-1310,"Engenheiros Eletricistas",,
-1311,"Grupos Geradores",,
-1312,"Comércio Exterior - Assessoria",,
-1313,"Topografia e Agrimensura",,
-1314,"Engenheiros Civis",,
-1315,"Engenharia - Consultoria",,
-1316,"Máquinas para Terraplenagem",,
-1317,Balanças,,
-1318,"Televisão por Assinatura",,
-1319,"Instrumentos de Medição e Precisão",,
-1320,"Pinturas - Revestimentos e Texturas",,
-1321,"Estudos do Solo",,
-1322,"Portas de Segurança",,
-1323,Venezianas,,
-1324,"Contenção de Encostas",,
-1325,"Assoalhos - Conservação",cas.pis,
-1326,Lixamento,,
-1327,Capachos,,
-1328,"Tapetes e Passadeiras - Atac e Fab",,
-1329,"Engenheiros Agrimensores",,
-1330,"Informática - Serviços",,
-1331,"Telefonia - Art e Equip",,
-1332,"Telefones - Compra; Venda e Aluguel",,
-1333,"Telefonia - Operadoras - Fixa e Celulares",,
-1334,Lâmpadas,,
-1335,"Quadras Esportivas - Construções e Pisos",,
-1336,"Confecções para Cama; Mesa e Banho",,
-1337,"Gás - Instalações",,
-1338,Motosserras,,
-1339,"Impressoras Fiscais",,
-1340,"Ortopedia - Ap - Fab",,
-1341,Pedreiras,,
-1342,"Freezers - Conserto e Peças",,
-1343,"Climatizadores de ar",,
-1344,"Informática - Reciclagem de Cartuchos",,
-1345,"Máquinas para Copiar Documentos",,
-1346,"Televisões - Emissoras e Retransmissoras",,
-1347,"Internet - Acessos; Consultas e Navegação",,
-1348,Granito,,
-1349,Puxadores,,
-1350,Canaletas,,
-1351,"Instalações Comerciais",,
-1352,Cabides,,
-1353,"Máquinas para Copiar Documentos - Conserto",,
-1354,"Varais de Roupa",,
-1355,"Televisões - Conserto e Peças",,
-1356,"Som - Ap - Conserto e Peças",,
-1357,"Aterramento Elétrico",,
-1358,"Informática - Estabilizadores e No-Break",,
-1359,"Quadros de Comando",,
-1360,"Máquinas de Escrever - Conserto e Peças",,
-1361,"Fax - Conserto e Vendas",,
-1362,"Calculadoras (Vendas e Conserto)",,
-1363,"Bandeiras e Estandartes",,
-1364,"Móveis - Acessórios",,
-1365,"Engenharia - Perícia",,
-1366,"Aparelhos Elétricos e Eletrônicos - Conserto e Peças",,
-1367,"Motores Diesel",,
-1368,"Plataformas Elevatórias",,
-1369,"CDs; DVDs e Discos - Produção e Gravação",,
-1370,Topa-Tudo,,
-1371,"Manequins para Vitrinas",,
-1372,Estantes,,
-1373,Perícias,,
-1374,Auditores,,
-1375,"Consultores Econômico-Financeiros",,
-1376,"Imposto de Renda - Peritos",,
-1388,"Cursos de Matemática",,
-1390,"Detetives Particulares",,
-1394,"Hospitais Particulares 24h",,
-1397,"Redação e Revisão",,
-1399,"Tradutores Públicos",,
-1400,Intérpretes,,
-1407,"Caminhões - Acessórios e Equip",,
-1409,"Caminhões - Conserto e Peças",,
-1410,"Caminhões - Pinturas Personalizadas",,
-1411,"Caminhões - Revendedores e Concessionárias",,
-1418,Encerados,,
-1420,Lonas,,
-1421,"Monitoramento Via Satélite",,
-1422,"Pistões e Anéis de Pistão",,
-1423,"Transporte Frigorífico",,
-1429,"Balanceamento Dinâmico e de Cardans",,
-1435,"Guindastes - Conserto e Peças",,
-1442,"Clínicas de Densitometria Óssea",,
-1449,"Raios X - Consultórios",,
-1451,"Ônibus - Revendedores e Peças",,
-1460,"Cirurgia - Art; Equip e Instrumental",,
-1466,"Clínicas de Diagnóstico por Imagem",,
-1476,"Clínicas de Reprodução Humana",,
-1485,"Laboratórios Veterinários",,
-1519,"Clínicas Ortopédicas 24h",,
-1525,"Consultores Hospitalares",,
-1531,Fonoaudiólogos,,
-1550,"Móveis para Hospitais e Laboratórios",,
-1583,"Bares 24h",,
-1586,Hamburguerias,,
-1587,"Lanches - Fornecimento",,
-1591,"Sucos - Lojas",,
-1619,"Restaurantes - Entregas em Domicílio (Delivery)",,
-1624,Psicopedagogos,,
-1626,"Shopping Centers",,
-1628,"Rastreamento por Satélite - Sistemas",,
-1633,"Administradores de Empresas",,
-1634,"Assessoria Aeronáutica",,
-1636,"Assessoria Fiscal e Tributária",,
-1639,"Consultores de Marketing",,
-1641,"Consultores de Telecomunicações",,
-1644,"Consultores em Energia Elétrica",,
-1645,"Consultores em Gestão de Qualidade",,
-1647,"Consultores em Segurança",,
-1649,"Consultores Industriais",,
-1653,"Meteorologia - Consultores",,
-1654,"Pesquisas de Mercado",,
-1656,"Relações Públicas - Consultoria e Agências",,
-1657,"Academias Artísticas; Científicas e Literárias",,
-1662,"Cursos de Culinária",,
-1663,"Cursos de Esoterismo",,
-1664,"Cursos de Feng Shui",,
-1665,"Cursos de Fonoaudiologia",,
-1666,"Cursos de Fotografia e Vídeo",,
-1669,"Cursos de Leitura Dinâmica e Memorização",,
-1672,"Cursos de Neurolingüística",,
-1673,"Cursos de Pintura",,
-1675,"Cursos Odontológicos",,
-1676,"Cursos para Degustação de Bebidas",,
-1677,"Cursos por Correspondência",,
-1690,Giz,,
-1699,"Treinamento e Desenvolvimento",,
-1703,Empreendimentos,,
-1707,Apart-Hotéis,,
-1714,"Engenharia de Avaliações",,
-1721,"Delegacias do Trabalho",,
-1722,"Empregados Domésticos - Agências",,
-1724,"Seleção de Pessoal",,
-1750,"Laboratórios de Análises Físico-Químicas",,
-1752,"Segurança Industrial",,
-1755,"Máquinas Fotográficas - Conserto",,
-1756,"Elevadores - Art; Equip e Manutenção",,
-1757,Monta-Cargas,,
-1769,"Turismo - Clubes",,
-1772,Zoológicos,,
-1773,Excursões,,
-1774,"Agências de Notícias",,
-1776,"Bancos de Imagens",,
-1777,Cine-Foto,,
-1779,"Filmes - Art e Equip",,
-1780,"Fotografias - Ampliações; Cópias e Revelações",,
-1781,"Fotografias - Art e Equip",,
-1782,"Fotografias - Estúdios",,
-1783,"Fotografias - Restaurações",,
-1784,"Fotografias Aéreas",,
-1796,"Peixes e Frutos do Mar - Atac e Distr",,
-1797,"Pesca - Empresas",,
-1799,Cemitérios,,
-1800,"Cemitérios de Animais",,
-1801,Crematórios,,
-1802,"Funerais - Planos",,
-1805,"Urnas Funerárias - Atac e Fab",,
-1806,"Bebidas - Art e Equip para Fabricar",,
-1808,"Combustão - Equip",,
-1810,"Gases - Equip",,
-1812,Manômetros,,
-1821,Bicicletas,,
-1825,"Ginástica - Ap",,
-1826,"Ginástica Laboral Preventiva",,
-1833,"Hotéis para Idosos",,
-1841,"VOIP - Serviços de Telecomunicação",,
-1842,"Albergues (Hostels)",,
-1847,"Hotéis Fazenda",,
-1850,Motéis,,
-1851,Pensões,,
-1853,Resorts,,
-1857,"Turismo Rural",,
-1880,"Advogados - Direito de Informática e Internet",,
-1881,"Bancos 24h",,
-1883,"Cyber Cafés",,
-1885,"Escritórios Virtuais e para Aluguel",,
-1887,"Informática - Livrarias e Publicações",,
-1888,"Informática - Projetos e Instalações",,
-1891,"Internet - Auditoria de Sites e Institutos de Pesquisa",,
-1892,"Internet - Comércio Eletrônico",,
-1893,"Internet - Construção de Sites",,
-1894,"Internet - Hospedagem de Sites e Registro de Domínio",,
-1895,"Internet - Infra-Estrutura; Redes e Conexões Dedicadas",,
-1896,"Internet - Provedores de Acesso",,
-1897,"Internet - Publicidade e Marketing On-Line",,
-1898,"Internet - Segurança da Informação",,
-1899,"Jogos em Rede",,
-1902,"Cinemas - Art e Equip",,
-1909,Óticas,,
-1916,"CDs e DVDs - Recuperação",,
-1919,"Couro - Artef - Conservação e Limpeza",,
-1924,Dragagem,,
-1925,Escovas,,
-1933,"Lavadoras de Alta Pressão",,
-1935,"Lavanderias - Art e Máq",,
-1936,"Lavanderias 24h",,
-1974,Vassouras,,
-1977,"Banheiros - Artigos e Projetos",,
-1983,Louças,,
-1986,"Máquinas de Lavar Industriais",,
-1991,"Utensílios e Utilidades Domésticas - Atac e Fab",,
-1999,"Refeições - Entregas em Domicílio",,
-2000,"Refeições Coletivas - Fornecedores",,
-2006,"Carnes - Atac",,
-2011,"Pães - Fornecedores",,
-2035,Motocicletas,,
-2036,"Motocicletas - Conserto e Peças",,
-2037,Moto-Táxi,,
-2038,Alfaiates,,
-2042,"Automação Comercial - Assistência Técnica",,
-2043,"Aviões - Manutenção e Peças",,
-2045,"Bicicletas - Peças e Acessórios",,
-2049,"Borracheiros - Art e Equip",,
-2055,"Colchões - Reforma",,
-2056,"Compressores - Conserto",,
-2058,"DVD - Ap; Acessórios e Conserto",,
-2063,"Equipamentos Elétricos - Conserto",,
-2067,"Guinchos - Fab e Manutenção",,
-2070,"Motores - Conserto",,
-2072,Pianos,,
-2073,"Rádio - Conserto e Peças",,
-2074,"Relógios - Conserto",,
-2104,Forjarias,,
-2108,"Motores Diesel - Conserto e Peças",,
-2110,Polias,,
-2114,Teatros,,
-2145,"Escovas de Carvão e Metálicas",,
-2151,Juntas,,
-2153,"Máquinas de Costura - Conserto e Peças",,
-2159,"Mecânica Industrial",,
-2161,Modeladores,,
-2167,"Objetos de Arte e Antigüidades - Restauração",,
-2172,"Plásticos - Peças Industriais e Injetadas",,
-2181,"Resistências Elétricas",,
-2186,"Tornearia de Precisão",,
-2187,Torneiros,,
-2189,"Usinagem de Peças",,
-2191,"Artes - Artigos e Materiais",,
-2193,Celulose,,
-2198,"Embalagens para Presentes",,
-2199,"Envelopes - Atacado e Fabricação",,
-2200,"Formulários Contínuos",,
-2203,"Gráficas - Art e Equip",,
-2205,"Máquinas para Fragmentar Papel",,
-2208,"Papel de Parede - Atac e Fab",,
-2210,"Papel Especial",,
-2211,"Papel para Embalagem",,
-2219,"Sacos Plásticos e de Papel",,
-2227,"Combustíveis - Distr",,
-2229,"Lojas de Conveniência",,
-2230,"Lojas de Conveniência 24h",,
-2231,"Lubrificação - Sistemas e Máquinas",,
-2234,"Petróleo e Derivados",,
-2249,"Pesque - Pague",,
-2252,"Previdência Privada",,
-2263,"Incêndio - Equip Contra",,
-2269,"Protetores Contra Descarga Elétrica",,
-2270,"Raios X - Ap e Art",,
-2272,"Raios X - Operação; Manutenção e Conserto",,
-2273,"Raios X - Proteção Radiológica",,
-2274,Ultra-Violeta,,
-2281,"Navios - Reboque",,
-2306,"Ladrilhos e Mosaicos",,
-2308,"Mármore e Granito - Polimento",,
-2309,Marmorite,,
-2318,"Pisos Elevados",,
-2319,"Pisos Industriais",,
-2342,Carrinhos,,
-2343,Engrenagens,,
-2346,"Mangueiras Industriais",,
-2351,"Plataformas para Deficientes",,
-2355,"Rodas e Rodízios",,
-2356,"Transportes para Deficientes Físicos",,
-2361,"Consultoria Pessoal",,
-2363,"Identificação - Sistemas",,
-2367,"Vale -Transporte - Administração e Convênios",,
-2369,Eletrodos,,
-2371,"Fundições - Art e Equip",,
-2378,"Aparelhos Elétricos e Eletrônicos",,
-2388,"Estética - Ap",,
-2390,"Fitas Magnéticas para Som e Vídeo",,
-2400,"Som - Estúdios",,
-2406,Sorveterias,,
-2408,"Sorvetes - Atac e Fab",,
-2413,Aeroportos,,
-2421,"Camping - Clubes",,
-2426,Diversões,,
-2427,"Ecologia - Empresas",,
-2428,Ecoturismo,,
-2429,"Esportes Radicais",,
-2431,Haras,,
-2435,"Lanchas - Aluguel",,
-2436,Museus,,
-2443,Rodoviárias,,
-2445,"Transporte Internacional",,
-2453,Barcos,,
-2455,Helicópteros,,
-2461,"Transporte Fluvial e Marítimo",,
-2469,"Engenheiros Navais",,
-2470,Estaleiros,,
-2472,"Manutenção Naval",,
-2473,Marina,,
-2474,"Motores Marítimos e de Popa",,
-2477,"Navios - Corretores",,
-2478,"Navios - Fornecedores",,
-2479,Portos,,
-2490,"Bilhar e Sinuca - Art e Equip",,
-2494,"Cães de Guarda - Aluguel",,
-2510,"Livros - Locadoras",,
-2514,"Quadras Esportivas - Aluguel",,
-2521,"Televisão - Ap - Aluguel",,
-2527,"Videocassete e DVD - Aparelhos - Aluguel",,
-2534,"Transporte Escolar",,
-2542,Cabinas,,
-2546,Garrafas,,
-2547,"Molduras - Atac e Fab",,
-2556,Vitrais,,
-2594,"Açougues e Frigoríficos",,
-2595,"Supermercados - Art e Equip",,
-2608,"Brigadas de Incêndio",,
-2615,"Máquinas de Costura Industriais",,
-2627,"Restaurantes Industriais - Administração",,
-2631,"Instrumentos Musicais - Lojas",,
-2633,"Padarias e Confeitarias - Art e Equip",,
-2640,"Telefones Celulares - Aparelhos e Acessórios (Lojas)",,
-2641,"Telefones - Ap - Conserto e Vendas",,
-2642,amidos,,
-2643,"arroz - beneficiamento",,
-2650,"erva-mate - atac; distr e beneficiamento",,
-2662,"Transformadores Elétricos",,
-2663,"Subestações Elétricas",,
-2664,"Agricultura e Criação de Animais",,
-2665,Agroindústria,,
-2676,"Animais de Estimação",,
-2680,"Cães - Adestramento",,
-2691,"Artigos e Insumos",,
-2698,Farelos,,
-2701,Peles,,
-2705,Selaria,,
-2708,"Tronco Brete",,
-2709,Criadores,,
-2712,Aqüicultura,,
-2713,"Aves e Ovos",,
-2715,Granjas,,
-2718,Piscicultura,,
-2719,"Instalações Rurais",,
-2724,Drenagem,,
-2725,Estufas,,
-2728,Silos,,
-2731,"Máquinas e Equipamentos",,
-2733,Cata-ventos,,
-2736,"Máquinas para Beneficiar",,
-2742,Trituradores,,
-2743,"Produtores Agrícolas",,
-2749,"Floriculturas - Fornecedores",,
-2750,"Frutas; Legumes e Verduras",,
-2751,"Fumo - Fab e Distr",,
-2754,"Verduras e Legumes",,
-2755,"Serviços e Profissionais",,
-2756,"Agricultura e Pecuária - Assessoria e Pesquisa",,
-2758,"Aves - Abatedouros",,
-2759,"Aviação Agrícola",,
-2760,"Beneficiamento Agrícola",,
-2765,"Engenheiros Agrônomos",,
-2768,Hidrossemeadura,,
-2769,"Imagens de Satélite",,
-2770,"Inseminação Artificial para Animais",,
-2772,Matadouros,,
-2774,"Reflorestamento - Empresas",,
-2775,"Transporte de Animais",,
-2778,Zootécnicos,,
-2779,"Alimentos; Bebidas e Fumo",,
-2780,Alimentação,,
-2781,Compras,,
-2788,Quitandas,,
-2791,"Refeições e Lanches",,
-2792,Açaí,,
-2794,"Alimentos Congelados",,
-2797,"Cafés Regionais",,
-2799,Congelados,,
-2802,"Espetinhos de Churrasco",,
-2806,Pastelarias,,
-2812,"Artigos e Equipamentos",,
-2813,"Para a Indústria",,
-2814,Autoclaves,,
-2817,"Caixas Plásticas",,
-2822,Essências,,
-2823,Etiquetadoras,,
-2830,"Refrigeradores - Atac e Fab",,
-2832,"Sorvetes - Máq p Fabricar",,
-2833,"Para o Comércio",,
-2834,"Açougues e Frigoríficos - Art e Equip",,
-2836,"Café - Máquinas para Fazer",,
-2837,"Caixas Registradoras",,
-2840,Cutelaria,,
-2852,Bebidas,,
-2857,Cachaças,,
-2862,Festas,,
-2868,Fumo,,
-2869,Charutos,,
-2870,"Cigarros - Fab e Distr",,
-2871,Fósforos,,
-2872,Tabacarias,,
-2874,"Açúcar; Condimentos e Temperos",,
-2882,"Alimentos Congelados e Sorvetes",,
-2883,"Carnes e Pescados",,
-2889,"Cereais e Grãos",,
-2892,"Doces; Biscoitos e Chocolates",,
-2897,"Doces - Atac e Fab",,
-2898,"Ervas; Chás e Sementes",,
-2900,"Farinha; Massas e Similares",,
-2907,"Frios e Laticínios",,
-2908,"Frios e Queijos",,
-2916,"Produtos Diet; Light e Naturais",,
-2921,"Armazéns Gerais",,
-2923,"Seguros de Cargas",,
-2926,"Para Empresas",,
-2928,"Refeições - Adm. de Cartões e Convênios",,
-2931,"Arte e Cultura",,
-2932,"Artes Plásticas e Escultura",,
-2934,"Artistas Plásticos",,
-2937,Escultores,,
-2938,"Galerias de Arte",,
-2939,Leiloeiros,,
-2944,"Pinturas - Art e Equip",,
-2945,"Tintas para Tecidos",,
-2946,"Artes Visuais e Gráficas",,
-2950,Desenhistas,,
-2954,"Cinema; Vídeo e TV",,
-2958,"CDs; DVDs e Discos(Lojas)",,
-2960,Cinemas,,
-2962,Dublagens,,
-2965,"Filmes - Estúdios e Produtoras",,
-2966,"Filmes e Vídeos - Distribuidores",,
-2968,"Ingressos - Vendas em Domicílio",,
-2973,"Videoclubes e Locadoras",,
-2975,Videotape,,
-2976,"Dança e Teatro",,
-2980,"Dança - Art",,
-2987,Fotografia,,
-2998,"Bancas para Jornais e Revistas",,
-2999,"Bancas para Jornais e Revistas - Fab",,
-3000,Bibliotecas,,
-3001,"Direitos Autorais - Sociedades",,
-3002,"Jornais - Assinaturas",,
-3003,"Jornais - Distribuidores",,
-3004,"Jornais - Editores e Representantes",,
-3006,"Livros - Distribuidores",,
-3009,"Revistas - Assinaturas",,
-3010,Música,,
-3021,"Instrumentos Musicais - Atac e Fab",,
-3022,"Instrumentos Musicais - Conserto",,
-3024,"Música - Editores",,
-3027,"Rádio - Emissoras e Retransmissoras",,
-3030,"Programação Cultural",,
-3042,"Beleza; Bem-estar e Espiritualidade",,
-3043,Beleza,,
-3054,"Modeladores Cirúrgicos e Estéticos",,
-3066,"Maquiagem Definitiva",,
-3070,"Tatuagens e Body Piercing",,
-3071,Tratamentos,,
-3077,"Boa Forma",,
-3080,"Personal Trainers",,
-3084,"Espiritualidade e Esoterismo",,
-3085,"Serviços Religiosos",,
-3094,"Saúde e Bem-estar",,
-3099,"Terapias Alternativas",,
-3100,Yoga,,
-3101,"Serviços para Portadores de Necessidades Especiais",,
-3107,"Carros e Outros Veículos",,
-3108,Acessórios,,
-3113,Capas,,
-3119,"GPS - Aparelhos",,
-3122,Caminhões,,
-3130,"Compra; Venda e Aluguel",,
-3143,Quadriciclos,,
-3145,Triciclos,,
-3153,"Pneus - Máq e Equip para Conserto",,
-3155,Taxímetros,,
-3159,Ônibus,,
-3162,"Ônibus Urbanos",,
-3163,"Outros Veículos",,
-3164,"Carroças e Charretes",,
-3171,"Para o Motor",,
-3179,"Motores a Gás",,
-3186,Peças,,
-3190,"Automóveis - Câmbio Automático",,
-3201,"Automóveis - Velocímetros",,
-3217,"Pneus - Reciclagem",,
-3220,Tacógrafos,,
-3229,Adaptação,,
-3232,Combustíveis,,
-3235,Emergências,,
-3244,Estacionamentos,,
-3245,"Estacionamentos e Garagens - Adm",,
-3246,"Habilitação e Documentação",,
-3250,"Multas de Trânsito - Assessoria",,
-3253,Limpeza,,
-3257,"Mecânica e Manutenção",,
-3275,"Casa e Jardim",,
-3291,Casa,,
-3292,"Artigos de Decoração",,
-3295,"Artesanatos - Artigos Reciclados",,
-3297,"Cestas - Atac e Fab",,
-3302,"Estofamento - Art",,
-3312,"Velas de Cera ou Parafina",,
-3313,"Banheiro e Cozinha",,
-3325,"Secadores de Roupa (Varal)",,
-3327,"Eletrodomésticos e Eletroportáteis",,
-3328,"Áudio e Vídeo",,
-3332,Home-Theater,,
-3336,"Videocassete e DVD - Ap; Acessórios e Conserto",,
-3340,Consertos,,
-3359,Eletroportáteis,,
-3364,"Desumidificadores e Umidificadores",,
-3365,Enceradeiras,ser,
-3366,"Máquinas de Costura",,
-3371,"Linha Branca",,
-3373,"Fogões - Vendas e Instalações",,
-3375,Freezers,,
-3378,Iluminação,,
-3379,Abajures,,
-3381,"Iluminação - Projetos",,
-3382,Luminárias,,
-3384,"Janelas; Paredes e Piso",,
-3397,"Pinturas Especiais",,
-3398,"Sisal e Produtos de Sisal",,
-3405,"Jardins e Área de Lazer",,
-3407,Aramados,,
-3425,Móveis,,
-3438,"Móveis - Montagem e Desmontagem",,
-3444,"Móveis Rústicos",,
-3447,Prateleiras,,
-3450,"Produtos para o Lar",,
-3458,"Fechaduras - Atac e Fab",,
-3463,"Garrafas Térmicas",,
-3465,"Lençóis Térmicos",,
-3466,Lenha,,
-3468,Malas,,
-3470,Mosquiteiros,,
-3471,Prataria,,
-3473,Redes,,
-3483,Cancelas,,
-3484,"Fechaduras Eletroeletrônicas",,
-3486,"Iluminação de Emergência",,
-3497,Profissionais,,
-3500,"Proteção Contra Incêndio",,
-3513,"Malas - Conserto",,
-3518,Decoração,,
-3526,Sancas,,
-3527,"Instalações e Manutenção",,
-3535,"Dedetização e Desratização - Art e Equip",,
-3561,Tinturarias,,
-3562,"Crianças e Bebês",,
-3564,"Brinquedos - Atac e Fab",,
-3566,"Brinquedos Educativos",,
-3567,Brinquedoteca,,
-3569,Fraldas,,
-3570,Imóveis,,
-3584,"Construção Civil e Meio Ambiente",cas.emp,
-3586,"Acabamento e Revestimento",,
-3598,Fixadores,,
-3613,"Pinturas Eletrostáticas e Industriais",,
-3624,"Aquecimento; Ar-condicionado e Ventilação",,
-3635,"Tampões e Grelhas",,
-3636,"Banheiros e Cozinhas",,
-3641,"Metais Sanitários",,
-3642,"Escadas e Elevadores",,
-3648,"Fundações e Estrutura",,
-3649,"Cálculos Estruturais",,
-3650,"Concreto - Controle Tecnológico",,
-3651,"Espaçadores de Concreto",,
-3653,"Estruturas - Recuperação",,
-3660,Refratários,,
-3663,"Instalações Elétricas e de Telefone",,
-3672,"Isolamento Elétrico",,
-3678,"Instalações Hidráulicas; Água e Esgoto",,
-3681,"Bloqueadores de Ar para Hidrômetros",,
-3696,"Testes Hidrostáticos",,
-3698,Interiores,,
-3704,"Jardins & Área de Lazer",,
-3708,"Campos Esportivos - Projetos e Manutenção",,
-3715,Sauna,,
-3716,"Sauna - Art e Equip",,
-3722,"Canteiros para Obras",,
-3728,"Engenharia - Art e Equip",,
-3732,"Fôrmas para Concreto",,
-3738,"Guindastes - Fab",,
-3739,"Jateamento - Equip",,
-3740,"Madeiras - Máq para Trabalhar",cas.mat,
-3741,"Máquinas para Fabricar Telhas",,
-3743,"Máquinas Rodoviárias",,
-3744,"Marmoristas - Equip",,
-3746,"Poços - Equipamentos",,
-3747,Rosqueadeiras,,
-3749,"Topografia e Agrimensura - Art e Equip",,
-3757,Balaústres,,
-3759,Cal,,
-3760,Calcário,,
-3767,Concreto,cas.mat,
-3771,"Fibras Metálicas",,
-3775,Lixas,,
-3787,Serrarias,,
-3792,"Pavimentação e Urbanização",,
-3797,"Sinais de Tráfego",,
-3799,"Urbanização - Empresas",,
-3802,Cartografia,,
-3814,Maquetes,,
-3817,"Portas; Janelas e Telhado",,
-3822,Domos,,
-3831,"Portas Giratórias",,
-3832,"Portas Sanfonadas",,
-3846,"Preparação do Terreno",,
-3849,Detonações,,
-3854,Explosivos,,
-3857,Geotêxtil,,
-3860,"Rebaixamento do Lençol d'Água",,
-3862,Termografia,,
-3879,"Detectores de Metais",,
-3888,"Mangueiras de Incêndio",,
-3896,Roletas,,
-3927,"Restauração de Exteriores",,
-3929,"Construções Industriais",,
-3930,"Automação Industrial",,
-3931,"Construção Industrial",cas.emp,
-3932,"Engenheiros Industriais",,
-3936,"Projetos Industriais",,
-3937,"Ecologia e Meio Ambiente",,
-3938,"Advogados - Causas Ambientais",,
-3940,Biólogos,,
-3945,"Engenheiros Florestais",,
-3952,"Plásticos - Resíduos e Refugos",,
-3958,"Economia; Finanças e Serviços Legais",,
-3959,"Economia e Finanças",,
-3960,"Bens e Investimentos",,
-3962,Capitalização,,
-3966,Franchising,,
-3968,Investimentos,,
-3971,Salvados,,
-3972,"Comércio Exterior",,
-3975,"Compras - Agentes",,
-3976,"Despachantes Aduaneiros",,
-3979,Crédito,,
-3980,"Cartões de Crédito",,
-3982,"Crédito - Sistemas de Vendas",,
-3984,"Factoring - Fomento Mercantil",,
-3985,Financeiras,,
-3986,"Garantias de Crédito",,
-3987,"Instituições Financeiras",,
-3988,Bancos,,
-3989,"Bancos - Caixas Eletrônicos",,
-3991,"Bolsa de Valores",,
-3994,"Corretoras de Câmbio e Valores Mobiliários",,
-3995,"Distribuidoras de Títulos e Valores",,
-3997,"Receita Federal",,
-4000,Atuários,,
-4006,Economistas,,
-4008,"Seguradoras - Assistência 24h",,
-4011,"Seguros - Reguladores",,
-4012,"Seguros - Vistoriadores",,
-4014,"Seguros para Viagem",,
-4016,"Serviços Legais",,
-4017,Instituições,,
-4018,"Defesa do Consumidor",,
-4020,"Delegacias e Distritos Policiais",,
-4021,"Fóruns e Tribunais",,
-4022,"Polícia Militar - Batalhões",,
-4025,Advogados,,
-4027,"Advogados - Causas Bancárias",,
-4028,"Advogados - Causas Cíveis",,
-4029,"Advogados - Causas Comerciais",,
-4030,"Advogados - Causas Criminais",,
-4031,"Advogados - Causas Fiscais e Tributárias",,
-4032,"Advogados - Causas Internacionais",,
-4033,"Advogados - Causas Previdenciárias",,
-4034,"Advogados - Causas Trabalhistas",,
-4035,"Advogados - Direito de Família",,
-4039,"Marcas e Patentes",,
-4040,Mediadores,,
-4041,"Educação e Empregos",,
-4042,"Artigos Escolares",,
-4045,"Canetas e Lapiseiras",,
-4053,"Mapas e Globos",,
-4059,Quadros-Negros,,
-4060,Retroprojetores,,
-4062,"Cursos e Escolas",,
-4063,"Artes; Cultura e Outros",,
-4084,"Educação Infantil",,
-4086,"Centros Lúdicos",,
-4088,"Ensino Fundamental e Médio",,
-4097,Esportes,,
-4101,"Graduação e Extensão",,
-4106,Idiomas,,
-4110,"Técnicos e Profissionalizantes",,
-4121,Empregos,,
-4132,"Consultoria Educacional",,
-4134,"Pedagogia e Orientação Vocacional",,
-4135,Pensionatos,,
-4141,Eletro-eletrônica,,
-4144,"Circuitos Impressos",,
-4146,"Conectores Elétricos",,
-4149,Eletroímãs,,
-4150,"Eletrônica Industrial",,
-4156,"Reguladores de Voltagem",,
-4157,"Teclados de Membrana",,
-4159,"Equipamentos de Medidas e Testes",,
-4160,"Analisadores Eletrônicos de Motores",,
-4162,"Instrumentos Elétricos e Eletrônicos",,
-4163,Medidores,,
-4166,"Geração; Transmissão e Distribuição de Energia",,
-4168,"Condutores Elétricos",,
-4178,"Redutores de Velocidade",,
-4182,"Usinas Elétricas - Máq e Equip",,
-4183,"Variadores de Velocidade",,
-4187,"Energia - Empresas",,
-4188,"Energia Nuclear - Empresas",,
-4189,"Usinas Elétricas",,
-4190,"Material Elétrico de Instalação",,
-4198,"Iluminação - Art - Atac e Fab",,
-4208,"Terminais Elétricos",,
-4209,"Motores e Geradores",,
-4221,"Engenheiros Eletrônicos",,
-4222,"Utilidades Domésticas",,
-4257,"Pilhas; Lanternas e Lâmpadas",,
-4260,Pilhas,,
-4261,"Esporte e Lazer",,
-4274,"Esportes - Art e Equip - Atac e Fab",,
-4276,"Jet Ski",,
-4282,"Surf - Art e Equip",,
-4284,"Atividades Esportivas",,
-4286,"Artes Marciais",,
-4289,Balonismo,,
-4290,Boliche,,
-4294,"Salões de Bilhar e Sinuca",,
-4303,Salva-Vidas,,
-4304,Lazer,,
-4327,"Parques - Equip",,
-4331,Ultra-Leves,,
-4332,Diversão,,
-4336,"Diversões Eletrônicas",,
-4342,"Videogames - Distribuidores de Fitas",,
-4345,"Diversão Adulta",,
-4346,"Bingos - Promoções",,
-4348,"Corridas de Cavalos - Agências",,
-4353,Termas,,
-4354,"Hobbies e Coleções",,
-4355,Aeromodelismo,,
-4356,"Cartões Telefônicos",,
-4357,Filatelia,,
-4358,"Mágicos - Art",,
-4359,Modelismo,,
-4360,Numismática,,
-4361,"Radioamadores - Equip",,
-4362,Noite,,
-4370,Passeios,,
-4393,"Festas e Eventos",,
-4412,Videoconferência,,
-4415,"Balas Personalizadas",,
-4422,Casamento,,
-4423,"A Lua-de-mel",,
-4431,"O Casamento",,
-4444,"Os Noivos",,
-4452,"Comida e Bebida",,
-4468,"Convites e Divulgação",,
-4469,"Assessoria de Imprensa",,
-4478,"Mala Direta - Empresas",,
-4498,"Filmagens e Fotos",,
-4506,Hospedagem,,
-4509,Locais,,
-4523,Mensagens,,
-4526,Montagem,,
-4530,Barracas,,
-4542,Organização,,
-4555,Manobristas,,
-4560,Roupas,,
-4576,"Cartões Magnéticos - Fab",,
-4583,"Som e Iluminação",,
-4592,Transporte,,
-4600,"Governo; Serviços Públicos e Sociais",,
-4601,"Administração Pública",,
-4602,"Administrações Regionais",,
-4603,"Câmaras Municipais",,
-4605,"Órgãos Públicos",,
-4606,"Partidos Políticos",,
-4607,"Planejamento Municipal",,
-4608,"Prefeituras Municipais",,
-4609,"Secretarias Públicas",,
-4610,"Agricultura e Abastecimento",,
-4613,Alistamento,,
-4614,"Artigos Militares",,
-4616,"Assistência Social",,
-4623,Cidadania,,
-4627,"Cultura e Esporte",,
-4636,"Energia e Meio Ambiente",,
-4646,Justiça,,
-4652,"Saúde e Educação",,
-4661,Metrô,,
-4664,"Rodovias - Administração",,
-4666,"Transporte Ferroviário",,
-4668,"Utilidade Pública",,
-4671,"Corpo de Bombeiros",,
-4672,"Correios e Telégrafos",,
-4674,"Gráfica; Papel e Embalagem",,
-4675,Embalagem,,
-4677,"Barbantes e Fitilhos",,
-4678,Cadarços,,
-4679,Cordas,,
-4682,Datadores,,
-4683,Elásticos,,
-4689,"Etiquetas - Máq para Fabricar",,
-4691,Grampeadores,,
-4692,Grampos,,
-4693,Lacres,,
-4695,"Máquinas de Ensacar e Empacotar",,
-4697,"Plastificação - Máq",,
-4699,"Selos de Segurança",,
-4701,"Vacuum Forming",,
-4702,Produtos,,
-4708,Estojos,,
-4712,"Sacos de Tecido",,
-4715,Tubetes,,
-4716,Vasilhames,,
-4717,Gráfica,,
-4720,"Encadernadores - Art e Equip",,
-4726,Guilhotinas,,
-4728,Prensas,,
-4731,Agendas,,
-4735,Editores,,
-4740,Panfletos,,
-4742,"Revistas - Editores e Distribuidores",,
-4745,Clichês,,
-4749,Fotocomposição,,
-4750,Fotolitos,,
-4754,Plastificação,,
-4770,"Informática; Internet e Telecomunicações",,
-4771,"Informática e Internet",,
-4772,"Acesso a Internet",,
-4777,"Cabeamento Estruturado - Óptico e Metálico",,
-4779,"Informática - CD-ROM",,
-4787,"Informática - Periféricos",,
-4791,"Computação Gráfica",,
-4792,"Informática - Computação  Gráfica",,
-4793,Dados,,
-4794,"Informática - Armazenamento e Recuperação de Dados",,
-4795,"Informática - Digitação de Dados",,
-4796,"Informática - Digitalização de Documentos",,
-4798,Infra-estrutura,,
-4800,"Cabos Coaxiais",,
-4806,"Publicidade e Marketing",,
-4813,"Informática - Auditoria",,
-4817,"Informática - Editoração Eletrônica",,
-4828,Software,,
-4831,Treinamento,,
-4845,"Telecomunicações - Art e Equip",,
-4852,"Engenheiros de Telecomunicações",,
-4861,"Máquinas; Instrumentos; Ferramentas e Motores",,
-4863,"Facas Industriais",,
-4866,"Ferramentas de Corte",,
-4868,"Ferramentas Pneumáticas",,
-4869,Instrumentos,,
-4870,"Instrumentos Científicos",,
-4874,Agrícolas,,
-4885,Automotivos,,
-4889,"Estacionamentos e Garagens - Equip",,
-4896,Turboalimentadores,,
-4922,"Eletricidade e Eletrônica",,
-4943,Escritório,,
-4946,"Cheques - Máq para Preencher e Visar",,
-4948,Duplicadores,,
-4954,"Máquinas de Contar; Separar e Empacotar Moedas",,
-4955,"Máquinas de Escrever",,
-4956,"Máquinas de Franquear",,
-4959,"Máquinas para Protocolar",,
-4962,"Gases e Combustão",,
-4969,"Hidráulicos; Pneumáticos e Automação Industrial",,
-4979,"Grampeadores e Pregadores Pneumáticos",,
-4982,"Pistolas para Pinturas",,
-4984,"Indústria Alimentícia e de Bebidas",,
-4992,"Trocadores de Calor",,
-4993,"Indústria de Papel e Embalagem",,
-5006,"Indústria Madeireira e de Móveis",,
-5013,"Indústria Mecânica",,
-5021,"Máquinas Especiais",,
-5022,"Máquinas Operatrizes",,
-5023,"Máquinas Usadas",,
-5030,"Indústria Plástica",,
-5031,"Plásticos - Máq para Fabricar",,
-5033,"Indústria Química e Farmacêutica",,
-5039,"Esterilização - Aparelhos",,
-5043,"Laboratórios - Ap; Art e Equip",,
-5047,Tanques,,
-5048,"Indústria Têxtil e de Vestuário",,
-5057,"Máquinas para Bordar",,
-5058,"Máquinas Têxteis",,
-5059,"Limpeza; Desinfecção e Eliminação de Resíduos",,
-5061,"Desentupimento - Máq",,
-5065,"Lixo e Resíduos Industriais - Compactadores",,
-5069,Magnéticos,,
-5071,Ímãs,,
-5072,"Medidas e Testes",,
-5078,"Meteorologia - Equipamentos",,
-5081,Termômetros,,
-5082,Termostatos,,
-5083,"Metal-mecânica e Mineração",,
-5094,"Movimentação de Cargas",,
-5097,"Equipamentos Vibratórios",,
-5099,Talhas,,
-5100,"Transportadores Industriais",,
-5103,"Equipamentos de Proteção Individual",,
-5116,"Transmissão e Distribuição de Energia",,
-5117,Acoplamentos,,
-5120,"Correntes - Atac e Fab",,
-5127,"Vedação e Isolação",,
-5129,Gaxetas,,
-5132,"Selos Mecânicos",,
-5133,Motores,,
-5152,"Freios Industriais",,
-5157,"Afiação Industrial",,
-5160,"Engenheiros Mecânicos",,
-5161,"Ensaio de Materiais",,
-5163,"Inspeção e Controle de Qualidade",,
-5169,"Radiografias para Indústrias",,
-5173,"Medicina e Saúde",,
-5175,"Aparelhos Auditivos",,
-5203,"Próteses Mamárias",,
-5204,"Protéticos e Próteses - Art e Equip",,
-5212,"Dentistas - Disfunção Têmporo-Mandibular e Dor Oro-Facial",,
-5228,Exames,,
-5231,"Laboratórios de Anatomia Patológica e Citopatologia",,
-5235,"Hospitais e Clínicas",,
-5271,Médicos,,
-5273,"Emergência Médica Domiciliar",,
-5275,"Medicina do Adolescente - Hebeatria",,
-5278,"Medicina do Tráfego",,
-5291,"Médicos - Cirurgia Cardiovascular",,
-5293,"Médicos - Cirurgia de Mão",,
-5296,"Médicos - Cirurgia Torácica",,
-5297,"Médicos - Cirurgia Vascular",,
-5299,"Médicos - Citopatologia",,
-5334,"Profissionais de Saúde",,
-5347,"Terapeutas Ocupacionais",,
-5349,Serviços,,
-5353,"Bancos de Leite Materno",,
-5354,"Bancos de Olhos",,
-5355,"Bancos de Sangue",,
-5368,Protéticos,,
-5372,"UTI Aérea",,
-5373,"UTI Móvel",,
-5376,Metal-mecânica,,
-5377,"Conformação e Industrialização",,
-5378,Abrasivos,,
-5382,"Estamparia em Metal",,
-5386,Matrizarias,,
-5405,"Torres de Resfriamento",,
-5423,"Carrinhos para Ambulantes",,
-5432,Esferas,,
-5434,"Ferrovias - Equip",,
-5439,"Juntas de Expansão",,
-5454,"Engenheiros Metalúrgicos",,
-5456,"Gravação Pantográfica",,
-5457,Gravadores,,
-5458,Protótipos,,
-5461,Soldagem,,
-5466,"Tratamentos Térmicos e de Superfície",,
-5474,Ignifugação,,
-5487,"Metais Preciosos",,
-5493,Geofísica,,
-5495,Lapidação,,
-5501,"Transporte de Minérios",,
-5502,"Moda e Indústria Têxtil",,
-5503,Confecção,,
-5512,"Fivelas - Atac e Fab",,
-5514,"Tear Manual",,
-5515,Zíperes,,
-5534,Bordados,,
-5545,"Couro e Calçados",,
-5560,"Couro - Artef",,
-5561,"Couro - Artef - Atac e Fab",,
-5565,Sapateiros,,
-5566,"Fiação e Tecelagem",,
-5575,"Transfer e Prensas Térmicas",,
-5579,"Cintas para Amarração e Elevação",,
-5586,"Fios Têxteis",,
-5589,"Malotes - Atac e Fab",,
-5594,"Tecidos - Atac e Fab",,
-5596,"Tecidos - Resíduos e Refugos",,
-5598,Moda,,
-5600,Bijuterias,,
-5601,"Bijuterias - Atac e Fab",,
-5610,Guarda-Chuvas,,
-5612,"Jóias - Art para Fabricar",,
-5619,"Relógios - Atac e Fab",,
-5621,Relojoarias,,
-5622,Sapatarias,,
-5623,Lojas,,
-5626,Brechós,,
-5629,Magazines,,
-5636,"Roupas para Gestantes - Lojas",,
-5647,"Roupas - Reforma",,
-5649,"Plásticos e Borrachas",,
-5650,Borracha,,
-5651,Matérias-primas,,
-5654,Silicone,,
-5673,Plásticos,,
-5681,"Plásticos - Matérias-Primas",,
-5696,"Espumas de Plástico; Nylon e Látex",,
-5706,"Plásticos e Derivados - Representações",,
-5707,"Plásticos Laminados",,
-5714,"Plásticos - Recuperação e Tingimento",,
-5716,"Produtos e Serviços para Empresas",,
-5718,"Artigos de Limpeza",,
-5781,"Móveis e Complementos",,
-5797,"Quadros de Avisos",,
-5814,Instalações,,
-5834,"Móveis e Decoração",,
-5848,"Projetos e Instalações",,
-5868,"Recursos Humanos",,
-5894,"Consertos e Manutenção",,
-5915,"Crédito e Informações Comerciais",,
-5917,"Cheques - Serviços de Consulta",,
-5923,"Informações Comerciais",,
-5936,"Organização de Documentos",,
-5940,"Exames de Documentos - Peritos",,
-5942,Microfilmagem,,
-5948,"Serviços Gráficos e de Identificação",,
-5959,"Transporte e Armazenagem",,
-5964,Guarda-Documentos,,
-5966,Guarda-Volumes,,
-5968,"Malotes - Entrega",,
-5973,Viagens,,
-5984,Táxi-Aéreo,,
-5988,"Profissionais; Associações e Cooperativas",,
-6003,Artesãos,,
-6006,"Associações; Conselhos e Cooperativas",,
-6018,"Pesquisas Tecnológicas",,
-6020,"Beleza e Bem-estar",,
-6029,Ciências,,
-6030,Arqueólogos,,
-6031,Astronomia,,
-6033,Bioquímicos,,
-6036,"Comunicação e Marketing",,
-6040,"Construção e Reforma",cas,
-6051,Consultores,,
-6067,"Genealogia - Consultoria",,
-6069,Educação,,
-6075,Engenheiros,,
-6080,"Engenheiros Aeronáuticos",,
-6085,"Engenheiros de Petróleo",,
-6094,"Engenheiros Químicos",,
-6098,Mergulhadores,,
-6101,Eventos,,
-6108,"Finanças e Serviços Legais",,
-6208,"Preparação de Documentos",,
-6212,Taquígrafos,,
-6216,"Identidade de Marca e Sinalização",,
-6234,"Marketing e Vendas",,
-6239,"Marketing de Incentivos",,
-6240,"Marketing Direto",,
-6242,"Pesquisas de Mídia",,
-6245,"Telemarketing - Empresas",,
-6247,"Material Promocional",,
-6262,Mídia,,
-6263,"Aviões - Propaganda",,
-6268,"Mídia Exterior",,
-6272,"Propaganda Aérea",,
-6277,"Notícias e Comunicação Com o Mercado",,
-6281,"Recortes de Jornais - Clipping",,
-6284,"Publicidade e Propaganda - Produção",,
-6302,"Química; Farmacêutica e Indústria do Petróleo",,
-6303,Farmacêutica,,
-6307,"Indústria do Petróleo",,
-6313,Óleos,,
-6320,Refinarias,,
-6321,Química,,
-6342,"Perfumes - Art e Mat-Primas",,
-6343,"Perfumes - Atac e Fab",,
-6364,"Transporte; Armazenagem e Logística",,
-6365,"Armazenagem e Logística",,
-6366,"Amarração e Movimentação",,
-6370,"Cargas - Movimentação e Amarração",,
-6396,Armazenagem,,
-6407,"Automação e Serviços",,
-6423,Aviões,,
-6430,"Transporte de Cargas",,
-6467,"Navios - Inspeção",,
-6487,"Viagens e Turismo",,
-6497,"Como Chegar",,
-6513,"O Que Fazer",,
-6514,"Atrações Culturais",,
-6521,Carnaval,,
-6552,"Onde Comer",,
-6627,"Onde Ficar",,
-18053,"Cartomante; Quiromante; Búzios e Tarô",,
-18055,"Pizzarias 24h",,
+92,"Automóveis - Funilaria e Pintura""vei.fun",,0
+98,"Automóveis - Clínicas de Trânsito""vei",,0
+277,"Escolas Esportivas",,0
+307,Cerimonial;,,0
+348,Psicanalistas,,0
+380,"Médicos - Ortopedia e Traumatologia",,0
+607,Jóias,,0
+608,"Jóias - Conserto",,0
+698,"Montagens Industriais",,0
+736,Telecomunicações,,0
+737,"Radiocomunicações - Equip e Sistemas",,0
+738,"Tintas Automotivas",,0
+739,"Toalhas - Serviço de Fornecimento",,0
+740,Toldos,,0
+741,Tendas,,0
+742,"Cortinas - Limpeza",,0
+743,"Persianas - Conserto",,0
+744,"Box para Banheiros",,0
+746,Grades,,0
+748,"Fachadas - Projetos e Revestimentos",,0
+749,"Transporte de Valores",,0
+750,"Transporte de Veículos",,0
+751,Guarda-Móveis,,0
+752,Mudanças,,0
+753,"Transporte Rodoviário",,0
+754,"Trios Elétricos",,0
+756,"Medicina Antroposófica",,0
+757,"Medicina do Sono",,0
+759,"Medicina Esportiva",,0
+760,"Medicina Geral Comunitária",,0
+761,"Medicina Hiperbárica",,0
+762,"Medicina Legal",,0
+763,"Medicina Preventiva",,0
+764,"Médicos - Eletroencefalografia",,0
+765,"Médicos - Neurocirurgia e Neurologia",,0
+766,"Médicos - Anestesiologia",,0
+767,"Médicos - Angiologia",,0
+768,"Médicos - Hematologia",,0
+769,Ultra-Som,,0
+770,"Veículos Especiais",,0
+771,Carrocerias,,0
+772,"Médicos - Cirurgia da Cabeça e Pescoço",,0
+773,"Médicos - Cirurgia Pediátrica",,0
+774,Cintas,,0
+775,"Veículos Roubados - Cadastramento",,0
+776,"Vendas - Organização e Sistemas",,0
+777,"Médicos - Cirurgiões",,0
+778,"Veterinários 24h",,0
+779,"Videoclubes e Locadoras 24h",,0
+780,"Videogames e Acessórios - Vendas; Serviços e Locação",,0
+781,"Médicos - Clínica Geral",,0
+782,"Videokê - Aluguel e Vendas",,0
+783,"Vigilância Sanitária",,0
+784,"Zonas Eleitorais",,0
+785,"Médicos - Eletroneuromiografia",,0
+786,"Médicos - Ortomolecular",,0
+787,"Médicos - Endoscopia",,0
+788,"Médicos - Fisiatria",,0
+789,"Médicos - Genética",,0
+790,"Médicos - Ginecologia e Obstetrícia",,0
+791,"Médicos - Mastologia",,0
+793,"Médicos - Homeopatia",,0
+794,"Médicos - Infectologia",,0
+795,"Médicos - Nefrologia",,0
+796,"Médicos - Neurologia Pediátrica",,0
+797,"Médicos - Patologia Clínica",,0
+798,"Médicos - Pneumologia",,0
+799,"Médicos - Proctologia",,0
+800,"Médicos - Radiodiagnóstico e Radiologia",,0
+801,Fisioterapeutas,,0
+802,"Médicos - Reumatologia",,0
+803,"Médicos (Associações)",,0
+804,Mensageiros,,0
+805,Mini-Carros,,0
+806,"Moda Praia",,0
+807,Molas,,0
+808,"Vidro Temperado",,0
+809,Espelhos,,0
+810,"Móveis Usados",,0
+811,"Móveis - Atac e Fab",,0
+812,"Cozinhas Planejadas",,0
+813,"Móveis sob Medida",,0
+815,Ar-Condicionado,,0
+816,Lareiras,,0
+817,"Móveis de Vime e Cana-da-Índia",,0
+818,Içamentos,,0
+819,Fretes,,0
+820,Mudas,,0
+821,Músicos,,0
+822,Abraçadeiras,,0
+823,Aço,,0
+824,"Aço - Fitas",,0
+825,"Aço Inoxidável",,0
+826,"Academias Desportivas",,0
+827,"Academias Desportivas 24h",,0
+828,Acrílico,,0
+829,Arame,,0
+830,Armários,,0
+834,"Cabos de Aço e Acessórios",,0
+836,"Chapas Metálicas",,0
+837,"Chapas Perfuradas",,0
+839,"Navios - Equip para Construção",,0
+840,Eletrodutos,,0
+841,Ferro,,0
+843,Fundições,,0
+844,Gabiões,,0
+845,Galvanização,,0
+846,"Gravação em Chapas Metálicas",,0
+847,Laminados,,0
+849,Metais,,0
+850,Metalurgia,,0
+851,"Móveis de Metal",,0
+853,"Móveis para Escritórios",,0
+856,Parafusos,,0
+857,"Perfilados Metálicos",,0
+859,"Placas de Metal",,0
+860,Portas,,0
+861,"Portas de Aço",,0
+862,"Portas Automáticas",,0
+863,"Portas de Garagens",,0
+864,"Pregos e Tachas - Atac e Fab",,0
+865,Serralheiros,,0
+866,"Serralheiros - Art e Equip",,0
+867,Siderurgia,,0
+868,Sucata,,0
+869,Telhas,,0
+870,"Transporte Especial",,0
+871,Tubos,,0
+872,Oxicorte,,0
+873,"Portões Eletrônicos",,0
+874,"Cursos de Bijuteria",,0
+923,Adesivos,,0
+925,Colas,,0
+926,"Comunicação Visual",,0
+927,"Cortes à Laser",,0
+928,"Embalagens - Art e Equip",,0
+929,Etiquetas,,0
+931,"Fitas Adesivas e Gomadas",,0
+932,"Fitas Antiderrapantes",,0
+933,Letreiros,,0
+934,Papelarias,,0
+937,Silk-Screen,,0
+938,"Sinalização - Sistemas",,0
+939,"Vedação - Produtos",,0
+940,"Açúcar e Álcool - Usinas e Produtos",,0
+942,"Amianto e Produtos de Amianto",,0
+943,"Animais - Produtos para",,0
+944,Apicultura,,0
+947,"Armazéns; Empórios e Mercearias",,0
+949,"Artigos Religiosos",,0
+952,Bazares,,0
+953,Biscoitos,,0
+954,"Borracha - Artef",,0
+955,"Borracha - Matérias-Primas",,0
+958,"Caça e Pesca - Lojas",,0
+959,"Cacau - Compra e Venda",,0
+960,"Cacau - Exportadores",,0
+961,"Cacau - Industrialização",,0
+962,Café,,0
+963,"Calçados Ortopédicos",,0
+964,"Camping - Art e Equip (Lojas)",,0
+965,Castanhas,,0
+966,Catálogos,,0
+967,"Centrais de Abastecimento",,0
+968,Ceras,,0
+969,Cereais,,0
+970,"Cestas Básicas",,0
+971,Chocolates,,0
+972,"Chocolates - Atac e Fab",,0
+973,"Coco e Subprodutos",,0
+975,"Colchões - Fab",,0
+976,"Colchões - Lojas",,0
+977,"Condimentos e Molhos",,0
+978,"Corretores de Mercadorias",,0
+979,"Cortiça e Produtos de Cortiça",,0
+980,Cristais,,0
+981,"Dentistas - Art e Equip - Conserto e Vendas",,0
+984,"Farinhas - Atac e Fab",,0
+989,"Feltro e Produtos de Feltro",,0
+990,"Fibra e Produtos de Fibra",,0
+991,Gaiolas,,0
+992,Guaraná,,0
+994,"Hotéis e Motéis - Art e Equip",,0
+995,"Importação e Exportação",,0
+996,"Importação e Exportação - Assessoria",,0
+997,"Importados - Prod",,0
+998,Laticínios,,0
+999,"Limpeza e Conservação - Máq e Prod",,0
+1000,Lubrificantes,,0
+1001,"Massas Alimentícias",,0
+1002,"Medicina - Art",,0
+1003,"Mercados Municipais",,0
+1004,"Mineração - Equip e Prod",,0
+1005,Moinhos,,0
+1006,"Óticas - Art e Equip",,0
+1007,"Padarias e Confeitarias",,0
+1008,"Padarias e Confeitarias 24h (Internet)",,0
+1009,Pamonharias,,0
+1011,"Papelarias - Atac",,0
+1013,"Pet Shops",,0
+1014,"Petróleo - Equip e Prod para Extração e Pesquisa",,0
+1016,"Polimento - Prod",,0
+1017,Polpas,,0
+1019,"Produtos Alimentícios",,0
+1020,"Produtos Alimentícios - Equip e Prod para Fab",,0
+1024,"Produtos Esotéricos e Místicos",,0
+1025,"Produtos Farmacêuticos - Atac e Fab",,0
+1026,"Produtos Farmacêuticos - Distr",,0
+1027,"Produtos Farmacêuticos - Equip e Prod para Fab",,0
+1028,"Produtos Industriais - Representações",,0
+1029,"Produtos Magnéticos",,0
+1031,"Produtos Orgânicos",,0
+1032,"Produtos para Alérgicos",,0
+1034,"Produtos Perecíveis - Análise e Registro",,0
+1035,"Produtos Petroquímicos",,0
+1036,"Produtos Químicos - Atac e Fab",,0
+1037,"Produtos Químicos - Distr",,0
+1038,"Produtos Regionais",,0
+1039,"Produtos Veterinários",,0
+1040,Químicos,,0
+1041,Rações,,0
+1042,"Representantes de Produtos Extrativos",,0
+1043,Resinas,,0
+1044,Sal,,0
+1045,"Sex Shops",,0
+1046,Solventes,,0
+1047,Supermercados,,0
+1049,"Transporte de Produtos e Resíduos Químicos",,0
+1051,"Água - Análises",,0
+1052,"Água - Equip para Purificação",,0
+1055,"Água - Licença para Exploração",,0
+1056,"Água - Tratamento",,0
+1059,"Bebidas - Atac e Fab",,0
+1060,"Bebidas - Depósitos e Distribuidores",,0
+1061,"Bebidas - Importadores",,0
+1067,Filtros,,0
+1068,"Filtros de Água",,0
+1069,Hidrojateamento,,0
+1071,Impermeabilizantes,,0
+1073,"Materiais Hidráulicos",,0
+1074,"Pedras Preciosas e Semi-Preciosas",,0
+1075,Perfurações,,0
+1080,Bebedouros,,0
+1084,"Carvão e Derivados",,0
+1085,"Engenheiros de Minas",,0
+1087,"Suplementos Minerais",,0
+1091,"Controles e Sistemas de Controle",,0
+1092,"Equipamentos de Segurança Industrial",,0
+1095,"Intercomunicação - Sistemas",,0
+1096,"Monitoramento de Alarmes",,0
+1101,Sirenes,,0
+1102,"Televisão - Circuito Fechado",,0
+1103,Vigilância,,0
+1108,Anodização,,0
+1114,"Clínicas de Reabilitação",,0
+1117,"Clínicas Veterinárias",,0
+1118,Cromagem,,0
+1119,Cromo-Duro,,0
+1121,"Dentistas - Laserterapia",,0
+1122,"Dentistas - Odontogeriatria",,0
+1123,"Dentistas - Tratamento do Hálito",,0
+1125,"Design Gráfico",,0
+1127,"Engenharia Ambiental",,0
+1129,Esmaltação,,0
+1132,"Fornos Industriais",,0
+1134,"Galvanoplastia - Art e Equip",,0
+1136,Insonorização,,0
+1138,"Lixo e Resíduos Hospitalares - Coleta e Tratamento",,0
+1139,"Lixo e Resíduos Industriais - Coleta e Tratamento",,0
+1146,Musicoterapeutas,,0
+1150,Podólogos,,0
+1151,"Poluição - Equip e Projetos Contra",,0
+1156,Saneamento,,0
+1159,"Tratamento Térmico",,0
+1160,"Tratamentos de Superfície",,0
+1161,Veterinários,,0
+1163,Alumínio,,0
+1166,"Poços Artesianos - Construtores",,0
+1167,Mineração,,0
+1168,Geólogos,,0
+1169,"Aquários - Peixes Ornam. e Art para Criadores",,0
+1170,"Animais - Criação e Vendas",,0
+1171,Estacas,,0
+1172,"Fundações para Construções",,0
+1173,"Máquinas e Equipamentos - Aluguel e Arrendamento",,0
+1174,Andaimes,,0
+1175,"Hotéis para Animais",,0
+1176,Canis,,0
+1177,"Clínicas Veterinárias 24h",,0
+1178,Bombas,,0
+1179,"Tambores e Tonéis",,0
+1180,"Pontes Rolantes",,0
+1181,"Sacos de Algodão e Aniagem",,0
+1182,"Papel Velho;  Aparas e Resíduos",,0
+1183,"Compensados e Laminados",,0
+1184,"Troféus e Taças",,0
+1185,Policarbonato,,0
+1186,"Clínicas de Fisioterapia",,0
+1187,Mármore,,0
+1188,"Painéis Elétricos e Eletrônicos",,0
+1189,"Isolamento Térmico",,0
+1190,"Móveis Estofados - Limpeza e Impermeabilização",,0
+1191,"Extintores de Incêndio",,0
+1192,"Máquinas Pneumáticas",,0
+1193,"Esportes - Art e Equip - Lojas",,0
+1194,"Armas e Munições",,0
+1195,"Elevadores de Obras e Industriais",,0
+1196,"Compactação de Solo - Equip e Máq",,0
+1197,Jateamento,,0
+1198,"Escoramento - Empresas",,0
+1199,Tratores,,0
+1200,"Porteiros Eletrônicos",,0
+1201,Churrasqueiras,,0
+1202,"Ar Comprimido - Equip",,0
+1203,Escavadeiras,,0
+1204,Ferramentas,,0
+1205,Ferramentarias,,0
+1206,Chumbadores,,0
+1207,Incineradores,,0
+1208,Caçambas,,0
+1209,Telas,,0
+1210,"Isolamento Acústico",,0
+1211,"Entregas Rápidas",,0
+1212,"Transporte Aéreo",,0
+1213,"Entregas Urbanas",,0
+1214,"Moto Boys",,0
+1215,"Caixas d'Água",,0
+1216,"Utensílios e Utilidades Domésticas - Lojas",,0
+1217,Estofadores,,0
+1218,"Refrigeração - Art; Equip e Conserto",,0
+1219,"Pisos de Alta Resistência",,0
+1220,Postes,,0
+1221,"Máquinas e Equipamentos Industriais",,0
+1222,Tornos,,0
+1223,"Motores Elétricos - Conserto e Peças",,0
+1224,"Listas Telefônicas - Editoras",,0
+1225,Tijolos,,0
+1226,Livrarias,,0
+1227,"Materiais Didáticos e Pedagógicos",,0
+1228,"Câmaras Frigoríficas",,0
+1229,"Gelo - Máquinas para Fabricar",,0
+1230,"Motores Elétricos",,0
+1231,"Portões de Alumínio",,0
+1232,Escadas,,0
+1233,"Ortopedia - Ap",,0
+1234,"Ar-Condicionado - Art e Equip",,0
+1235,"Geladeiras - Conserto e Peças",,0
+1236,"Máquinas de Lavar - Conserto e Peças",,0
+1237,"Balcões Frigoríficos",,0
+1238,Carpetes,,0
+1239,Tapeçarias,,0
+1240,"Tacos e Parquetes",,0
+1241,Marcenarias,,0
+1242,"Aquecimento - Sistemas",,0
+1243,Caldeiras,,0
+1244,"Cercas e Mourões",,0
+1245,Alambrados,,0
+1246,"Vitrines e Materiais para Exposição",,0
+1247,"Aviamentos - Atac e Fab",,0
+1248,"Molduras e Gravuras",,0
+1249,"Vidro - Atac e Fab",,0
+1250,"Jogos e Art para Jogos",,0
+1251,"Carpetes - Limpeza",,0
+1252,Estopas,,0
+1253,"Telhados - Construtores",,0
+1254,"Móveis - Conserto; Reforma e Restauração",,0
+1255,Válvulas,,0
+1256,Dutos,,0
+1257,Exaustores,,0
+1258,Eletrodomésticos,,0
+1259,"Refrigeradores - Conserto e Peças",,0
+1260,"Máquinas de Lavar",,0
+1261,"Ar-Condicionado - Conserto; Limpeza e Conservação",,0
+1262,Geladeiras,,0
+1263,"Eletrodomésticos - Conserto e Peças",,0
+1264,"Fornos de Microondas",,0
+1265,"Tetos - Rebaixamento",,0
+1266,"Relógios de Ponto",,0
+1267,Catracas,,0
+1268,"Plásticos - Artef",,0
+1269,"Plásticos - Atac e Fab",,0
+1270,"Telhados - Acessórios e Materiais",,0
+1271,Argamassa,,0
+1272,"Tapetes e Passadeiras - Conserto e Limpeza",,0
+1273,"Iluminação - Art - Lojas",,0
+1274,"Equipamentos Elétricos e Eletrônicos",,0
+1275,"Lustres - Lojas",,0
+1276,"Componentes Elétricos e Eletrônicos",,0
+1277,"Cabos Telefônicos",,0
+1278,"Informática - Equip - Fab e Venda",,0
+1279,"Cabos Elétricos",,0
+1280,"Acústica - Mat e Projetos",,0
+1281,"Roupas Profissionais",,0
+1282,Estamparia,,0
+1283,"Gás - Fornecedores",,0
+1284,"Ventiladores - Atac e Fab",,0
+1285,"Ventilação - Art e Equip",,0
+1286,"Cabinas de Pintura",,0
+1287,"Ventiladores - Conserto e Vendas",,0
+1288,"Fogões Industriais",,0
+1289,"Pedras Britadas",,0
+1290,"Livros Usados",,0
+1291,Medalhas,,0
+1292,"Grama Sintética",,0
+1293,"Suplementos Alimentares",,0
+1294,"Caixas de Papelão",,0
+1295,Papelão,,0
+1296,"Energia Solar - Equip",,0
+1297,"Navegação - Equip; Peças e Acessórios",,0
+1298,"Mergulho - Art e Equip",,0
+1299,Antenas,,0
+1300,"Fibra Óptica",,0
+1301,"Informática - Consultoria",,0
+1302,"Móveis Estofados - Lojas",,0
+1303,Logística,,0
+1304,Janelas,,0
+1305,"Transformadores Elétricos - Conserto",,0
+1306,"Geradores Elétricos e Dínamos",,0
+1307,Sondagens,,0
+1308,"Máquinas Agrícolas",,0
+1309,"Agricultura e Pecuária - Equipamentos",,0
+1310,"Engenheiros Eletricistas",,0
+1311,"Grupos Geradores",,0
+1312,"Comércio Exterior - Assessoria",,0
+1313,"Topografia e Agrimensura",,0
+1314,"Engenheiros Civis",,0
+1315,"Engenharia - Consultoria",,0
+1316,"Máquinas para Terraplenagem",,0
+1317,Balanças,,0
+1318,"Televisão por Assinatura",,0
+1319,"Instrumentos de Medição e Precisão",,0
+1320,"Pinturas - Revestimentos e Texturas",,0
+1321,"Estudos do Solo",,0
+1322,"Portas de Segurança",,0
+1323,Venezianas,,0
+1324,"Contenção de Encostas",,0
+1326,Lixamento,,0
+1327,Capachos,,0
+1328,"Tapetes e Passadeiras - Atac e Fab",,0
+1329,"Engenheiros Agrimensores",,0
+1330,"Informática - Serviços",,0
+1331,"Telefonia - Art e Equip",,0
+1332,"Telefones - Compra; Venda e Aluguel",,0
+1333,"Telefonia - Operadoras - Fixa e Celulares",,0
+1334,Lâmpadas,,0
+1335,"Quadras Esportivas - Construções e Pisos",,0
+1336,"Confecções para Cama; Mesa e Banho",,0
+1337,"Gás - Instalações",,0
+1338,Motosserras,,0
+1339,"Impressoras Fiscais",,0
+1340,"Ortopedia - Ap - Fab",,0
+1341,Pedreiras,,0
+1342,"Freezers - Conserto e Peças",,0
+1343,"Climatizadores de ar",,0
+1344,"Informática - Reciclagem de Cartuchos",,0
+1345,"Máquinas para Copiar Documentos",,0
+1346,"Televisões - Emissoras e Retransmissoras",,0
+1347,"Internet - Acessos; Consultas e Navegação",,0
+1348,Granito,,0
+1349,Puxadores,,0
+1350,Canaletas,,0
+1351,"Instalações Comerciais",,0
+1352,Cabides,,0
+1353,"Máquinas para Copiar Documentos - Conserto",,0
+1354,"Varais de Roupa",,0
+1355,"Televisões - Conserto e Peças",,0
+1356,"Som - Ap - Conserto e Peças",,0
+1357,"Aterramento Elétrico",,0
+1358,"Informática - Estabilizadores e No-Break",,0
+1359,"Quadros de Comando",,0
+1360,"Máquinas de Escrever - Conserto e Peças",,0
+1361,"Fax - Conserto e Vendas",,0
+1362,"Calculadoras (Vendas e Conserto)",,0
+1363,"Bandeiras e Estandartes",,0
+1364,"Móveis - Acessórios",,0
+1365,"Engenharia - Perícia",,0
+1366,"Aparelhos Elétricos e Eletrônicos - Conserto e Peças",,0
+1367,"Motores Diesel",,0
+1368,"Plataformas Elevatórias",,0
+1369,"CDs; DVDs e Discos - Produção e Gravação",,0
+1370,Topa-Tudo,,0
+1371,"Manequins para Vitrinas",,0
+1372,Estantes,,0
+1373,Perícias,,0
+1374,Auditores,,0
+1375,"Consultores Econômico-Financeiros",,0
+1376,"Imposto de Renda - Peritos",,0
+1388,"Cursos de Matemática",,0
+1390,"Detetives Particulares",,0
+1394,"Hospitais Particulares 24h",,0
+1397,"Redação e Revisão",,0
+1399,"Tradutores Públicos",,0
+1400,Intérpretes,,0
+1407,"Caminhões - Acessórios e Equip",,0
+1409,"Caminhões - Conserto e Peças",,0
+1410,"Caminhões - Pinturas Personalizadas",,0
+1411,"Caminhões - Revendedores e Concessionárias",,0
+1418,Encerados,,0
+1420,Lonas,,0
+1421,"Monitoramento Via Satélite",,0
+1422,"Pistões e Anéis de Pistão",,0
+1423,"Transporte Frigorífico",,0
+1429,"Balanceamento Dinâmico e de Cardans",,0
+1435,"Guindastes - Conserto e Peças",,0
+1442,"Clínicas de Densitometria Óssea",,0
+1449,"Raios X - Consultórios",,0
+1451,"Ônibus - Revendedores e Peças",,0
+1460,"Cirurgia - Art; Equip e Instrumental",,0
+1466,"Clínicas de Diagnóstico por Imagem",,0
+1476,"Clínicas de Reprodução Humana",,0
+1485,"Laboratórios Veterinários",,0
+1519,"Clínicas Ortopédicas 24h",,0
+1525,"Consultores Hospitalares",,0
+1531,Fonoaudiólogos,,0
+1550,"Móveis para Hospitais e Laboratórios",,0
+1583,"Bares 24h",,0
+1586,Hamburguerias,,0
+1587,"Lanches - Fornecimento",,0
+1591,"Sucos - Lojas",,0
+1619,"Restaurantes - Entregas em Domicílio (Delivery)",,0
+1624,Psicopedagogos,,0
+1626,"Shopping Centers",,0
+1628,"Rastreamento por Satélite - Sistemas",,0
+1633,"Administradores de Empresas",,0
+1634,"Assessoria Aeronáutica",,0
+1636,"Assessoria Fiscal e Tributária",,0
+1639,"Consultores de Marketing",,0
+1641,"Consultores de Telecomunicações",,0
+1644,"Consultores em Energia Elétrica",,0
+1645,"Consultores em Gestão de Qualidade",,0
+1647,"Consultores em Segurança",,0
+1649,"Consultores Industriais",,0
+1653,"Meteorologia - Consultores",,0
+1654,"Pesquisas de Mercado",,0
+1656,"Relações Públicas - Consultoria e Agências",,0
+1657,"Academias Artísticas; Científicas e Literárias",,0
+1662,"Cursos de Culinária",,0
+1663,"Cursos de Esoterismo",,0
+1664,"Cursos de Feng Shui",,0
+1665,"Cursos de Fonoaudiologia",,0
+1666,"Cursos de Fotografia e Vídeo",,0
+1669,"Cursos de Leitura Dinâmica e Memorização",,0
+1672,"Cursos de Neurolingüística",,0
+1673,"Cursos de Pintura",,0
+1675,"Cursos Odontológicos",,0
+1676,"Cursos para Degustação de Bebidas",,0
+1677,"Cursos por Correspondência",,0
+1690,Giz,,0
+1699,"Treinamento e Desenvolvimento",,0
+1703,Empreendimentos,,0
+1707,Apart-Hotéis,,0
+1714,"Engenharia de Avaliações",,0
+1721,"Delegacias do Trabalho",,0
+1722,"Empregados Domésticos - Agências",,0
+1724,"Seleção de Pessoal",,0
+1750,"Laboratórios de Análises Físico-Químicas",,0
+1752,"Segurança Industrial",,0
+1755,"Máquinas Fotográficas - Conserto",,0
+1756,"Elevadores - Art; Equip e Manutenção",,0
+1757,Monta-Cargas,,0
+1769,"Turismo - Clubes",,0
+1772,Zoológicos,,0
+1773,Excursões,,0
+1774,"Agências de Notícias",,0
+1776,"Bancos de Imagens",,0
+1777,Cine-Foto,,0
+1779,"Filmes - Art e Equip",,0
+1780,"Fotografias - Ampliações; Cópias e Revelações",,0
+1781,"Fotografias - Art e Equip",,0
+1782,"Fotografias - Estúdios",,0
+1783,"Fotografias - Restaurações",,0
+1784,"Fotografias Aéreas",,0
+1796,"Peixes e Frutos do Mar - Atac e Distr",,0
+1797,"Pesca - Empresas",,0
+1799,Cemitérios,,0
+1800,"Cemitérios de Animais",,0
+1801,Crematórios,,0
+1802,"Funerais - Planos",,0
+1805,"Urnas Funerárias - Atac e Fab",,0
+1806,"Bebidas - Art e Equip para Fabricar",,0
+1808,"Combustão - Equip",,0
+1810,"Gases - Equip",,0
+1812,Manômetros,,0
+1821,Bicicletas,,0
+1825,"Ginástica - Ap",,0
+1826,"Ginástica Laboral Preventiva",,0
+1833,"Hotéis para Idosos",,0
+1841,"VOIP - Serviços de Telecomunicação",,0
+1842,"Albergues (Hostels)",,0
+1847,"Hotéis Fazenda",,0
+1850,Motéis,,0
+1851,Pensões,,0
+1853,Resorts,,0
+1857,"Turismo Rural",,0
+1880,"Advogados - Direito de Informática e Internet",,0
+1881,"Bancos 24h",,0
+1883,"Cyber Cafés",,0
+1885,"Escritórios Virtuais e para Aluguel",,0
+1887,"Informática - Livrarias e Publicações",,0
+1888,"Informática - Projetos e Instalações",,0
+1891,"Internet - Auditoria de Sites e Institutos de Pesquisa",,0
+1892,"Internet - Comércio Eletrônico",,0
+1893,"Internet - Construção de Sites",,0
+1894,"Internet - Hospedagem de Sites e Registro de Domínio",,0
+1895,"Internet - Infra-Estrutura; Redes e Conexões Dedicadas",,0
+1896,"Internet - Provedores de Acesso",,0
+1897,"Internet - Publicidade e Marketing On-Line",,0
+1898,"Internet - Segurança da Informação",,0
+1899,"Jogos em Rede",,0
+1902,"Cinemas - Art e Equip",,0
+1909,Óticas,,0
+1916,"CDs e DVDs - Recuperação",,0
+1919,"Couro - Artef - Conservação e Limpeza",,0
+1924,Dragagem,,0
+1925,Escovas,,0
+1933,"Lavadoras de Alta Pressão",,0
+1935,"Lavanderias - Art e Máq",,0
+1936,"Lavanderias 24h",,0
+1974,Vassouras,,0
+1977,"Banheiros - Artigos e Projetos",,0
+1983,Louças,,0
+1986,"Máquinas de Lavar Industriais",,0
+1991,"Utensílios e Utilidades Domésticas - Atac e Fab",,0
+1999,"Refeições - Entregas em Domicílio",,0
+2000,"Refeições Coletivas - Fornecedores",,0
+2006,"Carnes - Atac",,0
+2011,"Pães - Fornecedores",,0
+2035,Motocicletas,,0
+2036,"Motocicletas - Conserto e Peças",,0
+2037,Moto-Táxi,,0
+2038,Alfaiates,,0
+2042,"Automação Comercial - Assistência Técnica",,0
+2043,"Aviões - Manutenção e Peças",,0
+2045,"Bicicletas - Peças e Acessórios",,0
+2049,"Borracheiros - Art e Equip",,0
+2055,"Colchões - Reforma",,0
+2056,"Compressores - Conserto",,0
+2058,"DVD - Ap; Acessórios e Conserto",,0
+2063,"Equipamentos Elétricos - Conserto",,0
+2067,"Guinchos - Fab e Manutenção",,0
+2070,"Motores - Conserto",,0
+2072,Pianos,,0
+2073,"Rádio - Conserto e Peças",,0
+2074,"Relógios - Conserto",,0
+2104,Forjarias,,0
+2108,"Motores Diesel - Conserto e Peças",,0
+2110,Polias,,0
+2114,Teatros,,0
+2145,"Escovas de Carvão e Metálicas",,0
+2151,Juntas,,0
+2153,"Máquinas de Costura - Conserto e Peças",,0
+2159,"Mecânica Industrial",,0
+2161,Modeladores,,0
+2167,"Objetos de Arte e Antigüidades - Restauração",,0
+2172,"Plásticos - Peças Industriais e Injetadas",,0
+2181,"Resistências Elétricas",,0
+2186,"Tornearia de Precisão",,0
+2187,Torneiros,,0
+2189,"Usinagem de Peças",,0
+2191,"Artes - Artigos e Materiais",,0
+2193,Celulose,,0
+2198,"Embalagens para Presentes",,0
+2199,"Envelopes - Atacado e Fabricação",,0
+2200,"Formulários Contínuos",,0
+2203,"Gráficas - Art e Equip",,0
+2205,"Máquinas para Fragmentar Papel",,0
+2208,"Papel de Parede - Atac e Fab",,0
+2210,"Papel Especial",,0
+2211,"Papel para Embalagem",,0
+2219,"Sacos Plásticos e de Papel",,0
+2227,"Combustíveis - Distr",,0
+2229,"Lojas de Conveniência",,0
+2230,"Lojas de Conveniência 24h",,0
+2231,"Lubrificação - Sistemas e Máquinas",,0
+2234,"Petróleo e Derivados",,0
+2249,"Pesque - Pague",,0
+2252,"Previdência Privada",,0
+2263,"Incêndio - Equip Contra",,0
+2269,"Protetores Contra Descarga Elétrica",,0
+2270,"Raios X - Ap e Art",,0
+2272,"Raios X - Operação; Manutenção e Conserto",,0
+2273,"Raios X - Proteção Radiológica",,0
+2274,Ultra-Violeta,,0
+2281,"Navios - Reboque",,0
+2306,"Ladrilhos e Mosaicos",,0
+2308,"Mármore e Granito - Polimento",,0
+2309,Marmorite,,0
+2318,"Pisos Elevados",,0
+2319,"Pisos Industriais",,0
+2342,Carrinhos,,0
+2343,Engrenagens,,0
+2346,"Mangueiras Industriais",,0
+2351,"Plataformas para Deficientes",,0
+2355,"Rodas e Rodízios",,0
+2356,"Transportes para Deficientes Físicos",,0
+2361,"Consultoria Pessoal",,0
+2363,"Identificação - Sistemas",,0
+2367,"Vale -Transporte - Administração e Convênios",,0
+2369,Eletrodos,,0
+2371,"Fundições - Art e Equip",,0
+2378,"Aparelhos Elétricos e Eletrônicos",,0
+2388,"Estética - Ap",,0
+2390,"Fitas Magnéticas para Som e Vídeo",,0
+2400,"Som - Estúdios",,0
+2406,Sorveterias,,0
+2408,"Sorvetes - Atac e Fab",,0
+2413,Aeroportos,,0
+2421,"Camping - Clubes",,0
+2426,Diversões,,0
+2427,"Ecologia - Empresas",,0
+2428,Ecoturismo,,0
+2429,"Esportes Radicais",,0
+2431,Haras,,0
+2435,"Lanchas - Aluguel",,0
+2436,Museus,,0
+2443,Rodoviárias,,0
+2445,"Transporte Internacional",,0
+2453,Barcos,,0
+2455,Helicópteros,,0
+2461,"Transporte Fluvial e Marítimo",,0
+2469,"Engenheiros Navais",,0
+2470,Estaleiros,,0
+2472,"Manutenção Naval",,0
+2473,Marina,,0
+2474,"Motores Marítimos e de Popa",,0
+2477,"Navios - Corretores",,0
+2478,"Navios - Fornecedores",,0
+2479,Portos,,0
+2490,"Bilhar e Sinuca - Art e Equip",,0
+2494,"Cães de Guarda - Aluguel",,0
+2510,"Livros - Locadoras",,0
+2514,"Quadras Esportivas - Aluguel",,0
+2521,"Televisão - Ap - Aluguel",,0
+2527,"Videocassete e DVD - Aparelhos - Aluguel",,0
+2534,"Transporte Escolar",,0
+2542,Cabinas,,0
+2546,Garrafas,,0
+2547,"Molduras - Atac e Fab",,0
+2556,Vitrais,,0
+2594,"Açougues e Frigoríficos",,0
+2595,"Supermercados - Art e Equip",,0
+2608,"Brigadas de Incêndio",,0
+2615,"Máquinas de Costura Industriais",,0
+2627,"Restaurantes Industriais - Administração",,0
+2631,"Instrumentos Musicais - Lojas",,0
+2633,"Padarias e Confeitarias - Art e Equip",,0
+2640,"Telefones Celulares - Aparelhos e Acessórios (Lojas)",,0
+2641,"Telefones - Ap - Conserto e Vendas",,0
+2642,amidos,,0
+2643,"arroz - beneficiamento",,0
+2650,"erva-mate - atac; distr e beneficiamento",,0
+2662,"Transformadores Elétricos",,0
+2663,"Subestações Elétricas",,0
+2664,"Agricultura e Criação de Animais",,0
+2665,Agroindústria,,0
+2676,"Animais de Estimação",,0
+2680,"Cães - Adestramento",,0
+2691,"Artigos e Insumos",,0
+2698,Farelos,,0
+2701,Peles,,0
+2705,Selaria,,0
+2708,"Tronco Brete",,0
+2709,Criadores,,0
+2712,Aqüicultura,,0
+2713,"Aves e Ovos",,0
+2715,Granjas,,0
+2718,Piscicultura,,0
+2719,"Instalações Rurais",,0
+2724,Drenagem,,0
+2725,Estufas,,0
+2728,Silos,,0
+2731,"Máquinas e Equipamentos",,0
+2733,Cata-ventos,,0
+2736,"Máquinas para Beneficiar",,0
+2742,Trituradores,,0
+2743,"Produtores Agrícolas",,0
+2749,"Floriculturas - Fornecedores",,0
+2750,"Frutas; Legumes e Verduras",,0
+2751,"Fumo - Fab e Distr",,0
+2754,"Verduras e Legumes",,0
+2755,"Serviços e Profissionais",,0
+2756,"Agricultura e Pecuária - Assessoria e Pesquisa",,0
+2758,"Aves - Abatedouros",,0
+2759,"Aviação Agrícola",,0
+2760,"Beneficiamento Agrícola",,0
+2765,"Engenheiros Agrônomos",,0
+2768,Hidrossemeadura,,0
+2769,"Imagens de Satélite",,0
+2770,"Inseminação Artificial para Animais",,0
+2772,Matadouros,,0
+2774,"Reflorestamento - Empresas",,0
+2775,"Transporte de Animais",,0
+2778,Zootécnicos,,0
+2779,"Alimentos; Bebidas e Fumo",,0
+2780,Alimentação,,0
+2781,Compras,,0
+2788,Quitandas,,0
+2791,"Refeições e Lanches",,0
+2792,Açaí,,0
+2794,"Alimentos Congelados",,0
+2797,"Cafés Regionais",,0
+2799,Congelados,,0
+2802,"Espetinhos de Churrasco",,0
+2806,Pastelarias,,0
+2812,"Artigos e Equipamentos",,0
+2813,"Para a Indústria",,0
+2814,Autoclaves,,0
+2817,"Caixas Plásticas",,0
+2822,Essências,,0
+2823,Etiquetadoras,,0
+2830,"Refrigeradores - Atac e Fab",,0
+2832,"Sorvetes - Máq p Fabricar",,0
+2833,"Para o Comércio",,0
+2834,"Açougues e Frigoríficos - Art e Equip",,0
+2836,"Café - Máquinas para Fazer",,0
+2837,"Caixas Registradoras",,0
+2840,Cutelaria,,0
+2852,Bebidas,,0
+2857,Cachaças,,0
+2862,Festas,,0
+2868,Fumo,,0
+2869,Charutos,,0
+2870,"Cigarros - Fab e Distr",,0
+2871,Fósforos,,0
+2872,Tabacarias,,0
+2874,"Açúcar; Condimentos e Temperos",,0
+2882,"Alimentos Congelados e Sorvetes",,0
+2883,"Carnes e Pescados",,0
+2889,"Cereais e Grãos",,0
+2892,"Doces; Biscoitos e Chocolates",,0
+2897,"Doces - Atac e Fab",,0
+2898,"Ervas; Chás e Sementes",,0
+2900,"Farinha; Massas e Similares",,0
+2907,"Frios e Laticínios",,0
+2908,"Frios e Queijos",,0
+2916,"Produtos Diet; Light e Naturais",,0
+2921,"Armazéns Gerais",,0
+2923,"Seguros de Cargas",,0
+2926,"Para Empresas",,0
+2928,"Refeições - Adm. de Cartões e Convênios",,0
+2931,"Arte e Cultura",,0
+2932,"Artes Plásticas e Escultura",,0
+2934,"Artistas Plásticos",,0
+2937,Escultores,,0
+2938,"Galerias de Arte",,0
+2939,Leiloeiros,,0
+2944,"Pinturas - Art e Equip",,0
+2945,"Tintas para Tecidos",,0
+2946,"Artes Visuais e Gráficas",,0
+2950,Desenhistas,,0
+2954,"Cinema; Vídeo e TV",,0
+2958,"CDs; DVDs e Discos(Lojas)",,0
+2960,Cinemas,,0
+2962,Dublagens,,0
+2965,"Filmes - Estúdios e Produtoras",,0
+2966,"Filmes e Vídeos - Distribuidores",,0
+2968,"Ingressos - Vendas em Domicílio",,0
+2973,"Videoclubes e Locadoras",,0
+2975,Videotape,,0
+2976,"Dança e Teatro",,0
+2980,"Dança - Art",,0
+2987,Fotografia,,0
+2998,"Bancas para Jornais e Revistas",,0
+2999,"Bancas para Jornais e Revistas - Fab",,0
+3000,Bibliotecas,,0
+3001,"Direitos Autorais - Sociedades",,0
+3002,"Jornais - Assinaturas",,0
+3003,"Jornais - Distribuidores",,0
+3004,"Jornais - Editores e Representantes",,0
+3006,"Livros - Distribuidores",,0
+3009,"Revistas - Assinaturas",,0
+3010,Música,,0
+3021,"Instrumentos Musicais - Atac e Fab",,0
+3022,"Instrumentos Musicais - Conserto",,0
+3024,"Música - Editores",,0
+3027,"Rádio - Emissoras e Retransmissoras",,0
+3030,"Programação Cultural",,0
+3042,"Beleza; Bem-estar e Espiritualidade",,0
+3043,Beleza,,0
+3054,"Modeladores Cirúrgicos e Estéticos",,0
+3066,"Maquiagem Definitiva",,0
+3070,"Tatuagens e Body Piercing",,0
+3071,Tratamentos,,0
+3077,"Boa Forma",,0
+3080,"Personal Trainers",,0
+3084,"Espiritualidade e Esoterismo",,0
+3085,"Serviços Religiosos",,0
+3094,"Saúde e Bem-estar",,0
+3099,"Terapias Alternativas",,0
+3100,Yoga,,0
+3101,"Serviços para Portadores de Necessidades Especiais",,0
+3107,"Carros e Outros Veículos",,0
+3108,Acessórios,,0
+3113,Capas,,0
+3119,"GPS - Aparelhos",,0
+3122,Caminhões,,0
+3130,"Compra; Venda e Aluguel",,0
+3143,Quadriciclos,,0
+3145,Triciclos,,0
+3153,"Pneus - Máq e Equip para Conserto",,0
+3155,Taxímetros,,0
+3159,Ônibus,,0
+3162,"Ônibus Urbanos",,0
+3163,"Outros Veículos",,0
+3164,"Carroças e Charretes",,0
+3171,"Para o Motor",,0
+3179,"Motores a Gás",,0
+3186,Peças,,0
+3190,"Automóveis - Câmbio Automático",,0
+3201,"Automóveis - Velocímetros",,0
+3217,"Pneus - Reciclagem",,0
+3220,Tacógrafos,,0
+3229,Adaptação,,0
+3232,Combustíveis,,0
+3235,Emergências,,0
+3244,Estacionamentos,,0
+3245,"Estacionamentos e Garagens - Adm",,0
+3246,"Habilitação e Documentação",,0
+3250,"Multas de Trânsito - Assessoria",,0
+3253,Limpeza,,0
+3257,"Mecânica e Manutenção",,0
+3275,"Casa e Jardim",,0
+3291,Casa,,0
+3292,"Artigos de Decoração",,0
+3295,"Artesanatos - Artigos Reciclados",,0
+3297,"Cestas - Atac e Fab",,0
+3302,"Estofamento - Art",,0
+3312,"Velas de Cera ou Parafina",,0
+3313,"Banheiro e Cozinha",,0
+3325,"Secadores de Roupa (Varal)",,0
+3327,"Eletrodomésticos e Eletroportáteis",,0
+3328,"Áudio e Vídeo",,0
+3332,Home-Theater,,0
+3336,"Videocassete e DVD - Ap; Acessórios e Conserto",,0
+3340,Consertos,,0
+3359,Eletroportáteis,,0
+3364,"Desumidificadores e Umidificadores",,0
+3366,"Máquinas de Costura",,0
+3371,"Linha Branca",,0
+3373,"Fogões - Vendas e Instalações",,0
+3375,Freezers,,0
+3378,Iluminação,,0
+3379,Abajures,,0
+3381,"Iluminação - Projetos",,0
+3382,Luminárias,,0
+3384,"Janelas; Paredes e Piso",,0
+3397,"Pinturas Especiais",,0
+3398,"Sisal e Produtos de Sisal",,0
+3405,"Jardins e Área de Lazer",,0
+3407,Aramados,,0
+3425,Móveis,,0
+3438,"Móveis - Montagem e Desmontagem",,0
+3444,"Móveis Rústicos",,0
+3447,Prateleiras,,0
+3450,"Produtos para o Lar",,0
+3458,"Fechaduras - Atac e Fab",,0
+3463,"Garrafas Térmicas",,0
+3465,"Lençóis Térmicos",,0
+3466,Lenha,,0
+3468,Malas,,0
+3470,Mosquiteiros,,0
+3471,Prataria,,0
+3473,Redes,,0
+3483,Cancelas,,0
+3484,"Fechaduras Eletroeletrônicas",,0
+3486,"Iluminação de Emergência",,0
+3497,Profissionais,,0
+3500,"Proteção Contra Incêndio",,0
+3513,"Malas - Conserto",,0
+3518,Decoração,,0
+3526,Sancas,,0
+3527,"Instalações e Manutenção",,0
+3535,"Dedetização e Desratização - Art e Equip",,0
+3561,Tinturarias,,0
+3562,"Crianças e Bebês",,0
+3564,"Brinquedos - Atac e Fab",,0
+3566,"Brinquedos Educativos",,0
+3567,Brinquedoteca,,0
+3569,Fraldas,,0
+3570,Imóveis,,0
+3586,"Acabamento e Revestimento",,0
+3598,Fixadores,,0
+3613,"Pinturas Eletrostáticas e Industriais",,0
+3624,"Aquecimento; Ar-condicionado e Ventilação",,0
+3635,"Tampões e Grelhas",,0
+3636,"Banheiros e Cozinhas",,0
+3641,"Metais Sanitários",,0
+3642,"Escadas e Elevadores",,0
+3648,"Fundações e Estrutura",,0
+3649,"Cálculos Estruturais",,0
+3650,"Concreto - Controle Tecnológico",,0
+3651,"Espaçadores de Concreto",,0
+3653,"Estruturas - Recuperação",,0
+3660,Refratários,,0
+3663,"Instalações Elétricas e de Telefone",,0
+3672,"Isolamento Elétrico",,0
+3678,"Instalações Hidráulicas; Água e Esgoto",,0
+3681,"Bloqueadores de Ar para Hidrômetros",,0
+3696,"Testes Hidrostáticos",,0
+3698,Interiores,,0
+3704,"Jardins & Área de Lazer",,0
+3708,"Campos Esportivos - Projetos e Manutenção",,0
+3715,Sauna,,0
+3716,"Sauna - Art e Equip",,0
+3722,"Canteiros para Obras",,0
+3728,"Engenharia - Art e Equip",,0
+3732,"Fôrmas para Concreto",,0
+3738,"Guindastes - Fab",,0
+3739,"Jateamento - Equip",,0
+3741,"Máquinas para Fabricar Telhas",,0
+3743,"Máquinas Rodoviárias",,0
+3744,"Marmoristas - Equip",,0
+3746,"Poços - Equipamentos",,0
+3747,Rosqueadeiras,,0
+3749,"Topografia e Agrimensura - Art e Equip",,0
+3757,Balaústres,,0
+3759,Cal,,0
+3760,Calcário,,0
+3771,"Fibras Metálicas",,0
+3775,Lixas,,0
+3787,Serrarias,,0
+3792,"Pavimentação e Urbanização",,0
+3797,"Sinais de Tráfego",,0
+3799,"Urbanização - Empresas",,0
+3802,Cartografia,,0
+3814,Maquetes,,0
+3817,"Portas; Janelas e Telhado",,0
+3822,Domos,,0
+3831,"Portas Giratórias",,0
+3832,"Portas Sanfonadas",,0
+3846,"Preparação do Terreno",,0
+3849,Detonações,,0
+3854,Explosivos,,0
+3857,Geotêxtil,,0
+3860,"Rebaixamento do Lençol d'Água",,0
+3862,Termografia,,0
+3879,"Detectores de Metais",,0
+3888,"Mangueiras de Incêndio",,0
+3896,Roletas,,0
+3927,"Restauração de Exteriores",,0
+3929,"Construções Industriais",,0
+3930,"Automação Industrial",,0
+3932,"Engenheiros Industriais",,0
+3936,"Projetos Industriais",,0
+3937,"Ecologia e Meio Ambiente",,0
+3938,"Advogados - Causas Ambientais",,0
+3940,Biólogos,,0
+3945,"Engenheiros Florestais",,0
+3952,"Plásticos - Resíduos e Refugos",,0
+3958,"Economia; Finanças e Serviços Legais",,0
+3959,"Economia e Finanças",,0
+3960,"Bens e Investimentos",,0
+3962,Capitalização,,0
+3966,Franchising,,0
+3968,Investimentos,,0
+3971,Salvados,,0
+3972,"Comércio Exterior",,0
+3975,"Compras - Agentes",,0
+3976,"Despachantes Aduaneiros",,0
+3979,Crédito,,0
+3980,"Cartões de Crédito",,0
+3982,"Crédito - Sistemas de Vendas",,0
+3984,"Factoring - Fomento Mercantil",,0
+3985,Financeiras,,0
+3986,"Garantias de Crédito",,0
+3987,"Instituições Financeiras",,0
+3988,Bancos,,0
+3989,"Bancos - Caixas Eletrônicos",,0
+3991,"Bolsa de Valores",,0
+3994,"Corretoras de Câmbio e Valores Mobiliários",,0
+3995,"Distribuidoras de Títulos e Valores",,0
+3997,"Receita Federal",,0
+4000,Atuários,,0
+4006,Economistas,,0
+4008,"Seguradoras - Assistência 24h",,0
+4011,"Seguros - Reguladores",,0
+4012,"Seguros - Vistoriadores",,0
+4014,"Seguros para Viagem",,0
+4016,"Serviços Legais",,0
+4017,Instituições,,0
+4018,"Defesa do Consumidor",,0
+4020,"Delegacias e Distritos Policiais",,0
+4021,"Fóruns e Tribunais",,0
+4022,"Polícia Militar - Batalhões",,0
+4025,Advogados,,0
+4027,"Advogados - Causas Bancárias",,0
+4028,"Advogados - Causas Cíveis",,0
+4029,"Advogados - Causas Comerciais",,0
+4030,"Advogados - Causas Criminais",,0
+4031,"Advogados - Causas Fiscais e Tributárias",,0
+4032,"Advogados - Causas Internacionais",,0
+4033,"Advogados - Causas Previdenciárias",,0
+4034,"Advogados - Causas Trabalhistas",,0
+4035,"Advogados - Direito de Família",,0
+4039,"Marcas e Patentes",,0
+4040,Mediadores,,0
+4041,"Educação e Empregos",,0
+4042,"Artigos Escolares",,0
+4045,"Canetas e Lapiseiras",,0
+4053,"Mapas e Globos",,0
+4059,Quadros-Negros,,0
+4060,Retroprojetores,,0
+4062,"Cursos e Escolas",,0
+4063,"Artes; Cultura e Outros",,0
+4084,"Educação Infantil",,0
+4086,"Centros Lúdicos",,0
+4088,"Ensino Fundamental e Médio",,0
+4097,Esportes,,0
+4101,"Graduação e Extensão",,0
+4106,Idiomas,,0
+4110,"Técnicos e Profissionalizantes",,0
+4121,Empregos,,0
+4132,"Consultoria Educacional",,0
+4134,"Pedagogia e Orientação Vocacional",,0
+4135,Pensionatos,,0
+4141,Eletro-eletrônica,,0
+4144,"Circuitos Impressos",,0
+4146,"Conectores Elétricos",,0
+4149,Eletroímãs,,0
+4150,"Eletrônica Industrial",,0
+4156,"Reguladores de Voltagem",,0
+4157,"Teclados de Membrana",,0
+4159,"Equipamentos de Medidas e Testes",,0
+4160,"Analisadores Eletrônicos de Motores",,0
+4162,"Instrumentos Elétricos e Eletrônicos",,0
+4163,Medidores,,0
+4166,"Geração; Transmissão e Distribuição de Energia",,0
+4168,"Condutores Elétricos",,0
+4178,"Redutores de Velocidade",,0
+4182,"Usinas Elétricas - Máq e Equip",,0
+4183,"Variadores de Velocidade",,0
+4187,"Energia - Empresas",,0
+4188,"Energia Nuclear - Empresas",,0
+4189,"Usinas Elétricas",,0
+4190,"Material Elétrico de Instalação",,0
+4198,"Iluminação - Art - Atac e Fab",,0
+4208,"Terminais Elétricos",,0
+4209,"Motores e Geradores",,0
+4221,"Engenheiros Eletrônicos",,0
+4222,"Utilidades Domésticas",,0
+4257,"Pilhas; Lanternas e Lâmpadas",,0
+4260,Pilhas,,0
+4261,"Esporte e Lazer",,0
+4274,"Esportes - Art e Equip - Atac e Fab",,0
+4276,"Jet Ski",,0
+4282,"Surf - Art e Equip",,0
+4284,"Atividades Esportivas",,0
+4286,"Artes Marciais",,0
+4289,Balonismo,,0
+4290,Boliche,,0
+4294,"Salões de Bilhar e Sinuca",,0
+4303,Salva-Vidas,,0
+4304,Lazer,,0
+4327,"Parques - Equip",,0
+4331,Ultra-Leves,,0
+4332,Diversão,,0
+4336,"Diversões Eletrônicas",,0
+4342,"Videogames - Distribuidores de Fitas",,0
+4345,"Diversão Adulta",,0
+4346,"Bingos - Promoções",,0
+4348,"Corridas de Cavalos - Agências",,0
+4353,Termas,,0
+4354,"Hobbies e Coleções",,0
+4355,Aeromodelismo,,0
+4356,"Cartões Telefônicos",,0
+4357,Filatelia,,0
+4358,"Mágicos - Art",,0
+4359,Modelismo,,0
+4360,Numismática,,0
+4361,"Radioamadores - Equip",,0
+4362,Noite,,0
+4370,Passeios,,0
+4393,"Festas e Eventos",,0
+4412,Videoconferência,,0
+4415,"Balas Personalizadas",,0
+4422,Casamento,,0
+4423,"A Lua-de-mel",,0
+4431,"O Casamento",,0
+4444,"Os Noivos",,0
+4452,"Comida e Bebida",,0
+4468,"Convites e Divulgação",,0
+4469,"Assessoria de Imprensa",,0
+4478,"Mala Direta - Empresas",,0
+4498,"Filmagens e Fotos",,0
+4506,Hospedagem,,0
+4509,Locais,,0
+4523,Mensagens,,0
+4526,Montagem,,0
+4530,Barracas,,0
+4542,Organização,,0
+4555,Manobristas,,0
+4560,Roupas,,0
+4576,"Cartões Magnéticos - Fab",,0
+4583,"Som e Iluminação",,0
+4592,Transporte,,0
+4600,"Governo; Serviços Públicos e Sociais",,0
+4601,"Administração Pública",,0
+4602,"Administrações Regionais",,0
+4603,"Câmaras Municipais",,0
+4605,"Órgãos Públicos",,0
+4606,"Partidos Políticos",,0
+4607,"Planejamento Municipal",,0
+4608,"Prefeituras Municipais",,0
+4609,"Secretarias Públicas",,0
+4610,"Agricultura e Abastecimento",,0
+4613,Alistamento,,0
+4614,"Artigos Militares",,0
+4616,"Assistência Social",,0
+4623,Cidadania,,0
+4627,"Cultura e Esporte",,0
+4636,"Energia e Meio Ambiente",,0
+4646,Justiça,,0
+4652,"Saúde e Educação",,0
+4661,Metrô,,0
+4664,"Rodovias - Administração",,0
+4666,"Transporte Ferroviário",,0
+4668,"Utilidade Pública",,0
+4671,"Corpo de Bombeiros",,0
+4672,"Correios e Telégrafos",,0
+4674,"Gráfica; Papel e Embalagem",,0
+4675,Embalagem,,0
+4677,"Barbantes e Fitilhos",,0
+4678,Cadarços,,0
+4679,Cordas,,0
+4682,Datadores,,0
+4683,Elásticos,,0
+4689,"Etiquetas - Máq para Fabricar",,0
+4691,Grampeadores,,0
+4692,Grampos,,0
+4693,Lacres,,0
+4695,"Máquinas de Ensacar e Empacotar",,0
+4697,"Plastificação - Máq",,0
+4699,"Selos de Segurança",,0
+4701,"Vacuum Forming",,0
+4702,Produtos,,0
+4708,Estojos,,0
+4712,"Sacos de Tecido",,0
+4715,Tubetes,,0
+4716,Vasilhames,,0
+4717,Gráfica,,0
+4720,"Encadernadores - Art e Equip",,0
+4726,Guilhotinas,,0
+4728,Prensas,,0
+4731,Agendas,,0
+4735,Editores,,0
+4740,Panfletos,,0
+4742,"Revistas - Editores e Distribuidores",,0
+4745,Clichês,,0
+4749,Fotocomposição,,0
+4750,Fotolitos,,0
+4754,Plastificação,,0
+4770,"Informática; Internet e Telecomunicações",,0
+4771,"Informática e Internet",,0
+4772,"Acesso a Internet",,0
+4777,"Cabeamento Estruturado - Óptico e Metálico",,0
+4779,"Informática - CD-ROM",,0
+4787,"Informática - Periféricos",,0
+4791,"Computação Gráfica",,0
+4792,"Informática - Computação  Gráfica",,0
+4793,Dados,,0
+4794,"Informática - Armazenamento e Recuperação de Dados",,0
+4795,"Informática - Digitação de Dados",,0
+4796,"Informática - Digitalização de Documentos",,0
+4798,Infra-estrutura,,0
+4800,"Cabos Coaxiais",,0
+4806,"Publicidade e Marketing",,0
+4813,"Informática - Auditoria",,0
+4817,"Informática - Editoração Eletrônica",,0
+4828,Software,,0
+4831,Treinamento,,0
+4845,"Telecomunicações - Art e Equip",,0
+4852,"Engenheiros de Telecomunicações",,0
+4861,"Máquinas; Instrumentos; Ferramentas e Motores",,0
+4863,"Facas Industriais",,0
+4866,"Ferramentas de Corte",,0
+4868,"Ferramentas Pneumáticas",,0
+4869,Instrumentos,,0
+4870,"Instrumentos Científicos",,0
+4874,Agrícolas,,0
+4885,Automotivos,,0
+4889,"Estacionamentos e Garagens - Equip",,0
+4896,Turboalimentadores,,0
+4922,"Eletricidade e Eletrônica",,0
+4943,Escritório,,0
+4946,"Cheques - Máq para Preencher e Visar",,0
+4948,Duplicadores,,0
+4954,"Máquinas de Contar; Separar e Empacotar Moedas",,0
+4955,"Máquinas de Escrever",,0
+4956,"Máquinas de Franquear",,0
+4959,"Máquinas para Protocolar",,0
+4962,"Gases e Combustão",,0
+4969,"Hidráulicos; Pneumáticos e Automação Industrial",,0
+4979,"Grampeadores e Pregadores Pneumáticos",,0
+4982,"Pistolas para Pinturas",,0
+4984,"Indústria Alimentícia e de Bebidas",,0
+4992,"Trocadores de Calor",,0
+4993,"Indústria de Papel e Embalagem",,0
+5006,"Indústria Madeireira e de Móveis",,0
+5013,"Indústria Mecânica",,0
+5021,"Máquinas Especiais",,0
+5022,"Máquinas Operatrizes",,0
+5023,"Máquinas Usadas",,0
+5030,"Indústria Plástica",,0
+5031,"Plásticos - Máq para Fabricar",,0
+5033,"Indústria Química e Farmacêutica",,0
+5039,"Esterilização - Aparelhos",,0
+5043,"Laboratórios - Ap; Art e Equip",,0
+5047,Tanques,,0
+5048,"Indústria Têxtil e de Vestuário",,0
+5057,"Máquinas para Bordar",,0
+5058,"Máquinas Têxteis",,0
+5059,"Limpeza; Desinfecção e Eliminação de Resíduos",,0
+5061,"Desentupimento - Máq",,0
+5065,"Lixo e Resíduos Industriais - Compactadores",,0
+5069,Magnéticos,,0
+5071,Ímãs,,0
+5072,"Medidas e Testes",,0
+5078,"Meteorologia - Equipamentos",,0
+5081,Termômetros,,0
+5082,Termostatos,,0
+5083,"Metal-mecânica e Mineração",,0
+5094,"Movimentação de Cargas",,0
+5097,"Equipamentos Vibratórios",,0
+5099,Talhas,,0
+5100,"Transportadores Industriais",,0
+5103,"Equipamentos de Proteção Individual",,0
+5116,"Transmissão e Distribuição de Energia",,0
+5117,Acoplamentos,,0
+5120,"Correntes - Atac e Fab",,0
+5127,"Vedação e Isolação",,0
+5129,Gaxetas,,0
+5132,"Selos Mecânicos",,0
+5133,Motores,,0
+5152,"Freios Industriais",,0
+5157,"Afiação Industrial",,0
+5160,"Engenheiros Mecânicos",,0
+5161,"Ensaio de Materiais",,0
+5163,"Inspeção e Controle de Qualidade",,0
+5169,"Radiografias para Indústrias",,0
+5173,"Medicina e Saúde",,0
+5175,"Aparelhos Auditivos",,0
+5203,"Próteses Mamárias",,0
+5204,"Protéticos e Próteses - Art e Equip",,0
+5212,"Dentistas - Disfunção Têmporo-Mandibular e Dor Oro-Facial",,0
+5228,Exames,,0
+5231,"Laboratórios de Anatomia Patológica e Citopatologia",,0
+5235,"Hospitais e Clínicas",,0
+5271,Médicos,,0
+5273,"Emergência Médica Domiciliar",,0
+5275,"Medicina do Adolescente - Hebeatria",,0
+5278,"Medicina do Tráfego",,0
+5291,"Médicos - Cirurgia Cardiovascular",,0
+5293,"Médicos - Cirurgia de Mão",,0
+5296,"Médicos - Cirurgia Torácica",,0
+5297,"Médicos - Cirurgia Vascular",,0
+5299,"Médicos - Citopatologia",,0
+5334,"Profissionais de Saúde",,0
+5347,"Terapeutas Ocupacionais",,0
+5349,Serviços,,0
+5353,"Bancos de Leite Materno",,0
+5354,"Bancos de Olhos",,0
+5355,"Bancos de Sangue",,0
+5368,Protéticos,,0
+5372,"UTI Aérea",,0
+5373,"UTI Móvel",,0
+5376,Metal-mecânica,,0
+5377,"Conformação e Industrialização",,0
+5378,Abrasivos,,0
+5382,"Estamparia em Metal",,0
+5386,Matrizarias,,0
+5405,"Torres de Resfriamento",,0
+5423,"Carrinhos para Ambulantes",,0
+5432,Esferas,,0
+5434,"Ferrovias - Equip",,0
+5439,"Juntas de Expansão",,0
+5454,"Engenheiros Metalúrgicos",,0
+5456,"Gravação Pantográfica",,0
+5457,Gravadores,,0
+5458,Protótipos,,0
+5461,Soldagem,,0
+5466,"Tratamentos Térmicos e de Superfície",,0
+5474,Ignifugação,,0
+5487,"Metais Preciosos",,0
+5493,Geofísica,,0
+5495,Lapidação,,0
+5501,"Transporte de Minérios",,0
+5502,"Moda e Indústria Têxtil",,0
+5503,Confecção,,0
+5512,"Fivelas - Atac e Fab",,0
+5514,"Tear Manual",,0
+5515,Zíperes,,0
+5534,Bordados,,0
+5545,"Couro e Calçados",,0
+5560,"Couro - Artef",,0
+5561,"Couro - Artef - Atac e Fab",,0
+5565,Sapateiros,,0
+5566,"Fiação e Tecelagem",,0
+5575,"Transfer e Prensas Térmicas",,0
+5579,"Cintas para Amarração e Elevação",,0
+5586,"Fios Têxteis",,0
+5589,"Malotes - Atac e Fab",,0
+5594,"Tecidos - Atac e Fab",,0
+5596,"Tecidos - Resíduos e Refugos",,0
+5598,Moda,,0
+5600,Bijuterias,,0
+5601,"Bijuterias - Atac e Fab",,0
+5610,Guarda-Chuvas,,0
+5612,"Jóias - Art para Fabricar",,0
+5619,"Relógios - Atac e Fab",,0
+5621,Relojoarias,,0
+5622,Sapatarias,,0
+5623,Lojas,,0
+5626,Brechós,,0
+5629,Magazines,,0
+5636,"Roupas para Gestantes - Lojas",,0
+5647,"Roupas - Reforma",,0
+5649,"Plásticos e Borrachas",,0
+5650,Borracha,,0
+5651,Matérias-primas,,0
+5654,Silicone,,0
+5673,Plásticos,,0
+5681,"Plásticos - Matérias-Primas",,0
+5696,"Espumas de Plástico; Nylon e Látex",,0
+5706,"Plásticos e Derivados - Representações",,0
+5707,"Plásticos Laminados",,0
+5714,"Plásticos - Recuperação e Tingimento",,0
+5716,"Produtos e Serviços para Empresas",,0
+5718,"Artigos de Limpeza",,0
+5781,"Móveis e Complementos",,0
+5797,"Quadros de Avisos",,0
+5814,Instalações,,0
+5834,"Móveis e Decoração",,0
+5848,"Projetos e Instalações",,0
+5868,"Recursos Humanos",,0
+5894,"Consertos e Manutenção",,0
+5915,"Crédito e Informações Comerciais",,0
+5917,"Cheques - Serviços de Consulta",,0
+5923,"Informações Comerciais",,0
+5936,"Organização de Documentos",,0
+5940,"Exames de Documentos - Peritos",,0
+5942,Microfilmagem,,0
+5948,"Serviços Gráficos e de Identificação",,0
+5959,"Transporte e Armazenagem",,0
+5964,Guarda-Documentos,,0
+5966,Guarda-Volumes,,0
+5968,"Malotes - Entrega",,0
+5973,Viagens,,0
+5984,Táxi-Aéreo,,0
+5988,"Profissionais; Associações e Cooperativas",,0
+6003,Artesãos,,0
+6006,"Associações; Conselhos e Cooperativas",,0
+6018,"Pesquisas Tecnológicas",,0
+6020,"Beleza e Bem-estar",,0
+6029,Ciências,,0
+6030,Arqueólogos,,0
+6031,Astronomia,,0
+6033,Bioquímicos,,0
+6036,"Comunicação e Marketing",,0
+6051,Consultores,,0
+6067,"Genealogia - Consultoria",,0
+6069,Educação,,0
+6075,Engenheiros,,0
+6080,"Engenheiros Aeronáuticos",,0
+6085,"Engenheiros de Petróleo",,0
+6094,"Engenheiros Químicos",,0
+6098,Mergulhadores,,0
+6101,Eventos,,0
+6108,"Finanças e Serviços Legais",,0
+6208,"Preparação de Documentos",,0
+6212,Taquígrafos,,0
+6216,"Identidade de Marca e Sinalização",,0
+6234,"Marketing e Vendas",,0
+6239,"Marketing de Incentivos",,0
+6240,"Marketing Direto",,0
+6242,"Pesquisas de Mídia",,0
+6245,"Telemarketing - Empresas",,0
+6247,"Material Promocional",,0
+6262,Mídia,,0
+6263,"Aviões - Propaganda",,0
+6268,"Mídia Exterior",,0
+6272,"Propaganda Aérea",,0
+6277,"Notícias e Comunicação Com o Mercado",,0
+6281,"Recortes de Jornais - Clipping",,0
+6284,"Publicidade e Propaganda - Produção",,0
+6302,"Química; Farmacêutica e Indústria do Petróleo",,0
+6303,Farmacêutica,,0
+6307,"Indústria do Petróleo",,0
+6313,Óleos,,0
+6320,Refinarias,,0
+6321,Química,,0
+6342,"Perfumes - Art e Mat-Primas",,0
+6343,"Perfumes - Atac e Fab",,0
+6364,"Transporte; Armazenagem e Logística",,0
+6365,"Armazenagem e Logística",,0
+6366,"Amarração e Movimentação",,0
+6370,"Cargas - Movimentação e Amarração",,0
+6396,Armazenagem,,0
+6407,"Automação e Serviços",,0
+6423,Aviões,,0
+6430,"Transporte de Cargas",,0
+6467,"Navios - Inspeção",,0
+6487,"Viagens e Turismo",,0
+6497,"Como Chegar",,0
+6513,"O Que Fazer",,0
+6514,"Atrações Culturais",,0
+6521,Carnaval,,0
+6552,"Onde Comer",,0
+6627,"Onde Ficar",,0
+18053,"Cartomante; Quiromante; Búzios e Tarô",,0
+18055,"Pizzarias 24h",,0
+154,"Cadastro - Serviços",-,1
+25,"Administração de Bens e Imóveis",ser,3
+26,Avaliadores,ser,3
+29,"Automóveis - Adaptação para Deficientes Físicos",vei,3
+42,"Companhias Aéreas",tra,3
+43,"Navegação Marítima",tra,3
+48,"Água - Fornecedores",ser,3
+49,"Carros - Pipa",ser,3
+50,"Água - Fornecedores 24h",ser,3
+51,"Água e Esgotos",ser,3
+52,"Limpeza Industrial",ser,3
+57,"Banheiros Químicos",ser,3
+59,"Fossas Sépticas",ser,3
+61,"Entulho - Coleta",ser,3
+68,"Bares e Choperias",bar,3
+81,"Animais - Institutos de Beleza",ani,3
+83,"Ar-Condicionado para Veículos",vei,3
+88,"Armarinhos - Artigos",cas,3
+93,Armarinhos,cas,3
+95,"Roupas de Cama; Mesa e Banho - Lojas",loj,3
+96,"Tecidos - Lojas",loj,3
+100,"Bombas - Conserto",ser,3
+103,"Automóveis - Dispositivos Anti-roubo",vei,3
+104,"Automóveis - Freios",vei,3
+107,Cofres,loj,3
+131,Bartenders,ser,3
+146,Brindes,loj,3
+151,"Imóveis - Reforma",cas,3
+160,"Datilografia - Serviços",ser,3
+163,"Papel de Parede - Lojas",cas,3
+168,Presentes,loj,3
+186,"Engenharia - Empresas",cas,3
+216,Impermeabilizações,cas,3
+220,"Engenheiros Sanitaristas",ser,3
+246,Tradutores,ser,3
+247,Calígrafos,ser,3
+258,"Carros Elétricos",vei,3
+265,Fotógrafos,ser,3
+278,"Automóveis e Veículos - Fab",vei,3
+296,Embalagens,loj,3
+298,"Embalagens Plásticas",loj,3
+299,"Sacolas e Bolsas Promocionais",loj,3
+303,"Cenografia - Empresas",art,3
+313,"Consultores em Recursos Humanos",ser,3
+314,"Consultores de Empresas",ser,3
+315,Telemensagens,ser,3
+318,Chapéus,loj,3
+320,"Interfones - Assistência Técnica e Vendas",cas,3
+322,Carimbos,ser,3
+350,"Estamparia - Art e Equip",loj,3
+351,"Esterilização - Serviços",ser,3
+352,Estilistas,ser,3
+402,"Concursos Públicos - Organização",ser,3
+406,"Fogões - Conserto e Peças",loj,3
+412,"Botões - Atac e Fab",loj,3
+414,Bronzeamento,ser,3
+417,"Igrejas;Templos e Instituições Religiosas",rel,3
+418,"Natal - Art",loj,3
+428,Quiosques,loj,3
+437,"Radiochamadas - Serviços",ser,3
+441,"Cozinhas Industriais - Equip",loj,3
+470,"Organização de Residências",cas,3
+474,"Gases em Geral",ser,3
+477,Oxigenoterapia,ser,3
+485,Pastas,loj,3
+492,"Reciclagem de Materiais",ser,3
+496,"Personalização - Serviços",ser,3
+497,"Plotagem - Serviços",ser,3
+502,"Fiberglass (Vendas e Conserto)",loj,3
+510,"Placas para Veículos",vei,3
+511,"Planejamento Educacional",edu,3
+517,Construtoras,cas,3
+532,"Ar-Condicionado - Locação; Projeto e Instalação",loj,3
+533,"Móveis - Aluguel",loj,3
+542,"Tradução Simultânea - Equip",ser,3
+547,"Filmes para Controle Solar",loj,3
+548,"Vidro - Revestimentos",loj,3
+550,Revestimentos,cas,3
+557,"Artigos para Bebês",loj,3
+558,"Enxovais para Bebês",loj,3
+563,"Automação Comercial",ser,3
+567,Elevadores,ser,3
+568,"Incêndio - Prevenção - Projetos e Instalações",ser,3
+569,Pára-Raios,loj,3
+570,"Manutenção Industrial",ser,3
+571,"Telefonia - Projetos e Instalações",ser,3
+578,"Institutos e Fundações",esc,3
+593,Cerâmica,cas,3
+595,"Estruturas Metálicas e de Madeira",cas,3
+598,"Manutenção Predial",ser,3
+599,"Gelo 24h",loj,3
+600,"Gelo Seco",loj,3
+601,Gelo,loj,3
+602,Guarda-Sóis,loj,3
+603,Betoneiras,cas,3
+604,"Intercâmbio Cultural",via,3
+615,"Presentes - Atac e Fab",loj,3
+619,"Turismo - Passeios de Barco",via,3
+620,"Sanitários Químicos",ser,3
+621,"Segurança do Trabalho",ser,3
+622,"Meio Ambiente",ser,3
+623,Presídios,se1,3
+632,"Construção Modulada",cas,3
+633,"Consultores de Organização e Métodos",ser,3
+634,"Consultores Desportivos",ser,3
+645,"Serviços Portuários - Agências",ser,3
+646,"Serviços Sociais",se1,3
+650,Couro,loj,3
+657,Segurança,ser,3
+662,"Esgotos - Limpeza",ser,3
+734,"Telecomunicações - Instalação e Manutenção",ser,3
+3365,Enceradeiras,ser,3
+6040,"Construção e Reforma",cas,3
+101,"Cilindros de Aço; Hidráulicos e Pneumáticos",Outros,6
+102,"Equipamentos a Óleo - Hidráulicos e Pneum.",Outros,6
+105,"Arquivos - Sistemas de Organização",Outros,6
+106,Arquivos,Outros,6
+142,Bolas,Outros,6
+147,Turbinas,Outros,6
+295,"Restaurantes; Bares e Lanchonetes - Art e Equip",Outros,6
+389,Condomínios,Outros,6
+629,"Promoção de Vendas",Outros,6
+2,Auto-Escolas,ser.aut,7
+3,Despachantes,ser.de1,7
+5,"Automação Predial e Residencial",cas.seg,7
+6,Esquadrias,cas.esq,7
+8,Alarmes,cas.seg,7
+9,"Segurança - Equip e Sistemas",cas.seg,7
+11,"Automóveis - Peças e Serviços",vei.pec,7
+12,"Automóveis - Bancos; Capas e Estofados",vei.pec,7
+13,"Automóveis - Amortecedores",vei.pec,7
+14,"Automóveis - Escapamentos",vei.pec,7
+15,"Capotas para Veículos",vei.pec,7
+16,"Automóveis - Vidros",vei.vid,7
+17,"Som - Projetos e Instalações",vei.som,7
+22,"A Quilo (Restaurantes)",bar.res,7
+24,Adegas,mer.ade,7
+27,"Corretores de Imóveis",ser.imo,7
+28,Imobiliárias,ser.imo,7
+30,"Automóveis - Alinhamento e Balanceamento",vei.pne,7
+31,Pneus,vei.pne,7
+32,"Automóveis - Injeção Eletrônica",vei.mec,7
+33,Auto-Elétricos,vei.aut,7
+34,"Adubos e Fertilizantes",cas.ja1,7
+35,Grama,cas.ja1,7
+36,"Irrigação - Sistemas",cas.ja1,7
+41,"Reboques e Engates",vei.gui,7
+44,"Turismo - Agências",via.age,7
+45,"Balas e Bombons",com.doc,7
+46,"Aeroportos - Serviços de Apoio",tra.aer,7
+53,"Água Mineral",mer.dis,7
+55,"Bancas de Jornais 24h",loj.ban,7
+58,"Arquibancadas e Palcos - Montagens",ser.org,7
+60,Desentupimento,ser.des,7
+62,Álbuns,ser.fot,7
+66,"Ambulâncias - Serviços de Remoção 24h",sau.sau,7
+67,"Ambulâncias - Serviços de Remoção",sau.sau,7
+69,"Lanchonetes (Restaurantes)",com.lan,7
+72,"Grelhados (Restaurantes)",bar.res,7
+82,"Anticorrosão - Materiais e Serviços",cas.mat,7
+84,"Automóveis - Blindagem",vei.bli,7
+85,"Oficinas Mecânicas",vei.mec,7
+86,"Automóveis - Direção Hidráulica",vei.mec,7
+87,"Som - Aparelhos",vei.som,7
+89,"Peças e Acessórios para Veículos - Repr",vei.pec,7
+90,"Auto-Peças - Distr",vei.pec,7
+91,"Automóveis - Chaparia e Pintura",vei.fun,7
+94,"Artesanato e Artigos Regionais",loj.art,7
+97,"Automóveis - Chapeação e Pintura",vei.fun,7
+99,"Automóveis - Conversão para Gás Natural Veicular",vei.gas,7
+109,"Automóveis - Inspeção Veicular",vei.ins,7
+113,"Automóveis - Lanternagem e Pintura",vei.fun,7
+114,"Automóveis - Pára-Choques",vei.pec,7
+115,"Automóveis - Lataria",vei.fun,7
+116,"Baterias (Lojas e Serviços)",vei.pec,7
+118,"Rolamentos e Retentores",vei.pec,7
+119,"Tratores - Conserto e Peças",vei.pec,7
+120,"Automóveis - Revendedores e Concessionárias",vei.con,7
+121,"Bombas Injetoras",vei.pec,7
+122,"Baterias - Atac e Fab",vei.pec,7
+123,"Assessoria de Moda",sau.bel,7
+124,Seguros,ser.co1,7
+125,"Planos de Saúde",sau.sau,7
+126,"Assistência Médica e Odontológica",sau.sau,7
+127,"Planos de Saúde - Representantes",sau.sau,7
+128,"Planos de Saúde - Atendimento 24h",sau.sau,7
+129,"Seguros - Corretores",ser.co1,7
+130,"Barracas de Praia (Restaurantes)",bar.res,7
+132,"Associações Beneficentes",esc.org,7
+134,"Escolas de Educação Infantil",edu.esc,7
+135,Bistrôs,bar.res,7
+136,"Portas de Vidro",cas.por,7
+137,"Vidro de Segurança",cas.vid,7
+138,Blindagens,cas.vid,7
+139,"Blocos Carnavalescos e Escolas de Samba",edu.esc,7
+140,Boates,art.cas,7
+141,"Casas Noturnas",art.cas,7
+143,"Bolsas - Art e Equip para Fabricar",loj.ves,7
+144,"Bolsas - Atac e Fab",loj.ves,7
+145,Bolsas,loj.ves,7
+148,"Ferramentas Elétricas",cas.fer,7
+152,"Instalações Elétricas",cas.ele,7
+153,Chaveiros,ser.cha,7
+155,"Cafés / Cafeterias",com.caf,7
+156,"Associações Comerciais",esc.org,7
+157,"Calçados - Art para Fabricar",loj.ves,7
+158,"Calçados - Atac e Fab",loj.ves,7
+159,"Calçados - Lojas",loj.ves,7
+166,Azulejos,cas.pis,7
+167,Pisos,cas.pis,7
+170,"Cestas de Café da Manhã e Natal",mer.ces,7
+173,Buffets,com.buf,7
+174,"Eventos - Organização e Promoção",ser.org,7
+176,"Associações Culturais; Desportivas e Sociais",esc.org,7
+178,"Eletricistas 24h",cas.ele,7
+179,Encanadores,ser.des,7
+180,"Construção Civil",cas.emp,7
+181,"Eletricidade - Empresas",cas.ele,7
+182,"Cercas Elétricas",cas.seg,7
+183,Antiquários,loj.ant,7
+184,"Dedetização e Desratização",ser.ded,7
+185,Uniformes,loj.ves,7
+187,"Informática - Redes",ser.inf,7
+188,Aquecedores,cas.cli,7
+189,Delicatessen,bar.res,7
+192,Guinchos,vei.gui,7
+193,"Caminhões - Aluguel",via.loc,7
+194,Guindastes,cas.emp,7
+195,"Construção - Máq e Equip",cas.emp,7
+197,"Transporte Pesado",tra.tra,7
+201,"Automóveis - Peças Usadas e Recondicionadas",vei.pec,7
+202,Ferro-Velho,vei.fer,7
+204,"Empresários Artísticos",ser.org,7
+205,"Automóveis - Reboques e Oficinas 24h",vei.gui,7
+206,"Automóveis - Socorro",vei.gui,7
+210,Encadernadores,ser.gra,7
+222,"Escolas - Art",loj.pap,7
+225,"Escolas de Aviação",edu.esc,7
+232,"Escolas de Dicção e Oratória",edu.esc,7
+233,"Escolas Particulares",edu.esc,7
+234,Creches,edu.cre,7
+240,"Associações de Classe",esc.org,7
+245,"Aulas Particulares",edu.esc,7
+248,"Câmaras de Comércio",esc.org,7
+250,Carburadores,vei.pec,7
+252,Assoalhos,cas.pis,7
+253,Carpintarias,cas.mar,7
+254,Coberturas,cas.tol,7
+255,Carretas,tra.tra,7
+256,"Carretas para Barcos; Motos e Camping",tra.tra,7
+257,Engates,vei.gui,7
+260,Consulados,se1.con,7
+261,"Automóveis - Rodas e Aros",vei.pec,7
+263,"Informática - DataShow",loj.inf,7
+264,"Informática - Equip - Aluguel e Leasing",loj.inf,7
+267,Projetores,loj.inf,7
+268,"Escolas de Mergulho",edu.esc,7
+271,"Automóveis - Surdinas",vei.pec,7
+272,"Auditórios e Salões",art.tea,7
+274,Hotéis,via.hot,7
+275,"Escolas de Natação",esp.nat,7
+279,"Escolas Jurídicas",edu.esc,7
+280,"Escolas para Crianças Especiais",edu.esc,7
+281,"Automóveis Importados - Revendedores e Peças",vei.pec,7
+282,"Informática - Suprimentos e Móveis",loj.inf,7
+283,"Materiais de Escritório",loj.pap,7
+285,"Cursos Pré-Vestibulares",edu.esc,7
+286,"Casas de Câmbio",ser.cas,7
+287,"Casas de Chá / Brunch",com.cha,7
+288,"Casas de Espetáculos",art.cas,7
+290,"Casas Lotéricas",ser.lot,7
+294,"Produtos para Limpeza",ser.ser,7
+300,"Desentupimento 24h",ser.des,7
+301,"Desinfecção - Empresas",ser.ded,7
+302,"Casas Pré-Fabricadas",cas.emp,7
+311,"Escolas Preparatórias",edu.esc,7
+312,"Informática - Cursos e Treinamento",edu.cu2,7
+316,Vinhos,mer.ade,7
+317,"Escolas Públicas",edu.esc,7
+319,"Chaveiros 24h",ser.cha,7
+321,"Fechaduras - Lojas",cas.fer,7
+323,"Galeterias (Restaurantes)",bar.res,7
+324,"Buffets (Restaurantes)",bar.res,7
+325,"Comida Caseira (Restaurantes)",bar.res,7
+328,"Vacinas - Aplicações",sau.sau,7
+338,Pilates,esp.pil,7
+340,"Cursos de Pós-Graduação",edu.fac,7
+341,"Faculdades e Universidades",edu.fac,7
+353,"Toldos - Aluguel",cas.tol,7
+354,"Shows - Produção",ser.org,7
+355,"Som e Iluminação - Equip - Aluguel",ser.org,7
+356,"Festas - Organização",ser.org,7
+357,"Telão - Venda e Locação",ser.org,7
+359,"Formaturas - Organização",ser.org,7
+360,Peixarias,mer.pei,7
+362,"Marmitas - Fornecimento",bar.res,7
+364,Gráficas,ser.gra,7
+365,"Clínicas de Radiologia",sau.sau,7
+367,"Tomografia e Ressonância Magnética",sau.sau,7
+369,"Clínicas de Radioterapia",sau.sau,7
+371,"Laboratórios de Análises Clínicas",sau.sau,7
+372,"Medicina Nuclear",sau.sau,7
+391,"Contabilidade - Escritórios",ser.con,7
+392,"Limpeza de Caixas d'Água",ser.ser,7
+393,"Sanitização de Ambientes",ser.ser,7
+394,"Cargas e Encomendas",tra.tra,7
+395,"Despacho de Mercadorias",tra.tra,7
+396,"Transporte de Documentos",tra.tra,7
+397,"Distribuição - Serviços",tra.tra,7
+399,Docerias,com.doc,7
+401,Salgadinhos,com.sal,7
+403,Lixeiras,ser.ser,7
+404,Contêineres,tra.tra,7
+407,"Piscinas - Art; Equip e Manutenção",cas.pi1,7
+408,Bonés,loj.ves,7
+409,"Camisetas Promocionais",loj.ves,7
+413,Boutiques,loj.ves,7
+415,Facções,loj.ves,7
+416,"Confecções - Mão-de-Obra",loj.ves,7
+419,"Naturais (Restaurantes)",bar.res,7
+421,"Roupas - Aluguel",loj.ves,7
+422,"Nutrição Enteral e Parenteral",bar.res,7
+427,"Retificação de Motores e Peças",vei.ret,7
+430,"Faixas Comemorativas e Promocionais",ser.gra,7
+431,Crachás,ser.gra,7
+436,Radiadores,vei.pec,7
+438,"Restaurantes 24h",bar.res,7
+442,Restaurantes,bar.res,7
+447,"Self-service (Restaurantes)",bar.res,7
+449,Creperias,bar.res,7
+459,"Culinária Suíça",bar.res,7
+463,"Confecções - Moldes",loj.ves,7
+464,"Confecções - Representações",loj.ves,7
+467,"ONG - Organizações Não-Governamentais",esc.org,7
+468,"Transporte Interurbano e Interestadual",tra.ter,7
+475,Meias,loj.ves,7
+478,Paisagismo,cas.ja1,7
+479,"Jardins - Art e Projetos",cas.ja1,7
+480,"Confecções Unissex",loj.ves,7
+482,"Madeiras - Artefatos",cas.mat,7
+483,"Móveis para Jardins; Piscinas e Terraços",cas.ja1,7
+486,Pavimentação,cas.emp,7
+487,"Cimento - Artefatos",cas.mat,7
+488,Asfalto,cas.emp,7
+489,Terraplenagem,cas.emp,7
+490,Demolições,cas.emp,7
+491,Pedras,cas.mat,7
+493,Pedicuros,sau.bel,7
+494,Perfumarias,loj.cos,7
+495,"Produtos de Beleza",loj.cos,7
+500,Piscinas,cas.pi1,7
+501,Banheiras,cas.pi1,7
+503,"Empreendimentos Imobiliários",ser.imo,7
+506,Luminosos,cas.ele,7
+508,Painéis,ser.gra,7
+509,Banners,ser.gra,7
+512,"Feijoadas (Restaurantes)",bar.res,7
+518,Plantas,cas.ja1,7
+519,Copiadoras,loj.pap,7
+520,"Cópias Xerográficas e Heliográficas",loj.pap,7
+521,"Informática - Impressão Eletrônica e Digital",loj.inf,7
+522,"Plotters - Equip e Serviços",ser.gra,7
+525,"Sorveterias - Art",com.sor,7
+526,"Pneus Usados e Recauchutados",vei.pne,7
+537,"Informática - Associações e Clubes",esc.org,7
+538,"Informática - Equip - Assistência Técnica",loj.inf,7
+541,"Postos de Combustíveis e Serviços - Art e Equip",vei.pos,7
+544,"Postos de Combustíveis e Serviços 24h",vei.pos,7
+546,"Postos de Combustíveis e Serviços",vei.pos,7
+549,"Redes de Proteção",cas.tel,7
+551,Papel,loj.pap,7
+552,"Informática - Processamento de Dados",loj.inf,7
+555,"Mensagens Fonadas",ser.tel,7
+565,"Fogos de Artifício",loj.fog,7
+566,"Conselhos de Classe Profissionais",esc.org,7
+572,"Instalações Hidráulicas",cas.hid,7
+573,"Forró - Casas",art.cas,7
+576,"Roupas Unissex - Lojas",loj.ves,7
+579,Consórcios,ser.ban,7
+580,"Funerárias 24h",ser.fun,7
+581,Funerárias,ser.fun,7
+584,Funileiros,vei.fun,7
+585,"Calhas e Rufos",cas.tol,7
+586,Divisórias,cas.ges,7
+587,"Forros Acústicos e Decorativos",cas.ges,7
+588,Madeiras,cas.mat,7
+590,Gesso,cas.ges,7
+591,Vidraçarias,cas.vid,7
+592,Pedreiros,cas.ped,7
+594,Empreiteiros,cas.emp,7
+596,"Galpões - Construtores",cas.emp,7
+597,"Tintas - Lojas",cas.mat,7
+605,"Internação Domiciliar",sau.sau,7
+606,"Jóias - Gravação",loj.joa,7
+613,Pousadas,via.pou,7
+614,Prata,loj.joa,7
+627,"Crédito Imobiliário",ser.fin,7
+637,"Cooperativas de Consumo",esc.coo,7
+638,"Cooperativas de Crédito",esc.coo,7
+639,"Cooperativas de Habitação",esc.coo,7
+640,"Cooperativas de Produtores",esc.coo,7
+641,"Hotelaria Marítima",via.hot,7
+642,"Cooperativas de Serviços",esc.coo,7
+643,"Informática - Impressoras",loj.inf,7
+644,Sementes,cas.ja1,7
+647,"Sindicatos e Federações",se1.sin,7
+648,"Costuras - Art",ser.cos,7
+649,Costureiras,ser.cos,7
+652,Lava-Rápido,vei.lav,7
+653,"Lavanderias Industriais",ser.lav,7
+654,Lavanderias,ser.lav,7
+655,Leasing,ser.fin,7
+656,"Limpeza e Conservação",ser.ser,7
+658,"Mão-de-Obra Temporária",ser.emp,7
+661,Pintores,cas.pin,7
+663,"Limpeza de Telhado",ser.ser,7
+666,"Culinária Austríaca",bar.res,7
+673,"Culinária Escandinava",bar.res,7
+677,"Culinária Húngara",bar.res,7
+679,"Culinária Inglesa",bar.res,7
+680,"Culinária Internacional",bar.res,7
+681,"Culinária Irlandesa",bar.res,7
+682,Luvas,loj.ves,7
+684,"Malhas - Atac e Fab",loj.ves,7
+685,"Malhas (Malharias)",loj.ves,7
+686,"Culinária Judaica",bar.res,7
+687,"Culinária Libanesa",bar.res,7
+688,"Culinária Marroquina",bar.res,7
+690,"Culinária Mongól",bar.res,7
+691,Mangueiras,cas.hid,7
+696,"Culinária Persa",bar.res,7
+697,"Culinária Polonesa",bar.res,7
+699,"Culinária Russa",bar.res,7
+700,"Culinária Tailandesa",bar.res,7
+703,"Empregos - Agências",ser.emp,7
+704,"Cursos Supletivos",edu.cur,7
+706,"Máquinas para Cortar Grama",loj.loj,7
+707,Roçadeiras,agr.equ,7
+709,"Materiais de Construção",cas.mat,7
+710,"Areia e Pedregulho",cas.mat,7
+711,"Agricultura e Pecuária - Estabelecimentos e Produtos",agr.est,7
+712,"Ferragens - Lojas",agr.est,7
+713,Lajes,cas.mat,7
+714,Pré-Moldados,cas.mat,7
+715,"Materiais Elétricos - Lojas",cas.ele,7
+717,"Ferragens - Atac e Fab",cas.fer,7
+718,Marmoristas,cas.ma2,7
+719,Cimento,cas.mat,7
+722,"Blocos de Concreto",cas.mat,7
+724,"Tintas - Atac e Fab",cas.mat,7
+725,"Materiais Elétricos - Atac e Fab",cas.ele,7
+726,Solda,cas.fer,7
+727,"Som e Iluminação - Equip - Manutenção",cas.ele,7
+728,"Sopas (Restaurantes)",bar.res,7
+730,Displays,loj.ele,7
+731,"Supermercados 24h",mer.sup,7
+732,Táxi,tra.pon,7
+733,"Táxi 24h",tra.pon,7
+1325,"Assoalhos - Conservação",cas.pis,7
+3584,"Construção Civil e Meio Ambiente",cas.emp,7
+3740,"Madeiras - Máq para Trabalhar",cas.mat,7
+3767,Concreto,cas.mat,7
+3931,"Construção Industrial",cas.emp,7
+582,Caldeirarias,Fabricas,8
+21,Massagens,sau.bel.mas,11
+23,"Acarajé e Abará",bar.res.bra,11
+54,Balões,ser.org.dec,11
+63,Barbeiros,sau.bel.sal,11
+64,"Cabeleireiros e Institutos de Beleza",sau.bel.sal,11
+65,"Tratamento do Cabelo",sau.bel.sal,11
+70,Pizzarias,bar.res.piz,11
+71,Churrascarias,bar.res.chu,11
+73,"Culinária Brasileira",bar.res.bra,11
+76,Esteticistas,sau.bel.med,11
+78,"Roupas Femininas - Lojas",loj.ves.mo1,11
+79,Ambulatórios,sau.sau.hos,11
+80,"Clínicas Médicas",sau.sau.cli,11
+108,"Móveis - Lojas",loj.mov.mov,11
+110,"Asilos e Abrigos",sau.sau.cas,11
+111,"Clínicas de Repouso",sau.sau.cas,11
+112,"Clínicas Geriátricas",sau.sau.cas,11
+133,Berçários,sau.sau.hos,11
+161,"Decoração - Art e Serviços",loj.mov.dec,11
+162,"Móveis Infantis e Juvenis",loj.mov.mov,11
+172,"Placas de Identificação",ser.org.let,11
+190,"Emergências e Atendimento Hospitalar 24h",sau.sau.hos,11
+218,Enfeites,ser.org.dec,11
+221,Cadeiras,loj.mov.mov,11
+223,"Móveis para Escolas",loj.mov.mov,11
+236,"Clínicas de Ultra-Sonografia e Ecografia",sau.sau.cli,11
+243,"Escolas de Línguas",edu.esc.es1,11
+244,"Cursos de Inglês",edu.esc.es1,11
+249,Cantinas,bar.res.ita,11
+251,"Carnaval - Art",ser.org.dec,11
+269,"Escolas de Música",edu.esc.esc,11
+273,"Centros de Convenções",ser.org.cen,11
+289,"Casas de Saúde",sau.sau.cli,11
+291,Depilação,sau.bel.cli,11
+292,"Clínicas de Estética",sau.bel.cli,11
+305,"Centros e Postos de Saúde 24h",sau.sau.pos,11
+306,"Centros e Postos de Saúde",sau.sau.pos,11
+326,"Médicos - Alergia e Imunologia",sau.sau.med,11
+329,"Clínicas de Alergia e Imunologia",sau.sau.cli,11
+330,"Clínicas de Cardiologia",sau.sau.cli,11
+332,"Clínicas de Check-Up",sau.sau.cli,11
+333,"Clínicas de Dermatologia",sau.sau.cli,11
+335,"Farmácias Homeopáticas",sau.sau.far,11
+336,"Medicina Estética",sau.bel.med,11
+337,"Médicos - Cirurgia Plástica",sau.bel.med,11
+342,"Clínicas de Olhos",sau.sau.cli,11
+344,"Pronto-Socorro Particular",sau.sau.hos,11
+358,"Stands - Projetos e Montagens",loj.mov.mov,11
+366,"Medicina do Trabalho",sau.sau.me1,11
+373,"Clínicas Ginecológicas",sau.sau.cli,11
+374,Maternidades,sau.sau.hos,11
+376,"Clínicas de Hemodiálise",sau.sau.cli,11
+377,"Hospitais Particulares",sau.sau.hos,11
+378,"Médicos - Cancerologia",sau.sau.med,11
+379,"Clínicas Ortopédicas",sau.sau.cli,11
+381,"Clínicas Pediátricas",sau.sau.cli,11
+383,"Alcoolismo - Tratamento",sau.sau.cli,11
+384,"Drogas - Tratamento",sau.sau.cli,11
+385,"Médicos - Sexologia",sau.sau.med,11
+387,"Clínicas Urológicas",sau.sau.cli,11
+388,"Clubes e Estádios",esp.fut.est,11
+420,"Noivas - Vestidos e Artigos",loj.ves.mo1,11
+425,"Médicos - Gastroenterologia",sau.sau.med,11
+432,Fantasias,ser.org.fan,11
+433,"Farmácias de Manipulação",sau.sau.far,11
+434,"Farmácias e Drogarias",sau.sau.far,11
+435,Quiropraxia,sau.sau.cli,11
+443,"Culinária Japonesa",bar.res.jap,11
+444,"Culinária Chinesa",bar.res.ch1,11
+446,"Culinária Italiana",bar.res.ita,11
+448,"Culinária Árabe",bar.res.ara,11
+450,"Culinária Contemporânea",bar.res.con,11
+451,"Culinária Alemã",bar.res.ale,11
+452,"Culinária Portuguesa",bar.res.por,11
+453,"Culinária Nordestina",bar.res.bra,11
+454,"Culinária Regional",bar.res.bra,11
+455,Vegetarianos,bar.res.veg,11
+456,"Culinária Goiana",bar.res.bra,11
+457,"Culinária Mexicana",bar.res.mex,11
+458,"Culinária Nortista",bar.res.bra,11
+460,"Culinária Mineira",bar.res.bra,11
+461,"Farmacias e Drogarias 24h",sau.sau.far,11
+462,Medicamentos,sau.sau.far,11
+465,"Confecções Femininas",loj.ves.mo1,11
+466,"Confecções Infantis",loj.ves.mo2,11
+469,"Confecções Masculinas",loj.ves.mod,11
+484,Parques,via.lug.par,11
+523,"Tecidos para Decoração",loj.mov.dec,11
+536,"Implantes de Cabelos",sau.bel.sal,11
+553,"Flores Artificiais e Desidratadas",loj.mov.dec,11
+559,"Roupas Infantis - Lojas",loj.ves.mo2,11
+564,"Roupas Masculinas - Lojas",loj.ves.mod,11
+577,"Frutos do Mar e Peixes (Restaurantes)",bar.res.pei,11
+610,"Hospitais Públicos",sau.sau.hos,11
+611,Hospitais,sau.sau.hos,11
+616,"Saladas (Restaurantes)",bar.res.veg,11
+618,"Laboratórios de Análise de DNA",sau.sau.lab,11
+630,"Pronto-Socorro Público",sau.sau.pos,11
+636,Convites,ser.gra.con,11
+664,"Culinária Armênia",bar.res.asi,11
+665,"Culinária Australiana",bar.res.aus,11
+667,"Culinária Baiana",bar.res.bra,11
+668,"Culinária Belga",bar.res.bra,11
+669,Lingerie,loj.ves.mo1,11
+670,"Culinária Coreana",bar.res.cor,11
+671,"Culinária Cubana",bar.res.ame,11
+672,"Culinária Egípcia",bar.res.asi,11
+674,"Culinária Espanhola",bar.res.esp,11
+675,"Culinária Francesa",bar.res.fra,11
+676,"Culinária Grega",bar.res.asi,11
+678,"Culinária Indiana",bar.res.ind,11
+689,"Culinária Mediterrânea",bar.res.med,11
+708,"Massagens - Casas",sau.bel.mas,11
+729,"Spa - Clínicas",sau.bel.cli,11
+345,"Lentes de Contato",Lojas>Óticas,12
+539,"Cursos à Distância",Educação>Cursos,15
+701,"Cursos de Jardinagem e Paisagismo",Educação>Cursos,15
+702,"Cursos de Manequins e Modelos",Educação>Cursos,15
+262,"Audiovisuais - Sistemas e Produtos",Serviços>Agência,16
+266,"Vídeo - Produções e Reportagens",Serviços>Agência,16
+270,"Auditórios - Art e Equip","Loja>Som e audio",16
+361,Filmagens,"Loja>Som e vídeo",16
+556,"Brinquedos (Vendas e Conserto)",Lojas>Brinquedos,16
+259,"Cartórios e Tabeliães",Serviços>Cartório,17
+169,Arquitetos,Serviços>Arquiteto,18
+171,"Flores - Ornamentação",Lojas>Floricultura,18
+175,Floriculturas,Lojas>Floricultura,18
+10,"Automóveis - Acessórios",Veículos>Acessórios,19
+410,"Borracheiros 24h",Veículo>Borracharia,19
+411,Borracheiros,Veículo>Borracharia,19
+574,"Foto Cabine",Serviços>Fotografia,19
+575,"Foto Maluca",Serviços>Fotografia,19
+150,Eletricistas,Serviços>Eletricista,20
+560,"Informática - Software - Desenvolvimento",Serviços>Informática,20
+561,"Informática - Software - Aplicativos e Sistemas",Serviços>Informática,20
+635,"Convênios - Administração",Empresas>Escritórios,20
+499,Perucas,"Saúde e beleza>Beleza",21
+4,"Autódromos e Kartódromos",Esportes>Automobilismo,22
+363,Design,"Arte e diversão>Design",22
+191,Empilhadeiras,"Casa e construção>Reforma",25
+215,"Vazamento - Detecção","Casa e construção>Reforma",25
+74,"Fast Food","Comida e bebida> Fast Food",26
+177,"Editoração Eletrônica",Serviços>Informática>Design,27
+583,Coifas,"Lojas>Utilidades Domésticas",27
+149,"Bombeiros Hidráulicos","Serviços>Bombeiro hidráulico",28
+476,"Solda - Art e Equip","Loja>Máquinas e equipamentos",28
+651,"Laser - Equipamentos","Loja>Máquinas e equipamentos",28
+37,"Automóveis - Aluguel 24h","Veículos>Locadora de veículos",29
+38,"Automóveis - Aluguel","Veículos>Locadora de veículos",29
+39,"Ônibus - Aluguel","Veículos>Locadora de veículos",29
+40,"Vans - Aluguel","Veículos>Locadora de veículos",29
+196,Compressores,"Lojas>Máquinas e equipamentos",29
+199,"Dentistas - Cirurgia e Traumatologia Bucomaxilofacial","Saúde e beleza>Saúde>Dentista",29
+200,"Dentistas - Implantodontia","Saúde e beleza>Saúde>Dentista",29
+203,"Dentistas - Dentística Restauradora","Saúde e beleza>Saúde>Dentista",29
+207,"Clínicas Odontológicas","Saúde e beleza>Saúde>Dentista",29
+208,Dentistas,"Saúde e beleza>Saúde>Dentista",29
+209,"Dentistas - Endodontia","Saúde e beleza>Saúde>Dentista",29
+211,"Dentistas - Estomatologia","Saúde e beleza>Saúde>Dentista",29
+212,"Dentistas - Ortodontia","Saúde e beleza>Saúde>Dentista",29
+213,"Dentistas - Periodontia","Saúde e beleza>Saúde>Dentista",29
+214,"Dentistas 24h","Saúde e beleza>Saúde>Dentista",29
+217,"Dentistas - Odontopediatria","Saúde e beleza>Saúde>Dentista",29
+228,"Dentistas - Ortopedia Funcional dos Maxilares","Saúde e beleza>Saúde>Dentista",29
+229,"Dentistas - Patologia Bucal","Saúde e beleza>Saúde>Dentista",29
+230,"Dentistas - Prótese","Saúde e beleza>Saúde>Dentista",29
+237,"Dentistas - Radiologia","Saúde e beleza>Saúde>Dentista",29
+238,"Dentistas - Urgências","Saúde e beleza>Saúde>Dentista",29
+239,Próteses,"Saúde e beleza>Saúde>Dentista",29
+481,Pallets,"Lojas>Máquinas e equipamentos",29
+540,Porta-Pallets,"Lojas>Máquinas e equipamentos",29
+683,"Macacos Hidráulicos e Mecânicos","Lojas>Máquinas e equipamentos",29
+693,"Correias - Atac e Fab","Lojas>Máquinas e equipamentos",29
+694,Conexões,"Lojas>Máquinas e equipamentos",29
+705,"Máquinas - Conserto","Lojas>Máquinas e equipamentos",29
+346,"Clínicas de Psicologia","Sáude e beleza>Saúde>Psicologo",30
+347,Psicólogos,"Sáude e beleza>Saúde>Psicologo",30
+219,Enfermagem,"Saúde e beleza>Saúde>Enfermeiro",31
+224,"Escolas de Artes","Educação>Escolas>Escola de Artes",32
+226,"Escolas de Ballet","Educação>Escolas>Escola de Dança",32
+227,"Escolas de Dança","Educação>Escolas>Escola de Dança",32
+231,"Escolas de Desenho","Educação>Escolas>Escola de Artes",32
+554,"Floriculturas 24h","Serviços>Floricultura e arranjos",32
+516,"Plantas e Projetos","Serviços>Engenharia e arquitetura",33
+18,Acupuntura,"Saúde e beleza>Saúde>Acupunturista",34
+423,Nutricionistas,"Saúde e beleza>Saúde>Nutricionista",34
+424,"Médicos - Nutrologia","Saúde e beleza>Saúde>Nutricionista",34
+535,"Modelos e Manequins - Agências","Serviços>Agência>Agência de modelos",35
+327,"Médicos - Pediatria","Saúde e beleza>Sáude>Médico>Pediatra",36
+370,"Médicos - Geriatria","Saúde e beleza>Saúde>Médicos>Geriatra",37
+47,"Agências de Casamento","Serviços>Agências>Agência de casamento",38
+164,"Cortinas e Acessórios","Casa e construção>Cortinas e Persianas",38
+165,Persianas,"Casa e construção>Cortinas e Persianas",38
+349,"Clínicas Psiquiátricas","Saúde e beleza>Saúde>Médico>Psiquiatra",38
+390,"Cobrança - Agências","Serviços>Agências>Agência de cobranças",38
+77,"Produtos Naturais e Dietéticos","Mercados>Produtos Naturais e Dietéticos",39
+382,"Médicos - Psiquiatria e Med Psicossomática","Saúde e beleza>Saúde>Médicos>Psiquiatra",39
+386,"Médicos - Urologia","Saúde e beleza>Saúde>Médicos>Urologista",39
+331,"Médicos - Cardiologia","Saúde e beleza>Sáude>Médico>Cardiologista",41
+334,"Médicos - Dermatologia","Saúde e beleza>Sáude>Médico>Dermatologista",42
+343,"Médicos - Oftalmologia","Saúde e beleza>Sáude>Médico>Oftalmologista",42
+339,"Médicos - Endocrinologia","Saúde e beleza>Sáude>Médico>Endocrinologista",44
+75,"Steak House","Bares e restaurantes>Restaurantes>Steak House",45
+375,"Médicos - Otorrinolaringologia","Saúde e beleza>Saúde>Médicos>Otorrinolaringologista",51
+628,"Programação Visual","Serviço>Agência>Agência de propaganda e publicidade",51
+631,Outdoor,"Serviço>Agência>Agência de propaganda e publicidade",51
+241,"Escolas de Enfermagem","Educação>Escolas>Escola tecnica e profissionalizante",52
+242,"Escolas Técnicas e Profissionalizantes","Educação>Escolas>Escola tecnica e profissionalizante",52
+309,"Festas - Artigos","Organização de festas e eventos>Decoração de eventos",52
+398,"Propaganda e Publicidade (Agências)","Serviços>Agência>Agência de propaganda e publicidade",52
+56,"Cabeleireiros e Institutos de Beleza - Art e Equip","Saúde e beleza>Beleza>Artigos e equipamentos de beleza",54
+625,"Produtos de Beleza - Art e Equip para Fab","Saúde e beleza>Beleza>Artigos e equipamentos de beleza",54
+626,"Produtos de Beleza - Atac e Fab","Saúde e beleza>Beleza>Artigos e equipamentos de beleza",54
+308,"Festas - Animação","Organização de festas e eventos>Animações e entretenimento",58
+304,"Centros Culturais","Organização de festas e eventos>Centro de eventos e convenções",62
+310,"Festas - Casas para Aluguel","Organização de festas e eventos>Centro de eventos e convenções",62
+19,"Fisioterapia - Equip","Saúde e beleza>Saúde>Equipamentos para hospitais e laboratórios",63
+20,"Hospitais - Art e Equip","Saúde e beleza>Saúde>Equipamentos para hospitais e laboratórios",63
+293,"Descartáveis - Art","Saúde e beleza>Saúde>Equipamentos para hospitais e laboratórios",63
+471,"Cadeiras de Rodas","Saúde e beleza>Saúde>Equipamentos para hospitais e laboratórios",63
+473,Oxigênio,"Saúde e beleza>Saúde>Equipamentos para hospitais e laboratórios",63
+529,"Salões para Banquetes e Festas","Serviços>Organização de festas e eventos>Organização de festas e eventos",72
+530,"Sítios de Lazer","Serviços>Organização de festas e eventos>Organização de festas e eventos",72
