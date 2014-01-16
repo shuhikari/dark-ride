@@ -1,4 +1,3 @@
-key,parent,type,type2,qt
 agr,,"Agricultura e pecuária","Agricultura e pecuária",1
 agr.ass,agr,"Assessoria e pesquisa","Assessoria e pesquisa",1
 agr.equ,agr,Equipamentos,Equipamentos,1
@@ -286,7 +285,7 @@ vei.ins,vei,"Inspeção Veicular","Inspeção Veicular",1
 vei.lav,vei,"Lava Rápido","Lava Rápido",1
 vei.mec,vei,Mecânica,Mecânica,1
 vei.pec,vei,Peças,Peças,1
-vei.pne,vei,"Pneus, Alinhamento e Balanceamento","Pneus, Alinhamento e Balanceamento",1
+vei.pne,vei,"Pneus Alinhamento e Balanceamento","Pneus Alinhamento e Balanceamento",1
 vei.pos,vei,"Posto de Gasolina","Posto de Gasolina",1
 vei.ret,vei,Retificadora,Retificadora,1
 vei.som,vei,Som,Som,1
