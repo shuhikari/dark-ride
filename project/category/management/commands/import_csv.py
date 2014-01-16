@@ -27,18 +27,15 @@ class Command(BaseCommand):
                 doc_dir = url + '/docs/'
                 arquivo = open(doc_dir + csv)
                 texto = arquivo.readlines()
+                cat = {}
                 for idx, linha in enumerate(texto):
                     l = linha.split(',')
-                    if not l[1]:
-                        pai = Category.objects.create(key=l[0].replace('"', ''), qt=l[4].replace('"', ''))
-                    else:
-                        pai = Category.objects.create(key=l[1].replace('"', ''), qt=l[4].replace('"', ''))
-                    insere = Category(key=str(l[0].replace('"', '')), parent=pai,
-                             title=str(l[2].replace('"', '')),
-                              description=str(l[3].replace('"', '')),
-                              qt=l[4].replace('"', ''))
-                    insere.save()
-                    print 'Inserindo registro: ' + l[0] + ' indice: ' str(idx + 1)
+                    pai = cat.get(l[1])
+                    cat[l[0]] = Category.objects.create(key=str(l[0].replace('"', '')), parent=pai,
+                                 title=str(l[2].replace('"', '')),
+                                  description=str(l[3].replace('"', '')),
+                                  qt=l[4].replace('"', ''))
+                    print 'Inserindo linha: ' + str(idx+1)
             except Exception as e:
                  print e
 

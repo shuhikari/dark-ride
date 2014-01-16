@@ -40,6 +40,7 @@ INSTALLED_APPS = (
     'category',
     'django_extensions',
     'mptt',
+    'django_mptt_admin',
 
 )
 
@@ -71,7 +72,7 @@ DATABASES = {
 # Internationalization
 # https://docs.djangoproject.com/en/1.6/topics/i18n/
 
-LANGUAGE_CODE = 'en-us'
+LANGUAGE_CODE = 'pt_br'
 
 TIME_ZONE = 'UTC'
 

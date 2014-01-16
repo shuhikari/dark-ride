@@ -11,7 +11,10 @@ class Category(MPTTModel):
                             verbose_name=u'Categoria pai')
     title = models.CharField(u'Título', max_length=255)
     description = models.CharField(u'Descrição', max_length=255)
-    qt =  models.IntegerField(u'Quantidade')
+    qt =  models.IntegerField(u'Quantidade', null=True, blank=True)
+
+    def __unicode__(self):
+        return self.title
 
     class Meta:
         verbose_name = u'Categoria'

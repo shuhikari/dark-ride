@@ -313,4 +313,3 @@
 "via.pen";"via";"Pensionato (Pensões)";"Pensionato (Pensões)";1
 "via.pou";"via";"Pousada";"Pousada";1
 "via.res";"via";"Resort";"Resort";1
-"";"";"";"";
