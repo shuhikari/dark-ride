@@ -6,12 +6,13 @@ from mptt.models import MPTTModel, TreeForeignKey
 
 
 class Category(MPTTModel):
-    key =  models.CharField(u'Chave', max_length=255)
-    parent = TreeForeignKey('self', null=True, blank=True, related_name='children',
-                            verbose_name=u'Categoria pai')
+    key = models.CharField(u'Chave', max_length=255)
+    parent = TreeForeignKey(
+        'self', null=True, blank=True, related_name='children',
+        verbose_name=u'Categoria pai')
     title = models.CharField(u'Título', max_length=255)
     description = models.CharField(u'Descrição', max_length=255)
-    qt =  models.IntegerField(u'Quantidade', null=True, blank=True)
+    qt = models.IntegerField(u'Quantidade', null=True, blank=True)
 
     def __unicode__(self):
         return self.title
@@ -22,7 +23,8 @@ class Category(MPTTModel):
 
 
 class OldCategory(models.Model):
-    category = models.ForeignKey('Category', null=True, blank=True, verbose_name="Categoria(fk)")
+    category = models.ForeignKey(
+        'Category', null=True, blank=True, verbose_name="Categoria(fk)")
     cod = models.IntegerField(u'Código')
     title = models.CharField(u'Título', max_length=255)
 
