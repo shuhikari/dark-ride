@@ -24,13 +24,14 @@ class Category(MPTTModel):
 
 class OldCategory(models.Model):
     category = models.ForeignKey(
-        'Category', null=True, blank=True, verbose_name="Categoria(fk)")
+        'Category', null=True,
+        blank=True, verbose_name="Categoria(fk)")
     cod = models.IntegerField(u'Código')
     title = models.CharField(u'Título', max_length=255)
+
+    def __unicode__(self):
+        return self.title
 
     class Meta:
         verbose_name = u'Categoria velha'
         verbose_name_plural = u'Categorias velhas'
-
-    def __unicode__(self):
-        return self.title
