@@ -34,13 +34,19 @@ class Command(BaseCommand):
                 arquivo = open(doc_dir + csv_file, 'rb')
                 spam_csv = csv.reader(arquivo, delimiter=';', quotechar='"')
                 cat = {}
+                OldCat = {}
                 for i in Category.objects.all():
                     cat[i.key] = i
+                for i in spam_csv:
+                    if len(i) > 2 and len(i[2]) > 11:
+                        OldCat[i[2]] = i[2]
+
                 for idx, l in enumerate(spam_csv):
                     OldCategory.objects.create(
                         category=cat.get(l[2] if len(l) > 2 else ''),
                         cod=int(l[0]),
                         title=str(l[1]),
+                        junk=OldCat.get(l[2] if len(l) > 2 else '')
                     )
                     self.stdout.write(
                         'Inserindo linha: {0}'.format(str(idx + 1)))

@@ -10,7 +10,7 @@ class CategoryTree(DjangoMpttAdmin):
 
 
 class OldCategoryAdmin(admin.ModelAdmin):
-    fields = ('category', 'suggestion', 'cod', 'title', )
+    fields = ('title', 'category', 'suggestion', 'cod',)
     readonly_fields = ('cod', 'title', 'suggestion', )
 
     def suggestion(self, obj=None):
@@ -28,6 +28,9 @@ class OldCategoryAdmin(admin.ModelAdmin):
         return res
 
     suggestion.short_description = u'Sugestões'
+
+    class Media:
+        js = ('js/script.js',)
 
 admin.site.register(Category, CategoryTree)
 admin.site.register(OldCategory, OldCategoryAdmin)
