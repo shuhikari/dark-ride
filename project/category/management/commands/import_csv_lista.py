@@ -2,7 +2,7 @@
 # coding=utf-8
 
 import os
-import csv as csv
+import csv
 from project import settings
 from optparse import make_option
 from django.core.management.base import BaseCommand, CommandError
