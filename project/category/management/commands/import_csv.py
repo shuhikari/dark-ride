@@ -13,7 +13,7 @@ class Command(BaseCommand):
         make_option('--csv',
                     dest='csv',
                     help="""Informe o nome do arquivo da
-                         pasta DOCS, para importar o CSV""",
+                    pasta DOCS, para importar o CSV""",
                     ),
     )
 
