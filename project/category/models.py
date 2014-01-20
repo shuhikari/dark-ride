@@ -31,3 +31,6 @@ class OldCategory(models.Model):
     class Meta:
         verbose_name = u'Categoria velha'
         verbose_name_plural = u'Categorias velhas'
+
+    def __unicode__(self):
+        return self.title
