@@ -16,26 +16,26 @@ class OldCategoryAdmin(admin.ModelAdmin):
     list_display = ('title', 'category', )
 
     def suggestion(self, obj=None):
-        words = obj.title
+        ws = obj.title
         for ch in ['(', ')', '[', ']', ';', ':', ',', '.', '-', '_']:
-            if ch in words:
-                words = (words.replace(ch, ' '))
-        matches = []
-        for i in words.split():
+            if ch in ws:
+                ws = (ws.replace(ch, ' '))
+        mt = []
+        for i in ws.split():
             if (len(i) > 3):
                 if (len(i) < 6 and i[-1] != u's'):
-                    matches.append(Category.objects.filter(title__contains=i))
+                    mt.append(Category.objects.filter(title__contains=i))
                 else:
-                    matches.append(Category.objects.filter(
+                    mt.append(Category.objects.filter(
                         title__contains=i[:-2]))
-        i_matches = ""
-        for i in matches:
+        i_mt = ""
+        for i in mt:
             try:
-                i_matches = """<a href='javascript:;' data-key='{0}'>
+                i_mt = """<a href='javascript:;' data-key='{0}'>
                     {1} </a>""".format(i.get().id, i.get().title)
             except:
                 pass
-        return mark_safe(i_matches)
+        return mark_safe(i_mt)
     suggestion.short_description = u'Sugestões'
 
     def used(self, obj=None):
