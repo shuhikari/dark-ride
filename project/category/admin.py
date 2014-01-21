@@ -3,6 +3,7 @@
 from django.contrib import admin
 from django_mptt_admin.admin import DjangoMpttAdmin
 from category.models import Category, OldCategory
+from django.utils.safestring import mark_safe
 
 
 class CategoryTree(DjangoMpttAdmin):
@@ -10,24 +11,37 @@ class CategoryTree(DjangoMpttAdmin):
 
 
 class OldCategoryAdmin(admin.ModelAdmin):
-    fields = ('category', 'suggestion', 'cod', 'title', )
-    readonly_fields = ('cod', 'title', 'suggestion', )
+    fields = ('category', 'suggestion', 'used', 'cod', 'title', )
+    readonly_fields = ('cod', 'title', 'suggestion', 'used', )
+    list_display = ('title', 'category', )
 
     def suggestion(self, obj=None):
-        word = u'serviço'
-        #TODO: split a frase por espaço e loopar todas que possuem
-        # mais de 4 caracteres para usar o filter do ORM
-        matches = Category.objects.filter(title__contains=word)
-        res = []
+        words = obj.title
+        for ch in ['(', ')', '[', ']', ';', ':', ',', '.', '-', '_']:
+            if ch in words:
+                words = (words.replace(ch, ' '))
+        matches = []
+        for i in words.split():
+            if (len(i) > 3):
+                if (len(i) < 6 and i[-1] != u's'):
+                    matches.append(Category.objects.filter(title__contains=i))
+                else:
+                    matches.append(Category.objects.filter(
+                        title__contains=i[:-2]))
+        i_matches = ""
         for i in matches:
-            #TODO: appendar todas os matches para criar a lista de
-            # sugestões. Tentar usar peso contando qual apareceu mais
-            # vezes para priorizar. Adicionar o link para selected
-            # comparando com a lista de categorias_pga
-            res.append(i).__dict__
-        return res
-
+            try:
+                i_matches = """<a href='javascript:;' data-key='{0}'>
+                    {1} </a>""".format(i.get().id, i.get().title)
+            except:
+                pass
+        return mark_safe(i_matches)
     suggestion.short_description = u'Sugestões'
+
+    def used(self, obj=None):
+        return this
+    used.short_description = u'Semelhantes'
+
 
 admin.site.register(Category, CategoryTree)
 admin.site.register(OldCategory, OldCategoryAdmin)
