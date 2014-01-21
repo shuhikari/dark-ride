@@ -12,16 +12,16 @@ import sys
 import site
 
 # Add the site-packages of the chosen virtualenv to work with
-site.addsitedir('~/.virtualenvs/myprojectenv/local/lib/python2.7/site-packages')
+site.addsitedir('/home/intip/.virtualenvs/dark/lib/python2.6/site-packages')
 
 # Add the app's directory to the PYTHONPATH
 sys.path.append('/home/intip/ET/dark-ride/project/')
-sys.path.append('/home/intip/ET/dark-ride/project/project')
+#sys.path.append('/home/intip/ET/dark-ride/project/project')
 
-os.environ['DJANGO_SETTINGS_MODULE'] = 'myproject.settings'
+#os.environ['DJANGO_SETTINGS_MODULE'] = 'project.settings'
 
 # Activate your virtual env
-activate_env=os.path.expanduser("~/.virtualenvs/dark/bin/activate_this.py")
+activate_env=os.path.expanduser("/home/intip/.virtualenvs/dark/bin/activate_this.py")
 execfile(activate_env, dict(__file__=activate_env))
 
 
