@@ -28,6 +28,7 @@ class OldCategory(models.Model):
         blank=True, verbose_name="Categoria(fk)")
     cod = models.IntegerField(u'Código')
     title = models.CharField(u'Título', max_length=255)
+    junk = models.CharField(u'Lixo', max_length=300, null=True, blank=True)
 
     def __unicode__(self):
         return self.title

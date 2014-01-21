@@ -39,9 +39,11 @@ class OldCategoryAdmin(admin.ModelAdmin):
     suggestion.short_description = u'Sugestões'
 
     def used(self, obj=None):
-        return this
+        return None
     used.short_description = u'Semelhantes'
 
+    class Media:
+        js = ('js/script.js',)
 
 admin.site.register(Category, CategoryTree)
 admin.site.register(OldCategory, OldCategoryAdmin)

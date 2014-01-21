@@ -19,7 +19,6 @@ class Command(BaseCommand):
     )
 
     def handle(self, csv_file, **options):
-        #import ipdb; ipdb.set_trace();
         if not csv_file:
             raise CommandError(u"""Digite --csv="nome_do_arquivo.csv" :
                 Diretório Base: {0} /docs/""".format(
@@ -31,18 +30,26 @@ class Command(BaseCommand):
                 url = os.path.abspath(
                     os.path.join(settings.BASE_DIR, os.pardir))
                 doc_dir = url + '/docs/'
-                arquivo = open(doc_dir + csv_file, 'rb')
-                spam_csv = csv.reader(arquivo, delimiter=';', quotechar='"')
-                cat = {}
-                for i in Category.objects.all():
-                    cat[i.key] = i
-                for idx, l in enumerate(spam_csv):
-                    OldCategory.objects.create(
-                        category=cat.get(l[2] if len(l) > 2 else ''),
-                        cod=int(l[0]),
-                        title=str(l[1]),
-                    )
-                    self.stdout.write(
-                        'Inserindo linha: {0}'.format(str(idx + 1)))
+                with open(doc_dir + csv_file, 'rb') as arquivo:
+                    spam_csv = csv.reader(
+                        arquivo, delimiter=';', quotechar='"')
+                    cat = {}
+                    lines = [i for i in spam_csv]
+                    OldCat = {}
+                    for i in Category.objects.all():
+                        cat[i.key] = i
+                    for i in lines:
+                        if len(i) > 2 and len(i[2]) > 11:
+                            OldCat[i[2]] = i[2]
+                    for idx, l in enumerate(lines):
+                        OldCategory.objects.create(
+                            category=cat.get(l[2] if len(l) > 2 else ''),
+                            cod=int(l[0]),
+                            title=str(l[1]),
+                            junk=OldCat.get(l[2] if len(l) > 2 else ''),
+                        )
+                        self.stdout.write(
+                            'Inserindo linha: {0}'.format(str(idx + 1))
+                        )
             except Exception as e:
                 print e
