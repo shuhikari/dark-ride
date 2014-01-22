@@ -43,7 +43,13 @@ class OldCategoryAdmin(admin.ModelAdmin):
     used.short_description = u'Semelhantes'
 
     class Media:
-        js = ('js/script.js',)
+        js = (
+            'js/jquery-1.9.1.min.js',
+            'js/script.js', 'js/chosen.js',
+        )
+        css = {
+            'all': ('css/chosen.min.css',)
+        }
 
 admin.site.register(Category, CategoryTree)
 admin.site.register(OldCategory, OldCategoryAdmin)
