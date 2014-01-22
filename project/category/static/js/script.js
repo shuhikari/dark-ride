@@ -6,8 +6,8 @@ $(document).ready(function(){
 	    width: '350px'
 	});
 	$('.field-suggestion').on('click', 'a', function(){
-		var key = $(this).data('key')
-		 $('#id_category').find('option[value="' + key + '"]').attr('selected', true);
-		 $('#id_category').trigger("chosen:updated");
+		var key = $(this).data('key');
+		$('#id_category').find('option[value="' + key + '"]').attr('selected', true);
+		$('#id_category').trigger("chosen:updated");
 	});
-})
+});
