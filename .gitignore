@@ -10,6 +10,7 @@ d]
 local_settings.py
 src/**
 project/media/*
+project/static
 
 # C extensions
 *.so
@@ -44,49 +45,8 @@ nosetests.xml
 .mr.developer.cfg
 .project
 .pydevproject
+**.idea**
 *~
 *.swp
 *.DS_Store
 **.~lock**
-
-# Projeto
-*.db
-*~
-local_settings.py
-src/**
-project/media/*
-
-# C extensions
-*.so
-
-# Packages
-*.egg
-*.egg-info
-dist
-build
-eggs
-parts
-bin
-var
-sdist
-develop-eggs
-.installed.cfg
-lib
-lib64
-
-# Installer logs
-pip-log.txt
-
-# Unit test / coverage reports
-.coverage
-.tox
-nosetests.xml
-
-# Translations
-*.mo
-
-# Mr Developer
-.mr.developer.cfg
-.project
-.pydevproject
-.idea
