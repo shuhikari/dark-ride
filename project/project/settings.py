@@ -90,5 +90,6 @@ STATIC_URL = '/static/'
 # This path must be configurated in Apache as Alias /static/admin django/admin/static/path
 ADMIN_MEDIA_PREFIX = '/static/admin/'
 
+STATIC_ROOT = BASE_DIR + '/static/'
 if os.path.exists(os.path.join(BASE_DIR, 'local_settings.py')):
     from local_settings import *
