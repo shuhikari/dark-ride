@@ -38,8 +38,10 @@ class OldCategoryAdmin(admin.ModelAdmin):
         i_mt = ""
         for i in mt:
             try:
-                i_mt = """<a href='javascript:;' data-key='{0}'>
-                    {1} </a>""".format(i.get().id, i.get().title)
+                desc = i.get(title=i.get().title)
+                for nome in desc.get_descendants(include_self=True):
+                    a = """<a href='javascript:;' data-key='{0}'>{1}</a>"""
+                    i_mt += a.format(nome.id, nome) + '</br>'
             except:
                 pass
         return mark_safe(i_mt)
