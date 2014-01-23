@@ -20,7 +20,7 @@ class OldCategoryAdmin(admin.ModelAdmin):
     form = OldCategoryForm
     fields = ('title', 'category', 'suggestion', 'used', 'cod', 'junk')
     readonly_fields = ('cod', 'title', 'suggestion', 'used', )
-    list_display = ('title', 'category', )
+    list_display = ('title', 'category', 'junk')
 
     def suggestion(self, obj=None):
         ws = obj.title
