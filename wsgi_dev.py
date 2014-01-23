@@ -9,10 +9,6 @@ https://docs.djangoproject.com/en/1.6/howto/deployment/wsgi/
 """
 import os
 import sys
-# import site
-
-# Add the site-packages of the chosen virtualenv to work with
-# site.addsitedir('/home/intip/.virtualenvs/dark/lib/python2.6/site-packages')
 
 # Activate your virtual env
 activate_env = os.path.expanduser(
@@ -22,6 +18,5 @@ execfile(activate_env, dict(__file__=activate_env))
 # Add the app's directory to the PYTHONPATH
 sys.path.append('/home/intip/ET/dark-ride/project/')
 
-os.environ.setdefault("DJANGO_SETTINGS_MODULE", "project.settings")
-from django.core.wsgi import get_wsgi_application
-application = get_wsgi_application()
+from project.wsgi import *
+
