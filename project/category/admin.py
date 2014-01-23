@@ -9,6 +9,7 @@ from .forms import OldCategoryForm
 from django.http import HttpResponse
 from datetime import datetime
 from django.conf.urls import patterns, url
+from django.core.urlresolvers import reverse
 import unicodecsv as csv
 
 
@@ -20,7 +21,13 @@ class OldCategoryAdmin(admin.ModelAdmin):
     form = OldCategoryForm
     fields = ('title', 'category', 'suggestion', 'used', 'cod', 'junk')
     readonly_fields = ('cod', 'title', 'suggestion', 'used', )
-    list_display = ('title', 'category', 'junk')
+    list_display = ('__unicode__', 'popup', 'category', 'junk')
+
+    def popup(self, obj=None):
+        u = reverse('admin:category_oldcategory_change', args=(obj.pk,))
+        return '<a href=\'javascript:window.open("{0}?_popup=1", "_blank","toolbar=no, scrollbars=no, resizable=yes, width=800, height=600")\'>POPUP</a>'.format(u)
+    popup.short_description = 'Popup'
+    popup.allow_tags = True
 
     def suggestion(self, obj=None):
         ws = obj.title
