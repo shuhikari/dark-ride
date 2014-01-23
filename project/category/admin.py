@@ -18,7 +18,7 @@ class CategoryTree(DjangoMpttAdmin):
 
 class OldCategoryAdmin(admin.ModelAdmin):
     form = OldCategoryForm
-    fields = ('title', 'category', 'suggestion', 'used', 'cod',)
+    fields = ('title', 'category', 'suggestion', 'used', 'cod', 'junk')
     readonly_fields = ('cod', 'title', 'suggestion', 'used', )
     list_display = ('title', 'category', )
 
