@@ -75,7 +75,7 @@ class OldCategoryAdmin(admin.ModelAdmin):
 
     class Media:
         js = (
-            'https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js',
+            'js/jquery-1.9.1.min.js',
             'js/script.js', 'js/chosen.js',
         )
         css = {
