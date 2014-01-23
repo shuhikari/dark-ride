@@ -64,8 +64,11 @@ WSGI_APPLICATION = 'project.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': os.path.join(BASE_DIR, 'db.db'),
+        'ENGINE': 'django.db.backends.postgresql_psycopg2',
+        'NAME': 'cat_pga',
+        'USER': 'cat_user',
+        'PASSWORD': '1234',
+        'HOST': 'localhost'
     }
 }
 
@@ -87,9 +90,11 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/1.6/howto/static-files/
 
 STATIC_URL = '/static/'
-# This path must be configurated in Apache as Alias /static/admin django/admin/static/path
+# This path must be configurated in Apache as
+# Alias /static/admin django/admin/static/path
 ADMIN_MEDIA_PREFIX = '/static/admin/'
 
 STATIC_ROOT = BASE_DIR + '/static/'
+
 if os.path.exists(os.path.join(BASE_DIR, 'local_settings.py')):
     from local_settings import *
