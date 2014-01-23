@@ -39,14 +39,11 @@ class OldCategoryAdmin(admin.ModelAdmin):
         for i in mt:
             try:
                 asc = i.get(title=i.get().title)
-                for nome in asc.get_ancestors():
+                for nome in asc.get_ancestors(include_self=True):
+                    level = nome.get_level()
                     a = """<a href='javascript:;' data-key='{0}'>{1}</a>"""
-                    i_mt += a.format(nome.id, nome) + '</br>'
-
-                desc = i.get(title=i.get().title)
-                for nome in desc.get_descendants(include_self=True):
-                    a = """<a href='javascript:;' data-key='{0}'>{1}</a>"""
-                    i_mt += a.format(nome.id, nome) + '</br>'
+                    i_mt += str('|-- ' * level) + a.format(
+                        nome.id, nome) + '</br>'
 
             except:
                 pass
