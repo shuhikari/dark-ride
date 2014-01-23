@@ -38,8 +38,13 @@ class OldCategoryAdmin(admin.ModelAdmin):
         i_mt = ""
         for i in mt:
             try:
-                i_mt = """<a href='javascript:;' data-key='{0}'>
-                    {1} </a>""".format(i.get().id, i.get().title)
+                asc = i.get(title=i.get().title)
+                for nome in asc.get_ancestors(include_self=True):
+                    level = nome.get_level()
+                    a = """<a href='javascript:;' data-key='{0}'>{1}</a>"""
+                    i_mt += str('|-- ' * level) + a.format(
+                        nome.id, nome) + '</br>'
+
             except:
                 pass
         return mark_safe(i_mt)
