@@ -86,10 +86,12 @@ USE_TZ = True
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/1.6/howto/static-files/
 
-STATIC_URL = '/static/'
+STATIC_URL = '/categorias/static/'
 # This path must be configurated in Apache as Alias /static/admin django/admin/static/path
 ADMIN_MEDIA_PREFIX = '/static/admin/'
 
 STATIC_ROOT = BASE_DIR + '/static/'
+FORCE_SCRIPT_NAME = SCRIPT_NAME = '/categorias'
+
 if os.path.exists(os.path.join(BASE_DIR, 'local_settings.py')):
     from local_settings import *
